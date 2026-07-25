@@ -5,7 +5,10 @@
    "MinimumApiVersion": "4.0.0", 
    "Description": "Receive letters and gifts from your friends. ",
    "UniqueID": "LoganDoidao.GiftsFromFriends",
-   "UpdateKeys": [ "Nexus:8794" ], 
+   "UpdateKeys": [ 
+        "GitHub:Mods-Stardew-Valley/Gifts-from-Friends-Compilation",
+        "Nexus:8794" 
+        ],
    "ContentPackFor": {
        "UniqueID": "DIGUS.MailFrameworkMod", 
        "MinimumVersion": "1.6.0"
