@@ -1,0 +1,249 @@
+[
+  {
+    "Id": "MailAbigail01",
+    "Text": "MailAbigail01",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Quartz",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Torch",
+        "Stack": 5
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Abigail",
+        "FriendshipLevel": 1
+      }
+    ]
+  },
+  {
+    "Id": "MailAbigail02",
+    "Text": "MailAbigail02",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Cave Carrot",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Slime",
+        "Stack": 10
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Abigail",
+        "FriendshipLevel": 2
+      }
+    ],
+    "MailReceived": [
+      "MailAbigail01"
+    ]
+  },
+  {
+    "Id": "MailAbigail03",
+    "Text": "MailAbigail03",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Geode",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Fire Quartz",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Abigail",
+        "FriendshipLevel": 3
+      }
+    ],
+    "MailReceived": [
+      "MailAbigail02"
+    ]
+  },
+  {
+    "Id": "MailAbigail04",
+    "Text": "MailAbigail04",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Void Essence",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Bat Wing",
+        "Stack": 3
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Abigail",
+        "FriendshipLevel": 4
+      }
+    ],
+    "MailReceived": [
+      "MailAbigail03"
+    ]
+  },
+  {
+    "Id": "MailAbigail05",
+    "Text": "MailAbigail05",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Solar Essence",
+        "Stack": 1
+      },
+      {
+        "Type": "BigCraftable",
+        "Name": "Skull Brazier",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Abigail",
+        "FriendshipLevel": 5
+      }
+    ],
+    "MailReceived": [
+      "MailAbigail04"
+    ]
+  },
+  {
+    "Id": "MailAbigail06",
+    "Text": "MailAbigail06",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Iron Bar",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Frozen Geode",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Abigail",
+        "FriendshipLevel": 6
+      }
+    ],
+    "MailReceived": [
+      "MailAbigail05"
+    ]
+  },
+  {
+    "Id": "MailAbigail07",
+    "Text": "MailAbigail07",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Chocolate Cake",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Bug Meat",
+        "Stack": 5
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Abigail",
+        "FriendshipLevel": 7
+      }
+    ],
+    "MailReceived": [
+      "MailAbigail06"
+    ]
+  },
+  {
+    "Id": "MailAbigail08",
+    "Text": "MailAbigail08",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Frozen Tear",
+        "Stack": 1
+      },
+      {
+        "Type": "BigCraftable",
+        "Name": "Stone Brazier",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Abigail",
+        "FriendshipLevel": 8
+      }
+    ],
+    "MailReceived": [
+      "MailAbigail07"
+    ]
+  },
+  {
+    "Id": "MailAbigail09",
+    "Text": "MailAbigail09",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Amethyst",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Farmer's Lunch",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Abigail",
+        "FriendshipLevel": 9
+      }
+    ],
+    "MailReceived": [
+      "MailAbigail08"
+    ]
+  },
+  {
+    "Id": "MailAbigail10",
+    "Text": "MailAbigail10",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Mega Bomb",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Life Elixir",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Abigail",
+        "FriendshipLevel": 10
+      }
+    ],
+    "MailReceived": [
+      "MailAbigail09"
+    ]
+  }
+]

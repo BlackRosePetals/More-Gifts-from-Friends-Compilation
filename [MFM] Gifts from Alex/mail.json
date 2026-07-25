@@ -1,0 +1,254 @@
+[
+  {
+    "Id": "MailAlex01",
+    "Text": "MailAlex01",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Egg",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Sunflower Seeds",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Alex",
+        "FriendshipLevel": 1
+      }
+    ]
+  },
+  {
+    "Id": "MailAlex02",
+    "Text": "MailAlex02",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Large Egg",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Milk",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Alex",
+        "FriendshipLevel": 2
+      }
+    ],
+    "MailReceived": [
+      "MailAlex01"
+    ]
+  },
+  {
+    "Id": "MailAlex03",
+    "Text": "MailAlex03",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Omelet",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Large Milk",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Alex",
+        "FriendshipLevel": 3
+      }
+    ],
+    "MailReceived": [
+      "MailAlex02"
+    ]
+  },
+  {
+    "Id": "MailAlex04",
+    "Text": "MailAlex04",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Coffee",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Field Snack",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Alex",
+        "FriendshipLevel": 4
+      }
+    ],
+    "MailReceived": [
+      "MailAlex03"
+    ]
+  },
+  {
+    "Id": "MailAlex05",
+    "Text": "MailAlex05",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Sunflower",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Ice Cream",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Alex",
+        "FriendshipLevel": 5
+      }
+    ],
+    "MailReceived": [
+      "MailAlex04"
+    ]
+  },
+  {
+    "Id": "MailAlex06",
+    "Text": "MailAlex06",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Pancakes",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Energy Tonic",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Alex",
+        "FriendshipLevel": 6
+      }
+    ],
+    "MailReceived": [
+      "MailAlex05"
+    ]
+  },
+  {
+    "Id": "MailAlex07",
+    "Text": "MailAlex07",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Pizza",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Joja Cola",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Alex",
+        "FriendshipLevel": 7
+      }
+    ],
+    "MailReceived": [
+      "MailAlex06"
+    ]
+  },
+  {
+    "Id": "MailAlex08",
+    "Text": "MailAlex08",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Salmon Dinner",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Ice Cream",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Alex",
+        "FriendshipLevel": 8
+      }
+    ],
+    "MailReceived": [
+      "MailAlex07"
+    ]
+  },
+  {
+    "Id": "MailAlex09",
+    "Text": "MailAlex09",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Chocolate Cake",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Coffee",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Alex",
+        "FriendshipLevel": 9
+      }
+    ],
+    "MailReceived": [
+      "MailAlex08"
+    ]
+  },
+  {
+    "Id": "MailAlex10",
+    "Text": "MailAlex10",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Complete Breakfast",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Rabbit's Foot",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Triple Shot Espresso",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Alex",
+        "FriendshipLevel": 10
+      }
+    ],
+    "MailReceived": [
+      "MailAlex09"
+    ]
+  }
+]

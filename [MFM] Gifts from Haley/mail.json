@@ -1,0 +1,254 @@
+[
+  {
+    "Id": "MailHaley01",
+    "Text": "MailHaley01",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Daffodil",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Fairy Seeds",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Haley",
+        "FriendshipLevel": 1
+      }
+    ]
+  },
+  {
+    "Id": "MailHaley02",
+    "Text": "MailHaley02",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Spangle Seeds",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Cookie",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Haley",
+        "FriendshipLevel": 2
+      }
+    ],
+    "MailReceived": [
+      "MailHaley01"
+    ]
+  },
+  {
+    "Id": "MailHaley03",
+    "Text": "MailHaley03",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Tulip",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Honey",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Haley",
+        "FriendshipLevel": 3
+      }
+    ],
+    "MailReceived": [
+      "MailHaley02"
+    ]
+  },
+  {
+    "Id": "MailHaley04",
+    "Text": "MailHaley04",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Coffee",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Cloth",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Haley",
+        "FriendshipLevel": 4
+      }
+    ],
+    "MailReceived": [
+      "MailHaley03"
+    ]
+  },
+  {
+    "Id": "MailHaley05",
+    "Text": "MailHaley05",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Sunflower",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Ice Cream",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Haley",
+        "FriendshipLevel": 5
+      }
+    ],
+    "MailReceived": [
+      "MailHaley04"
+    ]
+  },
+  {
+    "Id": "MailHaley06",
+    "Text": "MailHaley06",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Fruit Salad",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Fairy Rose",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Haley",
+        "FriendshipLevel": 6
+      }
+    ],
+    "MailReceived": [
+      "MailHaley05"
+    ]
+  },
+  {
+    "Id": "MailHaley07",
+    "Text": "MailHaley07",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Pink Cake",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Poppy",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Haley",
+        "FriendshipLevel": 7
+      }
+    ],
+    "MailReceived": [
+      "MailHaley06"
+    ]
+  },
+  {
+    "Id": "MailHaley08",
+    "Text": "MailHaley08",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Chocolate Cake",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Summer Spangle",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Haley",
+        "FriendshipLevel": 8
+      }
+    ],
+    "MailReceived": [
+      "MailHaley07"
+    ]
+  },
+  {
+    "Id": "MailHaley09",
+    "Text": "MailHaley09",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Pearl",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Fairy Rose",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Haley",
+        "FriendshipLevel": 9
+      }
+    ],
+    "MailReceived": [
+      "MailHaley08"
+    ]
+  },
+  {
+    "Id": "MailHaley10",
+    "Text": "MailHaley10",
+    "Attachments": [
+      {
+        "Type": "BigCraftable",
+        "Name": "Camera",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Pink Cake",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Sunflower",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Haley",
+        "FriendshipLevel": 10
+      }
+    ],
+    "MailReceived": [
+      "MailHaley09"
+    ]
+  }
+]

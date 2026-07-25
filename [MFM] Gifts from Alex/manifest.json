@@ -1,0 +1,11 @@
+{
+	"Name": "Gifts from Alex - Meals and Motivation for Hard Work",
+	"Author": "LoganDoidao",
+	"Version": "1.0.2",
+	"Description": "Receive the motivation (gifts from Alex) you need to face the tough days at work.",
+	"UniqueID": "LoganDoidao.GiftsFromAlex",
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod"
+	},
+	"UpdateKeys": ["Nexus:46693"]
+}

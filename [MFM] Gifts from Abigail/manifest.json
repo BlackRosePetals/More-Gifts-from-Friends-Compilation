@@ -1,0 +1,11 @@
+{
+  "Name": "Gifts from Abigail - Spooky Mail and Cave Loot from a Goth Girl",
+  "Author": "LoganDoidao",
+  "Version": "1.0.1",
+  "Description": "Adds progressive, thematic letters and cavern loot from Abigail based on your friendship level up to 14 hearts.",
+  "UniqueID": "LoganDoidao.GiftsFromAbigail",
+  "UpdateKeys": ["Nexus:46586"],
+  "ContentPackFor": {
+    "UniqueID": "Digus.MailFrameworkMod"
+  }
+}
