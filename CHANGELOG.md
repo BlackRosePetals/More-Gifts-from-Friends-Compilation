@@ -3,6 +3,22 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
+## Unreleased
+
+
+
+### 🐛 Correções
+
+
+- Use git-cliff action in changelog workflow
+
+
+### 📚 Documentação
+
+
+- atualiza CHANGELOG.md [skip ci]
+
+
 ## v1.6.0 - 2026-07-25
 
 
