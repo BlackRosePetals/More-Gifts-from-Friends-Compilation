@@ -18,6 +18,14 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 - atualiza CHANGELOG.md [skip ci]
 
+- atualiza CHANGELOG.md [skip ci]
+
+
+### 🔧 Manutenção
+
+
+- Add GitHub as update source
+
 
 ## v1.6.0 - 2026-07-25
 
