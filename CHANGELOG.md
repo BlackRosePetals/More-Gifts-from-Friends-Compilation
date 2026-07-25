@@ -3,6 +3,26 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
+## Unreleased
+
+
+
+### Outras alterações
+
+
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
+
+- Add 'Gifts from Elliott' and 'Gifts from Sam' mail packs
+
+Introduce two Mail Framework content packs: Gifts from Elliott and Gifts from Sam. Adds manifests, mail.json definitions (IDs, attachments, friendship conditions, mail chains) and extensive i18n localization files (default plus cs,de,es,fr,hu,it,ja,ko,nl,pl,pt,ru,tr,uk,zh) for both packs to provide localized mail text and attachments.
+
+
+### 📚 Documentação
+
+
+- atualiza CHANGELOG.md [skip ci]
+
+
 ## v1.5.0 - 2026-07-25
 
 
