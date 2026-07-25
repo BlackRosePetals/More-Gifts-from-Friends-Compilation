@@ -3,25 +3,47 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
-## Unreleased
+## v1.5.0 - 2026-07-25
 
 
 
 ### Outras alterações
 
 
-- Initial commit
+- Rename mod folders and add Shane gifts mod
+
+Standardize mod folder naming from '[MFM] {Name} Gifts' to '[MFM] Gifts from {Name}'. Add new 'Gifts from Shane' mod with multilingual support. Update manifest versions to semantic versioning (1.0 → 1.0.0) and increase MinimumApiVersion for Pierre, Robin, and Wizard mods. Normalize line endings in JSON files. Add root manifest.json for compilation support.
+
+- Add title for More Gifts From Friends Compilation
+
+- Enhance changelog workflow with versioning and release
+
+Updated workflow to read version from manifest and create a tag if the version changes. Added steps for generating release notes and creating a GitHub release with a zip package.
+
+- Update commit sorting and parser configurations
+
+Changed sort_commits from 'oldest' to 'newest' and updated commit_parsers to include a release group while removing style and build groups.
+
+- Add files via upload
+
+- Move changelog workflow to .github/workflows
+
+Relocate changelog.yml to the standard .github/workflows directory where GitHub Actions workflows should be stored.
+
+- Add GitHub Action to update CHANGELOG.md
+
+- Add changelog configuration in cliff.toml
 
 - V 1.0.0 do mod Gifts from Sandy adicionada
 
 Todas as modificações e alterações foram salvas no repositório principal esta é somente uma copia para integrar a compilação.
 
-- Add changelog configuration in cliff.toml
+- Initial commit
 
-- Add GitHub Action to update CHANGELOG.md
 
-- Move changelog workflow to .github/workflows
+### 📚 Documentação
 
-Relocate changelog.yml to the standard .github/workflows directory where GitHub Actions workflows should be stored.
+
+- atualiza CHANGELOG.md [skip ci]
 
 
