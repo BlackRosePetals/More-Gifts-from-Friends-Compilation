@@ -1,0 +1,111 @@
+[
+	{	"Id":"ResetJas",
+		"AutoOpen": true,
+		"Repeatable": false,
+   
+	    "MailReceivedToRemove": [
+			"JasGift1",
+			"JasGift2",
+			"JasGift3",
+			"JasGift4",
+			"JasGift5",
+			"JasGift6",
+			"JasGift7",
+			"JasGift8",
+			"JasGift9",
+			"JasGift10"
+		],
+	},
+
+
+  {
+    "Id": "JasGift1",
+    "Text": "JasGift1",
+    "WhichBG": 1,
+    "Attachments": [
+      { "Type": "Object", "Name": "Daffodil", "Stack": 1 }
+    ],
+    "FriendshipConditions": [ { "NpcName": "Jas", "FriendshipLevel": 1 } ]
+  },
+  
+  {
+    "Id": "JasGift2",
+    "Text": "JasGift2",
+    "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Dandelion", "Stack": 1 } ],
+	"MailReceived": [ "JasGift1" ],
+    "FriendshipConditions": [ { "NpcName": "Jas", "FriendshipLevel": 2 } ]
+  },
+  
+  {
+    "Id": "JasGift3",
+    "Text": "JasGift3",
+    "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Wild Horseradish", "Stack": 1 } ],
+	"MailReceived": [ "JasGift2" ],
+    "FriendshipConditions": [ { "NpcName": "Jas", "FriendshipLevel": 3 } ]
+  },
+  
+  {
+    "Id": "JasGift4",
+    "Text": "JasGift4",
+    "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Leek", "Stack": 1 } ],
+	"MailReceived": [ "JasGift3" ],
+    "FriendshipConditions": [ { "NpcName": "Jas", "FriendshipLevel": 4 } ]
+  },
+  
+  {
+    "Id": "JasGift5",
+    "Text": "JasGift5",
+    "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Sweet Pea", "Stack": 1 } ],
+	"MailReceived": [ "JasGift4" ],
+    "FriendshipConditions": [ { "NpcName": "Jas", "FriendshipLevel": 5 } ]
+  },
+  
+  {
+    "Id": "JasGift6",
+    "Text": "JasGift6",
+    "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Dried Starfish", "Stack": 1 } ],
+	"MailReceived": [ "JasGift5" ],
+    "FriendshipConditions": [ { "NpcName": "Jas", "FriendshipLevel": 6 } ]
+  },
+  
+  {
+    "Id": "JasGift7",
+    "Text": "JasGift7",
+    "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Crocus", "Stack": 1 } ],
+	"MailReceived": [ "JasGift6" ],
+    "FriendshipConditions": [ { "NpcName": "Jas", "FriendshipLevel": 7 } ]
+  },
+  
+  {
+    "Id": "JasGift8",
+    "Text": "JasGift8",
+    "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Fairy Rose", "Stack": 1 } ],
+	"MailReceived": [ "JasGift7" ],
+    "FriendshipConditions": [ { "NpcName": "Jas", "FriendshipLevel": 8 } ]
+  },
+  
+  {
+    "Id": "JasGift9",
+    "Text": "JasGift9",
+    "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Duck Feather", "Stack": 1 } ],
+	"MailReceived": [ "JasGift8" ],
+    "FriendshipConditions": [ { "NpcName": "Jas", "FriendshipLevel": 9 } ]
+  },
+  
+  {
+    "Id": "JasGift10",
+    "Text": "JasGift10",
+    "WhichBG": 1,
+    "Attachments": [ { "Type": "Object", "Name": "Rainbow Shell", "Stack": 1 } ],
+	"MailReceived": [ "JasGift9" ],
+    "FriendshipConditions": [ { "NpcName": "Jas", "FriendshipLevel": 10 } ]
+  }
+]

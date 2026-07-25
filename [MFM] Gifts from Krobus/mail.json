@@ -1,0 +1,258 @@
+[
+  {
+    "Id": "MailKrobus01",
+    "Text": "MailKrobus01",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Coal",
+        "Stack": 10
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Krobus",
+        "FriendshipLevel": 1
+      }
+    ]
+  },
+
+  {
+    "Id": "MailKrobus02",
+    "Text": "MailKrobus02",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Slime",
+        "Stack": 5
+      },
+      {
+        "Type": "Object",
+        "Name": "Bug Meat",
+        "Stack": 5
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Krobus",
+        "FriendshipLevel": 2
+      }
+    ],
+    "MailReceived": [
+      "MailKrobus01"
+    ]
+  },
+
+  {
+    "Id": "MailKrobus03",
+    "Text": "MailKrobus03",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Bat Wing",
+        "Stack": 4
+      },
+      {
+        "Type": "Object",
+        "Name": "Bone Fragment",
+        "Stack": 4
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Krobus",
+        "FriendshipLevel": 3
+      }
+    ],
+    "MailReceived": [
+      "MailKrobus02"
+    ]
+  },
+
+  {
+    "Id": "MailKrobus04",
+    "Text": "MailKrobus04",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Void Essence",
+        "Stack": 2
+      },
+      {
+        "Type": "Object",
+        "Name": "Coal",
+        "Stack": 5
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Krobus",
+        "FriendshipLevel": 4
+      }
+    ],
+    "MailReceived": [
+      "MailKrobus03"
+    ]
+  },
+
+  {
+    "Id": "MailKrobus05",
+    "Text": "MailKrobus05",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Strange Bun",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Bug Meat",
+        "Stack": 3
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Krobus",
+        "FriendshipLevel": 5
+      }
+    ],
+    "MailReceived": [
+      "MailKrobus04"
+    ]
+  },
+
+  {
+    "Id": "MailKrobus06",
+    "Text": "MailKrobus06",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Solar Essence",
+        "Stack": 3
+      },
+      {
+        "Type": "Object",
+        "Name": "Slime",
+        "Stack": 2
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Krobus",
+        "FriendshipLevel": 6
+      }
+    ],
+    "MailReceived": [
+      "MailKrobus05"
+    ]
+  },
+
+  {
+    "Id": "MailKrobus07",
+    "Text": "MailKrobus07",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Monster Musk",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Bone Fragment",
+        "Stack": 4
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Krobus",
+        "FriendshipLevel": 7
+      }
+    ],
+    "MailReceived": [
+      "MailKrobus06"
+    ]
+  },
+
+  {
+    "Id": "MailKrobus08",
+    "Text": "MailKrobus08",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Void Egg",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Bat Wing",
+        "Stack": 4
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Krobus",
+        "FriendshipLevel": 8
+      }
+    ],
+    "MailReceived": [
+      "MailKrobus07"
+    ]
+  },
+
+  {
+    "Id": "MailKrobus09",
+    "Text": "MailKrobus09",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Warp Totem: Farm",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Strange Bun",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Krobus",
+        "FriendshipLevel": 9
+      }
+    ],
+    "MailReceived": [
+      "MailKrobus08"
+    ]
+  },
+
+  {
+    "Id": "MailKrobus10",
+    "Text": "MailKrobus10",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Omni Geode",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Void Essence",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Solar Essence",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Krobus",
+        "FriendshipLevel": 10
+      }
+    ],
+    "MailReceived": [
+      "MailKrobus09"
+    ]
+  }
+]

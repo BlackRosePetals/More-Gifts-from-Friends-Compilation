@@ -1,0 +1,190 @@
+[
+  {
+    "Id": "Clint_1",
+    "Text": "clint.1",
+	
+	//lv 1
+	//Stone 390
+	//Quartz 80
+	
+    "Attachments": [
+      { "Type": "Object", "Index": "390", "Stack": 10 },
+	  { "Type": "Object", "Name": "Quartz", "Stack": 2 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Clint", "FriendshipLevel": 1 }
+    ]
+  },
+
+  {
+    "Id": "Clint_2",
+    "Text": "clint.2",
+	
+	//lv 2
+	//Copper Ore 378
+	//Eggplant Parmesan 231
+	
+    "Attachments": [
+      { "Type": "Object", "Index": "378", "Stack": 10 },
+      { "Type": "Object", "Index": "231", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Clint", "FriendshipLevel": 2 }
+    ],
+    "MailReceived": [ "Clint_1" ]
+  },
+
+  {
+    "Id": "Clint_3",
+    "Text": "clint.3",
+	
+	//lv 3
+	//Geode 535
+	//Coal 382
+	
+    "Attachments": [
+      { "Type": "Object", "Index": "535", "Stack": 5 },
+      { "Type": "Object", "Name": "Coal", "Stack": 10 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Clint", "FriendshipLevel": 3 }
+    ],
+    "MailReceived": [ "Clint_2" ]
+  },
+
+  {
+    "Id": "Clint_4",
+    "Text": "clint.4",
+	
+	//lv 4
+	//Iron Ore 380
+	//Cranberry Sauce 238
+	
+    "Attachments": [
+      { "Type": "Object", "Name": "Iron Ore", "Stack": 5 },
+      { "Type": "Object", "Name": "Cranberry Sauce", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Clint", "FriendshipLevel": 4 }
+    ],
+    "MailReceived": [ "Clint_3" ]
+  },
+
+  {
+    "Id": "Clint_5",
+    "Text": "clint.5",
+	
+	//lv 5
+	// Frozen Geode 536
+	// Bomb	287
+	
+    "Attachments": [
+      { "Type": "Object", "Name": "Frozen Geode", "Stack": 2 },
+      { "Type": "Object", "Name": "Bomb", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Clint", "FriendshipLevel": 5 }
+    ],
+    "MailReceived": [ "Clint_4" ]
+  },
+
+  {
+    "Id": "Clint_6",
+    "Text": "clint.6",
+	
+	//lv 6
+	//Fire Quartz 82
+	//Cranberry Sauce 238
+	
+    "Attachments": [
+      { "Type": "Object", "Name": "Fire Quartz", "Stack": 3 },
+      { "Type": "Object", "Name": "Cranberry Sauce", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Clint", "FriendshipLevel": 6 }
+    ],
+    "MailReceived": [ "Clint_5" ]
+  },
+
+  {
+    "Id": "Clint_7",
+    "Text": "clint.7",
+	
+	//lv 7
+	//Magma Geode 537
+	//Miner's Treat 243
+	
+    "Attachments": [
+      { "Type": "Object", "Name": "Magma Geode", "Stack": 3 },
+      { "Type": "Object", "Index": "243", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Clint", "FriendshipLevel": 7 }
+    ],
+    "MailReceived": [ "Clint_6" ]
+  },
+
+  {
+    "Id": "Clint_8",
+    "Text": "clint.8",
+	
+	//lv 8
+	//Mega Bomb 288
+	//Gold Ore 384
+	
+    "Attachments": [
+      { "Type": "Object", "Name": "Gold Ore", "Stack": 5 },
+      { "Type": "Object", "Name": "Mega Bomb", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Clint", "FriendshipLevel": 8 }
+    ],
+    "MailReceived": [ "Clint_7" ]
+  },
+
+  {
+    "Id": "Clint_9",
+    "Text": "clint.9",
+	
+	//lv 9
+	//Iridium Ore 386
+	////Miner's Treat 243
+
+    "Attachments": [
+      { "Type": "Object", "Name": "Iridium Ore", "Stack": 5 },
+      { "Type": "Object", "Index": "243", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Clint", "FriendshipLevel": 9 }
+    ],
+    "MailReceived": [ "Clint_8" ]
+  },
+
+  {
+    "Id": "Clint_10",
+    "Text": "clint.10",
+	
+	//lv 10
+	//Omni Geode 749
+	//The Slammer (W)28
+	
+    "Attachments": [
+      { "Type": "Object", "Name": "Omni Geode", "Stack": 3 },
+      { "Type": "Weapon", "Name": "The Slammer", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Clint", "FriendshipLevel": 10 }
+    ],
+    "MailReceived": [ "Clint_9" ]
+  }
+]

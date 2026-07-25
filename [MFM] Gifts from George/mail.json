@@ -1,0 +1,253 @@
+[
+  {
+    "Id": "MailGeorge01",
+    "Text": "MailGeorge01",
+    "Attachments": [
+      {
+        "Type": "Object",
+		"Index": "390",
+        "Stack": 15
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "George",
+        "FriendshipLevel": 1
+      }
+    ]
+  },
+
+  {
+    "Id": "MailGeorge02",
+    "Text": "MailGeorge02",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Parsnip",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Common Mushroom",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "George",
+        "FriendshipLevel": 2
+      }
+    ],
+    "MailReceived": [
+      "MailGeorge01"
+    ]
+  },
+
+  {
+    "Id": "MailGeorge03",
+    "Text": "MailGeorge03",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Green Bean",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Leek",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "George",
+        "FriendshipLevel": 3
+      }
+    ],
+    "MailReceived": [
+      "MailGeorge02"
+    ]
+  },
+
+  {
+    "Id": "MailGeorge04",
+    "Text": "MailGeorge04",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Hashbrowns",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Bread",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "George",
+        "FriendshipLevel": 4
+      }
+    ],
+    "MailReceived": [
+      "MailGeorge03"
+    ]
+  },
+
+  {
+    "Id": "MailGeorge05",
+    "Text": "MailGeorge05",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Honey",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Omelet",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "George",
+        "FriendshipLevel": 5
+      }
+    ],
+    "MailReceived": [
+      "MailGeorge04"
+    ]
+  },
+
+  {
+    "Id": "MailGeorge06",
+    "Text": "MailGeorge06",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Fried Mushroom",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Cheese",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "George",
+        "FriendshipLevel": 6
+      }
+    ],
+    "MailReceived": [
+      "MailGeorge05"
+    ]
+  },
+
+  {
+    "Id": "MailGeorge07",
+    "Text": "MailGeorge07",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Coffee",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Pepper Poppers",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "George",
+        "FriendshipLevel": 7
+      }
+    ],
+    "MailReceived": [
+      "MailGeorge06"
+    ]
+  },
+
+  {
+    "Id": "MailGeorge08",
+    "Text": "MailGeorge08",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Pumpkin Soup",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Bread",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "George",
+        "FriendshipLevel": 8
+      }
+    ],
+    "MailReceived": [
+      "MailGeorge07"
+    ]
+  },
+
+  {
+    "Id": "MailGeorge09",
+    "Text": "MailGeorge09",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Cheese Cauliflower",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Farmer's Lunch",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "George",
+        "FriendshipLevel": 9
+      }
+    ],
+    "MailReceived": [
+      "MailGeorge08"
+    ]
+  },
+
+  {
+    "Id": "MailGeorge10",
+    "Text": "MailGeorge10",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Leek",
+        "Stack": 3
+      },
+      {
+        "Type": "Object",
+        "Name": "Complete Breakfast",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "George",
+        "FriendshipLevel": 10
+      }
+    ],
+    "MailReceived": [
+      "MailGeorge09"
+    ]
+  }
+]

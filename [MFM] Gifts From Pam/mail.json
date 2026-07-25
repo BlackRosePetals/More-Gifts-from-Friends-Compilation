@@ -1,0 +1,140 @@
+[
+  {
+    "Id": "Pam_Friendship_1",
+    "Text": "Pam_Friendship_1",
+    "Attachments": [
+	  { "Type": "Object", "Name": "Trash", "Stack": 1 },
+      { "Type": "Object", "Name": "Soggy Newspaper", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Pam", "FriendshipLevel": 1 }
+    ]
+  },
+
+  {
+    "Id": "Pam_Friendship_2",
+    "Text": "Pam_Friendship_2",
+    "Attachments": [
+      { "Type": "Object", "Name": "Hops Starter", "Stack": 1 },
+      { "Type": "Object", "Name": "Joja Cola", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Pam", "FriendshipLevel": 2 }
+    ],
+    "MailReceived": ["Pam_Friendship_1"]
+  },
+
+  {
+    "Id": "Pam_Friendship_3",
+    "Text": "Pam_Friendship_3",
+    "Attachments": [
+      { "Type": "Object", "Name": "Bread", "Stack": 1 },
+      { "Type": "Object", "Name": "Beer", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Pam", "FriendshipLevel": 3 }
+    ],
+    "MailReceived": ["Pam_Friendship_2"]
+  },
+
+  {
+    "Id": "Pam_Friendship_4",
+    "Text": "Pam_Friendship_4",
+    "Attachments": [
+      { "Type": "Object", "Name": "Coffee Bean", "Stack": 1 },
+      { "Type": "Object", "Name": "Energy Tonic", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Pam", "FriendshipLevel": 4 }
+    ],
+    "MailReceived": ["Pam_Friendship_3"]
+  },
+
+  {
+    "Id": "Pam_Friendship_5",
+    "Text": "Pam_Friendship_5",
+    "Attachments": [
+      { "Type": "Object", "Name": "Battery Pack", "Stack": 1 },
+      { "Type": "Object", "Name": "Mead", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Pam", "FriendshipLevel": 5 }
+    ],
+    "MailReceived": ["Pam_Friendship_4"]
+  },
+
+  {
+    "Id": "Pam_Friendship_6",
+    "Text": "Pam_Friendship_6",
+    "Attachments": [
+      { "Type": "Object", "Name": "Glazed Yams", "Stack": 1 },
+      { "Type": "Object", "Name": "Cranberry Candy", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Pam", "FriendshipLevel": 6 }
+    ],
+    "MailReceived": ["Pam_Friendship_5"]
+  },
+
+  {
+    "Id": "Pam_Friendship_7",
+    "Text": "Pam_Friendship_7",
+    "Attachments": [
+      { "Type": "Object", "Name": "Pale Ale", "Stack": 1 },
+      { "Type": "Object", "Name": "Hashbrowns", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Pam", "FriendshipLevel": 7 }
+    ],
+    "MailReceived": ["Pam_Friendship_6"]
+  },
+
+  {
+    "Id": "Pam_Friendship_8",
+    "Text": "Pam_Friendship_8",
+    "Attachments": [
+      { "Type": "Object", "Name": "Coffee", "Stack": 1 },
+      { "Type": "Object", "Name": "Solar Essence", "Stack": 1 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Pam", "FriendshipLevel": 8 }
+    ],
+    "MailReceived": ["Pam_Friendship_7"]
+  },
+
+  {
+    "Id": "Pam_Friendship_9",
+    "Text": "Pam_Friendship_9",
+    "Attachments": [
+      { "Type": "Object", "Name": "Warp Totem: Desert", "Stack": 1 },
+      { "Type": "Object", "Name": "Gold Ore", "Stack": 5 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Pam", "FriendshipLevel": 9 }
+    ],
+    "MailReceived": ["Pam_Friendship_8"]
+  },
+
+  {
+    "Id": "Pam_Friendship_10",
+    "Text": "Pam_Friendship_10",
+    "Attachments": [
+      { "Type": "Object", "Name": "Prize Ticket", "Stack": 1 },
+      { "Type": "Object", "Name": "Iridium Ore", "Stack": 3 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Pam", "FriendshipLevel": 10 }
+    ],
+    "MailReceived": ["Pam_Friendship_9"]
+  }
+]

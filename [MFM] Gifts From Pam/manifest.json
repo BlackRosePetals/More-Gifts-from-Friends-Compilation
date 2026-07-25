@@ -1,0 +1,17 @@
+{
+    "Name": "Gifts from Pam",
+    "Author": "LoganDoidao",
+    "Version": "1.1.1",
+    "Description": "Adds personalized mail gifts from Pam based on friendship levels.",
+    "UniqueID": "LoganDoidaoGiftsFromPam",
+    "UpdateKeys": ["Nexus:45625" ],
+    "ContentPackFor": {
+        "UniqueID": "Digus.MailFrameworkMod"
+    },
+    "Dependencies": [
+        {
+            "UniqueID": "Digus.MailFrameworkMod",
+            "IsRequired": true
+        }
+    ]
+}

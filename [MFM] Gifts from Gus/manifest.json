@@ -1,0 +1,14 @@
+{
+  "Name": "Gifts From Gus",
+  "Author": "LoganDoidao",
+  "Version": "1.0.0",
+  "Description": "Receive homemade meals, drinks, and comforting gifts from Gus as your friendship grows, featuring balanced progression and immersive mail.",
+  "UniqueID": "LoganDoidao.GiftsFromGus",
+  "MinimumApiVersion": "3.18.0",
+  "UpdateKeys": [ "Nexus:45599" ],
+
+  "ContentPackFor": {
+    "UniqueID": "DIGUS.MailFrameworkMod",
+    "MinimumVersion": "1.20.0"
+  }
+}

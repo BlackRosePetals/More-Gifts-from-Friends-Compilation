@@ -1,0 +1,12 @@
+{
+  "Name": "Gifts from Krobus - A Gentle Shadow of the Sewers",
+  "Author": "LoganDoidao",
+  "Version": "1.0.1",
+  "Description": "Krobus sends progressive gifts through the mail as your friendship grows.",
+  "UniqueID": "LoganDoidao.GiftsFromKrobus",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": ["Nexus:46495"],
+  "ContentPackFor": {
+    "UniqueID": "DIGUS.MailFrameworkMod"
+  }
+}

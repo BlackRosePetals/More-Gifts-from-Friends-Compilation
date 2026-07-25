@@ -1,0 +1,242 @@
+[
+{	"Id":"ResetEmily",
+	//"Text": "O reset do mod^^Gifts From Emily^^Foi feito com sucesso!",
+	"AutoOpen": true,
+	"MailNotReceived": ["ResetEmily"],
+	   
+	"MailReceivedToRemove": [
+	   "GiftsFromEmily_Lv1",
+   	   "GiftsFromEmily_Lv1_Sewing",
+	   "GiftsFromEmily_Lv2",
+   	   "GiftsFromEmily_Lv2_Sewing",
+	   "GiftsFromEmily_Lv3",
+   	   "GiftsFromEmily_Lv3_Sewing",
+	   "GiftsFromEmily_Lv4",
+   	   "GiftsFromEmily_Lv4_Sewing",
+	   "GiftsFromEmily_Lv5",
+   	   "GiftsFromEmily_Lv5_Sewing",
+	   "GiftsFromEmily_Lv6",
+   	   "GiftsFromEmily_Lv6_Sewing",
+	   "GiftsFromEmily_Lv7",
+   	   "GiftsFromEmily_Lv7_Sewing",
+	   "GiftsFromEmily_Lv8",
+   	   "GiftsFromEmily_Lv8_Sewing",
+	   "GiftsFromEmily_Lv9",
+   	   "GiftsFromEmily_Lv9_Sewing",
+	   "GiftsFromEmily_Lv10",
+   	   "GiftsFromEmily_Lv10_Sewing",
+	],
+	//"AdditionalMailReceived": ["ResetEmily"],
+},
+
+  {
+    "Id": "GiftsFromEmily_Lv1",
+    "Text": "emily.mail.lv1",
+    "Attachments": [
+      { "Type": "Object", "Name": "Quartz",  "Index": "80", "Stack": 1 }, // Quartzo
+      { "Type": "Object", "Name": "Torch",   "Index": "93", "Stack": 1 }  // Tocha
+    ],
+    "ExpandedPreconditions": ["f Emily 250"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv1_Sewing",
+    "Text": "emily.mail.lv1.sewing",
+    "Attachments": [
+      { "Type": "Object", "Name": "Fiber", "Index": "771", "Stack": 15 } // Fibra
+    ],
+    "ExpandedPreconditions": ["f Emily 250/e 591"],
+	"MailReceived": ["GiftsFromEmily_Lv1"],
+	
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv2",
+    "Text": "emily.mail.lv2",
+    "Attachments": [
+      { "Type": "Object", "Name": "Hazelnut", "Index": "408", "Stack": 1 }, // Avelã
+      { "Type": "Object", "Name": "Cauliflower Seeds",  "Index": "474", "Stack": 1 }  // Semente de Couve-Flor
+    ],
+    "ExpandedPreconditions": ["f Emily 500"],
+	"MailReceived": ["GiftsFromEmily_Lv1"],
+   },
+
+  {
+    "Id": "GiftsFromEmily_Lv2_Sewing",
+    "Text": "emily.mail.lv2.sewing",
+    "Attachments": [
+      { "Type": "Object", "Name": "Wool", "Index": "440", "Stack": 1 } // Lã
+    ],
+    "ExpandedPreconditions": ["f Emily 500/e 591"],
+	"MailReceived": ["GiftsFromEmily_Lv1_Sewing"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv3",
+    "Text": "emily.mail.lv3",
+    "Attachments": [
+      { "Type": "Object", "Name": "Salad",  "Index": "196", "Stack": 1 }, // Salada
+      { "Type": "Object", "Name": "Fiddlehead Fern", "Index": "259", "Stack": 1 }  // Espora de Samambaia
+    ],
+    "ExpandedPreconditions": ["f Emily 750"],
+	"MailReceived": ["GiftsFromEmily_Lv2"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv3_Sewing",
+    "Text": "emily.mail.lv3.sewing",
+    "Attachments": [
+      { "Type": "Boots", "Name": "Rubber Boots", "Index": "506", "Stack": 1 } // Botas de Borracha
+    ],
+    "ExpandedPreconditions": ["f Emily 750/e 591"],
+	"MailReceived": ["GiftsFromEmily_Lv2_Sewing"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv4",
+    "Text": "emily.mail.lv4",
+    "Attachments": [
+      { "Type": "Object", "Name": "Topaz", "Index": "82",  "Stack": 1 }, // Topázio
+      { "Type": "BigCraftable",  "Name": "House Plant", "Index": "0", "Stack": 1 }  // Planta de Interior
+    ],
+    "ExpandedPreconditions": ["f Emily 1000"],
+	"MailReceived": ["GiftsFromEmily_Lv3"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv4_Sewing",
+    "Text": "emily.mail.lv4.sewing",
+    "Attachments": [
+      { "Type": "Object", "Name": "Winter Root", "Index": "412", "Stack": 1 } // Raiz de Inverno
+    ],
+    "ExpandedPreconditions": ["f Emily 1000/e 591"],
+	"MailReceived": ["GiftsFromEmily_Lv3_Sewing"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv5",
+    "Text": "emily.mail.lv5",
+    "Attachments": [
+      { "Type": "Object", "Name": "Rice Pudding", "Index": "232", "Stack": 1 }, // Arroz Doce
+      { "Type": "Object", "Name": "Earth Crystal", "Index": "86", "Stack": 1 }  // Cristal de Terra
+    ],
+    "ExpandedPreconditions": ["f Emily 1250"],
+	"MailReceived": ["GiftsFromEmily_Lv4"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv5_Sewing",
+    "Text": "emily.mail.lv5.sewing",
+    "Attachments": [
+      { "Type": "Object", "Name": "Cloth", "Index": "428", "Stack": 1 } // Tecido
+    ],
+    "ExpandedPreconditions": ["f Emily 1250/e 591"],
+	"MailReceived": ["GiftsFromEmily_Lv4_Sewing"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv6",
+    "Text": "emily.mail.lv6",
+    "Attachments": [
+      { "Type": "Object", "Name": "Jade", "Index": "56", "Stack": 1 } // Jade
+    ],
+    "ExpandedPreconditions": ["f Emily 1500"],
+	"MailReceived": ["GiftsFromEmily_Lv5"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv6_Sewing",
+    "Text": "emily.mail.lv6.sewing",
+    "Attachments": [
+      { "Type": "Object", "Name": "Red Mushroom", "Index": "420", "Stack": 1 }, // Cogumelo Vermelho
+      { "Type": "Boots", "Name": "Sneakers", "Index": "504", "Stack": 1 }  // Tênis de Treino 
+    ],
+    "ExpandedPreconditions": ["f Emily 1500/e 591"],
+	"MailReceived": ["GiftsFromEmily_Lv5_Sewing"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv7",
+    "Text": "emily.mail.lv7",
+    "Attachments": [
+      { "Type": "Object", "Name": "Survival Burger", "Index": "241", "Stack": 1 }, // Hambúrguer de Sobrevivência
+      { "Type": "Object", "Name": "Sunflower",        "Index": "421", "Stack": 1 }  // Girassol
+    ],
+    "ExpandedPreconditions": ["f Emily 1750"],
+	"MailReceived": ["GiftsFromEmily_Lv6"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv7_Sewing",
+    "Text": "emily.mail.lv7.sewing",
+    "Attachments": [
+      { "Type": "Object", "Name": "Red Mushroom", "Index": "257", "Stack": 1 } // Amanita Vermelha
+    ],
+    "ExpandedPreconditions": ["f Emily 1750/e 591"],
+	"MailReceived": ["GiftsFromEmily_Lv6_Sewing"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv8",
+    "Text": "emily.mail.lv8",
+    "Attachments": [
+      { "Type": "Object", "Name": "Amethyst",    "Index": "64",  "Stack": 1 }, // Ametista
+      { "Type": "Object", "Name": "Tulip",        "Index": "422", "Stack": 1 }  // Tulipa Roxa
+    ],
+    "ExpandedPreconditions": ["f Emily 2000"],
+	"MailReceived": ["GiftsFromEmily_Lv7"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv8_Sewing",
+    "Text": "emily.mail.lv8.sewing",
+    "Attachments": [
+      { "Type": "Object", "Name": "Wild Plum", "Index": "406", "Stack": 1 } // Ameixa Selvagem
+    ],
+    "ExpandedPreconditions": ["f Emily 2000/e 591"],
+	"MailReceived": ["GiftsFromEmily_Lv7_Sewing"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv9",
+    "Text": "emily.mail.lv9",
+    "Attachments": [
+      { "Type": "Object", "Name": "Chocolate Cake", "Index": "234", "Stack": 1 }, // Bolo de Chocolate
+      { "Type": "Object", "Name": "Juice",           "Index": "614", "Stack": 1 }  // Suco de Frutas
+    ],
+    "ExpandedPreconditions": ["f Emily 2250"],
+	"MailReceived": ["GiftsFromEmily_Lv8"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv9_Sewing",
+    "Text": "emily.mail.lv9.sewing",
+    "Attachments": [
+      { "Type": "Object", "Name": "Rainbow Shell", "Index": "394", "Stack": 1 } // Concha Arco-Íris
+    ],
+    "ExpandedPreconditions": ["f Emily 2250/e 591"],
+	"MailReceived": ["GiftsFromEmily_Lv8_Sewing"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv10",
+    "Text": "emily.mail.lv10",
+    "Attachments": [
+      { "Type": "Object", "Name": "Aquamarine",  "Index": "62",   "Stack": 1 }, // Água-marinha
+      { "Type": "Object", "Name": "Wool", "Index": "440", "Stack": 1 }  // La
+    ],
+    "ExpandedPreconditions": ["f Emily 2500"],
+	"MailReceived": ["GiftsFromEmily_Lv9"],
+  },
+
+  {
+    "Id": "GiftsFromEmily_Lv10_Sewing",
+    "Text": "emily.mail.lv10.sewing",
+    "Attachments": [
+      { "Type": "Object", "Name": "Cloth",  "Index": "428", "Stack": 1 }, // Tecido
+      { "Type": "Object", "Name": "Star Shards", "Index": "578", "Stack": 1 }  // Star Shards
+    ],
+    "ExpandedPreconditions": ["f Emily 2500/e 591"],
+	"MailReceived": ["GiftsFromEmily_Lv9_Sewing"]
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "Id": "MailDemetrius01",
+    "Text": "MailDemetrius01",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Common Mushroom",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Salmonberry",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Demetrius",
+        "FriendshipLevel": 1
+      }
+    ]
+  },
+
+  {
+    "Id": "MailDemetrius02",
+    "Text": "MailDemetrius02",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Quartz",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Earth Crystal",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Demetrius",
+        "FriendshipLevel": 2
+      }
+    ],
+    "MailReceived": [
+      "MailDemetrius01"
+    ]
+  },
+
+  {
+    "Id": "MailDemetrius03",
+    "Text": "MailDemetrius03",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Malachite",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Calcite",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Demetrius",
+        "FriendshipLevel": 3
+      }
+    ],
+    "MailReceived": [
+      "MailDemetrius02"
+    ]
+  },
+
+  {
+    "Id": "MailDemetrius04",
+    "Text": "MailDemetrius04",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Kyanite",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Dolomite",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Demetrius",
+        "FriendshipLevel": 4
+      }
+    ],
+    "MailReceived": [
+      "MailDemetrius03"
+    ]
+  },
+
+  {
+    "Id": "MailDemetrius05",
+    "Text": "MailDemetrius05",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Fluorapatite",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Morel",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Demetrius",
+        "FriendshipLevel": 5
+      }
+    ],
+    "MailReceived": [
+      "MailDemetrius04"
+    ]
+  },
+
+  {
+    "Id": "MailDemetrius06",
+    "Text": "MailDemetrius06",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Purple Mushroom",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Frozen Geode",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Demetrius",
+        "FriendshipLevel": 6
+      }
+    ],
+    "MailReceived": [
+      "MailDemetrius05"
+    ]
+  },
+
+  {
+    "Id": "MailDemetrius07",
+    "Text": "MailDemetrius07",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Lunarite",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Red Mushroom",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Demetrius",
+        "FriendshipLevel": 7
+      }
+    ],
+    "MailReceived": [
+      "MailDemetrius06"
+    ]
+  },
+
+  {
+    "Id": "MailDemetrius08",
+    "Text": "MailDemetrius08",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Alamite",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Purple Mushroom",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Demetrius",
+        "FriendshipLevel": 8
+      }
+    ],
+    "MailReceived": [
+      "MailDemetrius07"
+    ]
+  },
+
+  {
+    "Id": "MailDemetrius09",
+    "Text": "MailDemetrius09",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Helvite",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Geminite",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Bixite",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Demetrius",
+        "FriendshipLevel": 9
+      }
+    ],
+    "MailReceived": [
+      "MailDemetrius08"
+    ]
+  },
+
+  {
+    "Id": "MailDemetrius10",
+    "Text": "MailDemetrius10",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Rare Seed",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Magma Geode",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Purple Mushroom",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Demetrius",
+        "FriendshipLevel": 10
+      }
+    ],
+    "MailReceived": [
+      "MailDemetrius09"
+    ]
+  }
+]

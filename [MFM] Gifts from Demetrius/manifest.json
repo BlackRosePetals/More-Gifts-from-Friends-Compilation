@@ -1,0 +1,11 @@
+{
+  "Name": "Gifts from Demetrius - Field Research Deliveries",
+  "Author": "LoganDoidao",
+  "Version": "1.0.1",
+  "Description": "Receive research items and help Demetrius with his work in the valley as your friendship grows.",
+  "UniqueID": "LoganDoidao.GiftsFromDemetrius",
+	"UpdateKeys" : ["Nexus:46483" ], 
+  "ContentPackFor": {
+    "UniqueID": "DIGUS.MailFrameworkMod"
+  }
+}

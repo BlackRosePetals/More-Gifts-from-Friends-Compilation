@@ -1,0 +1,125 @@
+[
+  {
+    "Id": "GusGift1",
+    "Text": "GusGift1",
+    "Attachments": [
+      { "Type": "Object", "Name": "Bread", "Stack": 2 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Gus", "FriendshipLevel": 1 }
+    ]
+  },
+  {
+    "Id": "GusGift2",
+    "Text": "GusGift2",
+    "Attachments": [
+      { "Type": "Object", "Name": "Fried Egg", "Stack": 2 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Gus", "FriendshipLevel": 2 }
+    ],
+    "MailReceivedConditions": [ "GusGift1" ]
+  },
+  {
+    "Id": "GusGift3",
+    "Text": "GusGift3",
+    "Attachments": [
+      { "Type": "Object", "Name": "Hashbrowns", "Stack": 2 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Gus", "FriendshipLevel": 3 }
+    ],
+    "MailReceivedConditions": [ "GusGift2" ]
+  },
+  {
+    "Id": "GusGift4",
+    "Text": "GusGift4",
+    "Attachments": [
+      { "Type": "Object", "Name": "Omelet", "Stack": 2 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Gus", "FriendshipLevel": 4 }
+    ],
+    "MailReceivedConditions": [ "GusGift3" ]
+  },
+  {
+    "Id": "GusGift5",
+    "Text": "GusGift5",
+    "Attachments": [
+      { "Type": "Object", "Name": "Pancakes", "Stack": 2 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Gus", "FriendshipLevel": 5 }
+    ],
+    "MailReceivedConditions": [ "GusGift4" ]
+  },
+  {
+    "Id": "GusGift6",
+    "Text": "GusGift6",
+    "Attachments": [
+      { "Type": "Object", "Name": "Pizza", "Stack": 2 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Gus", "FriendshipLevel": 6 }
+    ],
+    "MailReceivedConditions": [ "GusGift5" ]
+  },
+  {
+    "Id": "GusGift7",
+    "Text": "GusGift7",
+    "Attachments": [
+      { "Type": "Object", "Name": "Maki Roll", "Stack": 3 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Gus", "FriendshipLevel": 7 }
+    ],
+    "MailReceivedConditions": [ "GusGift6" ]
+  },
+  {
+    "Id": "GusGift8",
+    "Text": "GusGift8",
+    "Attachments": [
+      { "Type": "Object", "Name": "Spaghetti", "Stack": 2 },
+      { "Type": "Object", "Name": "Coffee", "Stack": 2 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Gus", "FriendshipLevel": 8 }
+    ],
+    "MailReceivedConditions": [ "GusGift7" ]
+  },
+  {
+    "Id": "GusGift9",
+    "Text": "GusGift9",
+    "Attachments": [
+      { "Type": "Object", "Name": "Pepper Poppers", "Stack": 2 },
+      { "Type": "Object", "Name": "Fish Taco", "Stack": 2 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Gus", "FriendshipLevel": 9 }
+    ],
+    "MailReceivedConditions": [ "GusGift8" ]
+  },
+  {
+    "Id": "GusGift10",
+    "Text": "GusGift10",
+    "Attachments": [
+      { "Type": "Object", "Name": "Pink Cake", "Stack": 1 },
+      { "Type": "Object", "Name": "Chocolate Cake", "Stack": 1 },
+      { "Type": "Object", "Name": "Beer", "Stack": 2 }
+    ],
+    "Repeatable": false,
+    "FriendshipConditions": [
+      { "NpcName": "Gus", "FriendshipLevel": 10 }
+    ],
+    "MailReceivedConditions": [ "GusGift9" ]
+  }
+]

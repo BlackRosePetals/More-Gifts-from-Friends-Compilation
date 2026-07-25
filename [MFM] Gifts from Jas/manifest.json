@@ -1,0 +1,13 @@
+{
+   "Name": "Gifts From Jas",
+   "Author": "LoganDoidao",
+   "Version": "1.2.0",
+   "MinimumApiVersion": "3.7", 
+   "Description": "Adds sweet, introspective letters from Jas, each with a small gift.",
+   "UniqueID": "LoganDoidao.GiftsFromJas",
+   "UpdateKeys": [ "Nexus:45562" ], 
+   "ContentPackFor": {
+       "UniqueID": "DIGUS.MailFrameworkMod", 
+       "MinimumVersion": "1.20.0"
+	}  
+}
