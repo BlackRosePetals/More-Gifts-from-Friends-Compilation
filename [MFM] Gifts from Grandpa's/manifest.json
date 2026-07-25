@@ -1,0 +1,15 @@
+{
+   "Name": "Gifts from Grandpa's",
+   "Author": "LoganDoidao",
+   "Version": "0.1.0",
+   "MinimumApiVersion": "4.0.0", 
+   "Description": "Receive letters and gifts from your Grandpa's. ",
+   "UniqueID": "LoganDoidao.GiftsFromGrandpas",
+   "UpdateKeys": [ 
+        //"GitHub:Mods-Stardew-Valley/Gifts-from-Friends-Compilation",
+        ],
+   "ContentPackFor": {
+       "UniqueID": "DIGUS.MailFrameworkMod", 
+       "MinimumVersion": "1.20.0"
+	}  
+}
