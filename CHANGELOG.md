@@ -43,6 +43,10 @@ Introduce two Mail Framework content packs: Gifts from Elliott and Gifts from Sa
 ### 📚 Documentação
 
 
+- Expand README with English description & features
+
+- atualiza CHANGELOG.md [skip ci]
+
 - atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
