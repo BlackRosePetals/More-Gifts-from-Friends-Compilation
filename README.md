@@ -1,71 +1,94 @@
 # More Gifts From Friends Compilation
 
-# Contendo os mods
+A compilation of all my mods together to make the installation process easier and faster.
 
-*01 - v1.0.0 - Gifts from Caroline
+There are 10 gifts from each NPC, one for each friendship level.
 
-*02 - v1.2.0 - Gifts from Evelyn
+Some gifts may be repeated between NPCs, but they will always be useful items for you!
+You must be thinking your grandfather forgot about you, right?
+The old man also left letters for you!
+It's intriguing to see what he left.
 
-*03 - v1.1.0 - Gifts from Leah
+Marlon, from the Adventurers' Guild, will also give you gifts for each combat level reached.
+Check the images to see which characters are already included in the mod.
+Be rewarded for the time and gifts dedicated to cultivating your friendships.
+Receive useful gifts from your friends.
+No more giving gifts without receiving anything good in return!
+Receive a gift in the mail for each friendship level with them.
+Finally, a good reason to make new friends in the valley.
+Gifts range from seeds to machines, depending on your new friend and the level of friendship with them.
 
-*04 - v1.0.0 - Gifts from Linus
+Each one offers a unique selection of gifts!
+Repeatable letters and much more!
 
-*05 - v1.1.0 - Gifts from Marlon
+[b][size=4]✨ Features[/size][/b]
 
-*06 - v1.0.0 - Gifts from Pierre
+✔ Unique gifts for every friendship level
+✔ Character themed rewards
+✔ Better and better gifts with each new level
+✔ Fully lore friendly gift selections
+✔ Some letters unlocked after character friendship events.
+✔ Added repeatable letters with random themed gifts
+✔ Compatible with existing saves
 
-*07 - v1.0.0 - Gifts from Robin
 
-*08 - v1.0.2 - Gifts from Sandy
-
-*09 - v1.0.2 - Gifts from Shane
-
-*10 - v1.0.1 - Gifts from Sebastian
-
-*11 - v1.0.0 - Gifts from Wizard
-
-*12 - v1.0.1 - Gifts from Abigail
-
-*13 - v1.0.2 - Gifts from Alex
-
-*14 - v1.0.2 - Gifts from Clint
-
-*15 - v1.0.1 - Gifts from Demetrius 
-
-*16 - v1.1.1 - Gifts from Dwarf
-
-*17 - v1.0.0 - Gifts from Elliott
-
-*18 - v1.2.0 - Gifts from Emilly
-
-*19 - v1.0.2 - Gifts from George
-
-*20 - v1.0.0 - Gifts from Gus
-
-*21 - v1.0.0 - Gifts from Haley
-
-*22 - v1.0.0 - Gifts from Harvey
-
-*23 - v1.2.0 - Gifts from Jas
-
-*23 - v1.0.1 - Gifts from Krobus
-
-*23 - v1.1.0 - Gifts from Leah
-
-*23 - v1.4.0 - Gifts from Lewis
-
-*23 - v1.0.0 - Gifts from Linus
-
-*23 - v1.1.0 - Gifts from Marlon
-
-*23 - v1.1.1 - Gifts from Pam
-
+# Contendo os Mods
+[spoiler]
+*01 - v1.0.1 - Gifts from Abigail
+*02 - v1.0.2 - Gifts from Alex
+*03 - v1.0.0 - Gifts from Caroline
+*04 - v1.0.2 - Gifts from Clint
+*05 - v1.0.1 - Gifts from Demetrius
+*06 - v1.1.1 - Gifts from Dwarf
+*07 - v1.0.0 - Gifts from Elliott
+*08 - v1.2.0 - Gifts from Emilly
+*09 - v1.2.0 - Gifts from Evelyn
+*10 - v1.0.2 - Gifts from George
+*11 - v1.0.0 - Gifts from Gus
+*12 - v1.0.0 - Gifts from Haley
+*13 - v1.0.0 - Gifts from Harvey
+*14 - v1.2.0 - Gifts from Jas
+*15 - v1.0.1 - Gifts from Krobus
+*16 - v1.1.0 - Gifts from Leah
+*17 - v1.4.0 - Gifts from Lewis
+*18 - v1.0.0 - Gifts from Linus
+*19 - v1.1.0 - Gifts from Marlon
+*20 - v1.1.1 - Gifts from Pam
+*21 - v1.0.0 - Gifts from Pierre
+*22 - v1.0.0 - Gifts from Robin
 *23 - v1.0.1 - Gifts from Sam
+*24 - v1.0.2 - Gifts from Sandy
+*25 - v1.0.1 - Gifts from Sebastian
+*26 - v1.0.2 - Gifts from Shane
+*27 - v1.3.0 - Gifts from Vincent
+*28 - v1.0.1 - Gifts from Willy
+*29 - v1.0.0 - Gifts from Wizard
+[/spoiler]
 
-*23 - v1.3.0 - Gifts from Vincent
+[line]
 
-*23 - v1.0.1 - Gifts from Willy
+All these mods are tested and fully functional. They can be downloaded one by one or as a complete package. More mods will be added in the future to complete the entire collection of game characters, and the mods will also be individually updated with internal improvements and more translated languages. As the project is updated, this package will also be updated.
 
-*23 - v1.0.0 - Gifts from 
+Follow the standard installation steps of your preferred mod manager.
 
-*23 - v1.0.0 - Gifts from 
+For updates, I recommend removing the mod(s) that will be updated.
+
+If you already use any of these mods, it is very important that you remove them before installing this package. (Some internal files have been modified and may cause conflicts and errors, or even prevent the game from running normally).
+
+Tests were performed using the mobile version of the game and did not present any errors or file conflicts, provided the above instructions were followed for installation and updating.
+
+The game should work normally on any platform that supports mods, since mobile is the least robust for running many mods and it worked without problems.
+
+[line]
+
+💬 Feel free to leave comments, suggestions, or emotional support.
+Don't forget to ⭐ Endorse ⭐ the mods you like! It costs nothing, takes two seconds, but it significantly boosts visibility. And it makes a modder very happy.
+Plus, it motivates me to keep updating and creating more content. 👍🏼
+Seriously. Do it. 😄
+
+💖 Want to do more?
+Consider buying me a [b][url=https://ko-fi.com/logandoidao][size=4]Ko-Fi[/size][/url][/b] ☕
+
+📦 For more of my mods:
+[url=https://www.nexusmods.com/profile/LoganDoidao989][b][size=4]Click Here![/size][/b][/url]
+
