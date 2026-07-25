@@ -33,7 +33,7 @@ split_commits = false
 tag_pattern = "v[0-9]*"
 ignore_tags = ""
 topo_order = false
-sort_commits = "oldest"
+sort_commits = "newest"
 
 commit_preprocessors = []
 
@@ -43,10 +43,8 @@ commit_parsers = [
     { message = "^perf", group = "⚡ Desempenho" },
     { message = "^refactor", group = "♻️ Refatoração" },
     { message = "^docs", group = "📚 Documentação" },
-    { message = "^style", group = "🎨 Estilo" },
     { message = "^test", group = "🧪 Testes" },
-    { message = "^build", group = "🏗 Build" },
-    { message = "^ci", group = "🤖 CI/CD" },
+    { message = "^release", group = "🏗 Versão" },
     { message = "^chore", group = "🔧 Manutenção" },
     { message = ".*", group = "Outras alterações" }
 ]
