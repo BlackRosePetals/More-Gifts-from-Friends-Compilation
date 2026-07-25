@@ -44,25 +44,26 @@ Repeatable letters and much more!
 *08 - v1.2.0 - Gifts from Emilly
 *09 - v1.2.0 - Gifts from Evelyn
 *10 - v1.0.2 - Gifts from George
-*11 - v1.0.0 - Gifts from Gus
-*12 - v1.0.0 - Gifts from Haley
-*13 - v1.0.0 - Gifts from Harvey
-*14 - v1.2.0 - Gifts from Jas
-*15 - v1.0.1 - Gifts from Krobus
-*16 - v1.1.0 - Gifts from Leah
-*17 - v1.4.0 - Gifts from Lewis
-*18 - v1.0.0 - Gifts from Linus
-*19 - v1.1.0 - Gifts from Marlon
-*20 - v1.1.1 - Gifts from Pam
-*21 - v1.0.0 - Gifts from Pierre
-*22 - v1.0.0 - Gifts from Robin
-*23 - v1.0.1 - Gifts from Sam
-*24 - v1.0.2 - Gifts from Sandy
-*25 - v1.0.1 - Gifts from Sebastian
-*26 - v1.0.2 - Gifts from Shane
-*27 - v1.3.0 - Gifts from Vincent
-*28 - v1.0.1 - Gifts from Willy
-*29 - v1.0.0 - Gifts from Wizard
+*11 - v0.1.0 - Gifts from Grandpas [Compilation Exclusive more content will be added after updates.]
+*12 - v1.0.0 - Gifts from Gus
+*13 - v1.0.0 - Gifts from Haley
+*14 - v1.0.0 - Gifts from Harvey
+*15 - v1.2.0 - Gifts from Jas
+*16 - v1.0.1 - Gifts from Krobus
+*17 - v1.1.0 - Gifts from Leah
+*18 - v1.4.0 - Gifts from Lewis
+*19 - v1.0.0 - Gifts from Linus
+*20 - v1.1.0 - Gifts from Marlon
+*21 - v1.1.1 - Gifts from Pam
+*22 - v1.0.0 - Gifts from Pierre
+*23 - v1.0.0 - Gifts from Robin
+*24 - v1.0.1 - Gifts from Sam
+*25 - v1.0.2 - Gifts from Sandy
+*26 - v1.0.1 - Gifts from Sebastian
+*27 - v1.0.2 - Gifts from Shane
+*28 - v1.3.0 - Gifts from Vincent
+*29 - v1.0.1 - Gifts from Willy
+*30 - v1.0.0 - Gifts from Wizard
 [/spoiler]
 
 [line]
