@@ -93,3 +93,5 @@ Consider buying me a [b][url=https://ko-fi.com/logandoidao][size=4]Ko-Fi[/size][
 📦 For more of my mods:
 [url=https://www.nexusmods.com/profile/LoganDoidao989][b][size=4]Click Here![/size][/b][/url]
 
+Source code of this mod is avaliable on [url=https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation/releases][b][size=4]GitHub[/size][/b][/url]
+
