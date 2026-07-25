@@ -62,9 +62,13 @@ jobs:
 
       - name: Gerar notas da release
         if: steps.tag.outputs.new_tag == 'true'
-        run: |
-          git cliff --unreleased --strip all -o release_notes.md
-
+        uses: orhun/git-cliff-action@v4
+        with:
+          config: cliff.toml
+          args: --unreleased --strip all
+        env:
+          OUTPUT: release_notes.md
+          
       - name: Criar Release no GitHub
         if: steps.tag.outputs.new_tag == 'true'
         uses: softprops/action-gh-release@v2
