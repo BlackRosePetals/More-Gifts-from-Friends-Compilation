@@ -3,12 +3,14 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
-## Unreleased
+## v1.6.0 - 2026-07-25
 
 
 
 ### Outras alterações
 
+
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
 
@@ -48,8 +50,16 @@ Introduce two Mail Framework content packs: Gifts from Elliott and Gifts from Sa
 - Add grandfather letter mail content and translations
 
 
+### 🏗 Versão
+
+
+- Bump version to 1.6.0
+
+
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
