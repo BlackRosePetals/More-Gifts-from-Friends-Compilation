@@ -10,6 +10,19 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 ### Outras alterações
 
 
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
+
+- Standardize manifest files and update API requirements
+
+Update all mod manifest files to follow a consistent structure with:
+- Simplified, consistent mod names (removed descriptive subtitles)
+- Updated MinimumApiVersion to 4.1.0 across all mods
+- Standardized ContentPackFor with MinimumVersion 1.20.0 for MailFrameworkMod
+- Removed deprecated Dependencies sections
+- Simplified and refined Description fields
+- Updated README with complete character names and version numbers
+- Removed unnecessary presentes.txt file from Krobus mod
+
 - Add Gifts from Friends mods for multiple NPCs
 
 Add complete mod content packages for 11 NPCs (Emily, Lewis, Pam, Clint, Demetrius, George, Gus, Jas, Krobus, Vincent, and Willy). Each package includes mail.json configurations, i18n translations across 15+ languages, and manifest.json metadata. These mods provide progressive gift rewards based on friendship levels.
@@ -29,6 +42,8 @@ Introduce two Mail Framework content packs: Gifts from Elliott and Gifts from Sa
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
