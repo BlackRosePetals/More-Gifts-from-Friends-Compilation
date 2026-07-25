@@ -5,5 +5,5 @@
     "Attachments": [
         { "Type": "BigCraftable", "Name": "Chest", "Stack": 1 },
     	{ "Type": "Object",	"Name": "Mixed Seeds", "Stack": 10 }
-		]
+	]
 }
