@@ -10,6 +10,10 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 ### Outras alterações
 
 
+- Add Gifts from Friends mods for multiple NPCs
+
+Add complete mod content packages for 11 NPCs (Emily, Lewis, Pam, Clint, Demetrius, George, Gus, Jas, Krobus, Vincent, and Willy). Each package includes mail.json configurations, i18n translations across 15+ languages, and manifest.json metadata. These mods provide progressive gift rewards based on friendship levels.
+
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
 
 - Add Mail Framework Mod content packs
@@ -25,6 +29,8 @@ Introduce two Mail Framework content packs: Gifts from Elliott and Gifts from Sa
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
