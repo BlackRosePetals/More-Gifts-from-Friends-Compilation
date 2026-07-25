@@ -1,17 +1,13 @@
 {
-  "Name": "Gifts From Emily - Spiritual Vibes and Handmade Styles",
+  "Name": "Gifts from Emily",
   "Author": "LoganDoidao",
   "Version": "1.2.0",
   "Description": "Receive mystical itens and tailoring supplies from Emily.",
   "UniqueID": "LoganDoidao.GiftsFromEmily",
+  "MinimumApiVersion": "4.1.0", 
   "UpdateKeys": ["Nexus:46196"],
   "ContentPackFor": {
-    "UniqueID": "Digus.MailFrameworkMod"
-  },
-  "Dependencies": [
-    {
-      "UniqueID": "Digus.MailFrameworkMod",
-      "IsRequired": true
-    }
-  ]
+    "UniqueID": "Digus.MailFrameworkMod",
+    "MinimumVersion": "1.20.0"
+  }
 }

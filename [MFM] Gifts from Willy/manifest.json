@@ -1,9 +1,9 @@
 {
-   "Name": "Gifts From Willy",
+   "Name": "Gifts from Willy",
    "Author": "LoganDoidao",
    "Version": "1.0.1",
    "MinimumApiVersion": "3.18.0", 
-   "Description": "Fishing gifts, mail rewards, and immersive progression from Willy as your friendship grows.",
+   "Description": "Fishing gifts, mail rewards, and immersive letter from Willy.",
    "UniqueID": "LoganDoidao.GiftsFromWilly",
    "UpdateKeys": [ "Nexus:45569" ], 
    "ContentPackFor": {

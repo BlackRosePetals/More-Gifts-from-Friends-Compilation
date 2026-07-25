@@ -1,8 +1,8 @@
 {
-   "Name": "Gifts From Jas",
+   "Name": "Gifts from Jas",
    "Author": "LoganDoidao",
    "Version": "1.2.0",
-   "MinimumApiVersion": "3.7", 
+   "MinimumApiVersion": "4.1.0", 
    "Description": "Adds sweet, introspective letters from Jas, each with a small gift.",
    "UniqueID": "LoganDoidao.GiftsFromJas",
    "UpdateKeys": [ "Nexus:45562" ], 

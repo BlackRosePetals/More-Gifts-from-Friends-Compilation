@@ -1,10 +1,13 @@
 {
-  "Name": "Gifts From Lewis",
+  "Name": "Gifts from Lewis",
   "Author": "LoganDoidao",
   "Version": "1.4.0",
   "Description": "Receive increasingly refined and luxurious gifts from the Mayor.",
   "UniqueID": "LoganDoidao.GiftsFromLewis",
   "MinimumApiVersion": "3.18.0",
   "UpdateKeys": [ "Nexus:45868" ],
-  "ContentPackFor": { "UniqueID": "Digus.MailFrameworkMod" }
+  "ContentPackFor": { 
+    "UniqueID": "Digus.MailFrameworkMod",
+    "MinimumVersion": "1.20.0"
+  }
 }

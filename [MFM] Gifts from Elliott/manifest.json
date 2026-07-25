@@ -1,9 +1,9 @@
 {
-   "Name": "Gifts from Elliott - A Writers Keepsakes",
+   "Name": "Gifts from Elliott",
    "Author": "LoganDoidao",
    "Version": "1.0.0",
    "MinimumApiVersion": "4.0.0",
-   "Description": "Receive thoughtful gifts from Elliott, from seaside treasures to a writer's keepsakes.",
+   "Description": "Receive thoughtful gifts from Elliott.",
    "UniqueID": "LoganDoidao.GiftsFromElliott",
    "UpdateKeys": [ "Nexus:47151" ],
    "ContentPackFor": {

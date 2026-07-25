@@ -1,9 +1,9 @@
 {
-   "Name": "Gifts From Vincent",
+   "Name": "Gifts from Vincent",
    "Author": "LoganDoidao",
    "Version": "1.3.0",
-   "MinimumApiVersion": "3.7", 
-   "Description": "Receive gifts from Vincent, expect chaos, weird finds, and the occasional useful surprise.",
+   "MinimumApiVersion": "4.1.0", 
+   "Description": "Gifts from Vincent, expect chaos, weird finds, and occasional useful surprises.",
    "UniqueID": "LoganDoidao.GiftsFromVincent",
    "UpdateKeys": [ "Nexus:45522" ], 
    "ContentPackFor": {

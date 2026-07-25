@@ -1,12 +1,13 @@
 {
-  "Name": "Gifts from George - A Rough Kindness",
+  "Name": "Gifts from George",
   "Author": "LoganDoidao",
   "Version": "1.0.2",
-  "Description": "Receive thoughtful gifts from George as your relationship grows.",
+  "Description": "Receive thoughtful gifts from George.",
   "UniqueID": "LoganDoidao.GiftsFromGeorge",
   "MinimumApiVersion": "3.18.0",
   "UpdateKeys": [ "Nexus:46486" ],
     "ContentPackFor": {
-    "UniqueID": "DIGUS.MailFrameworkMod"
+    "UniqueID": "DIGUS.MailFrameworkMod",
+    "MinimumVersion": "1.20.0"
   }
 }

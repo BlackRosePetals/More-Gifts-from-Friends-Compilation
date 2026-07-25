@@ -1,9 +1,9 @@
 {
-   "Name": "Gifts from Sam - Frienship Mixtape",
+   "Name": "Gifts from Sam",
    "Author": "LoganDoidao",
    "Version": "1.0.1",
    "MinimumApiVersion": "4.0.0",
-   "Description": "Receive gifts from Sam, themed items for a teenage musician.",
+   "Description": "Receive gifts from Sam, themed items from a teenage musician.",
    "UniqueID": "LoganDoidao.GiftsFromSam",
    "UpdateKeys": [ "Nexus:47115" ],
    "ContentPackFor": {

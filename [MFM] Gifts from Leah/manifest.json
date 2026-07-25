@@ -1,8 +1,8 @@
 {
-   "Name": "Gifts From Leah",
+   "Name": "Gifts from Leah",
    "Author": "LoganDoidao",
    "Version": "1.1.0",
-   "MinimumApiVersion": "3.7", 
+   "MinimumApiVersion": "4.1.0", 
    "Description": "Receive letters and gifts from your friends. ",
    "UniqueID": "LoganDoidao.GiftsFromLeah",
    "UpdateKeys": [ "Nexus:10733" ], 

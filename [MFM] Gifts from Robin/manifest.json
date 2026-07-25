@@ -1,9 +1,9 @@
 {
-   "Name": "Gifts From Robin",
+   "Name": "Gifts from Robin",
    "Author": "LoganDoidao",
    "Version": "1.0.0",
    "MinimumApiVersion": "4.1.0", 
-   "Description": "Receive letters and gifts from your friends. ",
+   "Description": "Receive letters and gifts from your friend Robin.",
    "UniqueID": "LoganDoidao.GiftsFromRobin",
    "UpdateKeys": [ "Nexus:10690" ], 
    "ContentPackFor": {

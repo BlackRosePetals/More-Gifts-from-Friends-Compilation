@@ -1,11 +1,13 @@
 {
-  "Name": "Gifts from Clint – Forged Through Friendship",
+  "Name": "Gifts from Clint",
   "Author": "LoganDoidao",
   "Version": "1.0.2",
-  "Description": "Progressive friendship mail rewards from Clint, forged through trust and hard work.",
+  "Description": "Progressive friendship mail rewards from Clint.",
   "UniqueID": "LoganDoidao.GiftsFromClint",
+  "MinimumApiVersion": "4.1.0", 
   "UpdateKeys": [ "Nexus:46158" ],
   "ContentPackFor": {
-    "UniqueID": "Digus.MailFrameworkMod"
+    "UniqueID": "Digus.MailFrameworkMod",
+    "MinimumVersion": "1.20.0"
   }
 }

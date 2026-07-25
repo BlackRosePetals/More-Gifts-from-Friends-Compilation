@@ -1,11 +1,13 @@
 {
-	"Name": "Gifts from Haley - Flowers, Sunshine & Sweet Moments",
+	"Name": "Gifts from Haley",
 	"Author": "LoganDoidao",
 	"Version": "1.0.0",
-	"Description": "",
+	"Description": "Receive sweet letters, flowers, cozy gifts and sunny memories from Haley.",
 	"UniqueID": "LoganDoidao.GiftsFromHaley",
+	"MinimumApiVersion": "4.1.0", 
+	"UpdateKeys": ["Nexus:46706"],
 	"ContentPackFor": {
-		"UniqueID": "DIGUS.MailFrameworkMod"
-	},
-	"UpdateKeys": ["Nexus:46706"]
+		"UniqueID": "DIGUS.MailFrameworkMod",
+		"MinimumVersion": "1.20.0"
+	}
 }

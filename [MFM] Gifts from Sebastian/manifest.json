@@ -1,9 +1,9 @@
 {
-   "Name": "Gifts from Sebastian - Hello... Farmer",
+   "Name": "Gifts from Sebastian",
    "Author": "LoganDoidao",
    "Version": "1.0.1",
    "MinimumApiVersion": "4.1.0", 
-   "Description": "Receive letters and gifts from your friend Sebastian. ",
+   "Description": "Receive letters and gifts from your friend Sebastian.",
    "UniqueID": "LoganDoidao.GiftsFromSebastian",
    "UpdateKeys": [ "Nexus:49162" ], 
    "ContentPackFor": {
