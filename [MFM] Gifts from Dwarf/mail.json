@@ -1,0 +1,259 @@
+[
+  {
+    "Id": "MailDwarf01",
+    "Text": "MailDwarf01",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Index": "390",
+        "Stack": 5
+      },
+      {
+        "Type": "Object",
+        "Name": "Coal",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Dwarf",
+        "FriendshipLevel": 1
+      }
+    ],
+
+  },
+  {
+    "Id": "MailDwarf02",
+    "Text": "MailDwarf02",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Cherry Bomb",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Coal",
+        "Stack": 2
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Dwarf",
+        "FriendshipLevel": 2
+      }
+    ],
+    "MailReceived": [
+      "MailDwarf01"
+    ],
+
+  },
+  {
+    "Id": "MailDwarf03",
+    "Text": "MailDwarf03",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Quartz",
+        "Stack": 2
+      },
+      {
+        "Type": "Object",
+        "Name": "Purple Mushroom",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Dwarf",
+        "FriendshipLevel": 3
+      }
+    ],
+    "MailReceived": [
+      "MailDwarf02"
+    ],
+
+  },
+  {
+    "Id": "MailDwarf04",
+    "Text": "MailDwarf04",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Geode",
+        "Stack": 2
+      },
+      {
+        "Type": "Object",
+        "Name": "Coal",
+        "Stack": 3
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Dwarf",
+        "FriendshipLevel": 4
+      }
+    ],
+    "MailReceived": [
+      "MailDwarf03"
+    ],
+
+  },
+  {
+    "Id": "MailDwarf05",
+    "Text": "MailDwarf05",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Bomb",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Void Essence",
+        "Stack": 2
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Dwarf",
+        "FriendshipLevel": 5
+      }
+    ],
+    "MailReceived": [
+      "MailDwarf04"
+    ],
+
+  },
+  {
+    "Id": "MailDwarf06",
+    "Text": "MailDwarf06",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Solar Essence",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Gold Ore",
+        "Stack": 3
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Dwarf",
+        "FriendshipLevel": 6
+      }
+    ],
+    "MailReceived": [
+      "MailDwarf05"
+    ],
+
+  },
+  {
+    "Id": "MailDwarf07",
+    "Text": "MailDwarf07",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Mega Bomb",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Frozen Geode",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Dwarf",
+        "FriendshipLevel": 7
+      }
+    ],
+    "MailReceived": [
+      "MailDwarf06"
+    ],
+
+  },
+  {
+    "Id": "MailDwarf08",
+    "Text": "MailDwarf08",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Fire Quartz",
+        "Stack": 2
+      },
+      {
+        "Type": "Object",
+        "Name": "Iridium Ore",
+        "Stack": 3
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Dwarf",
+        "FriendshipLevel": 8
+      }
+    ],
+    "MailReceived": [
+      "MailDwarf07"
+    ],
+
+  },
+  {
+    "Id": "MailDwarf09",
+    "Text": "MailDwarf09",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Life Elixir",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Magma Geode",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Dwarf",
+        "FriendshipLevel": 9
+      }
+    ],
+    "MailReceived": [
+      "MailDwarf08"
+    ],
+
+  },
+  {
+    "Id": "MailDwarf10",
+    "Text": "MailDwarf10",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Omni Geode",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Miner's Treat",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Dwarf",
+        "FriendshipLevel": 10
+      }
+    ],
+    "MailReceived": [
+      "MailDwarf09"
+    ],
+
+  }
+]

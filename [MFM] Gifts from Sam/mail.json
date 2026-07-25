@@ -1,0 +1,253 @@
+[
+  {
+    "Id": "MailSam01",
+    "Text": "MailSam01",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Broken CD",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Sam",
+        "FriendshipLevel": 1
+      }
+    ]
+  },
+
+  {
+    "Id": "MailSam02",
+    "Text": "MailSam02",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Joja Cola",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Battery Pack",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Sam",
+        "FriendshipLevel": 2
+      }
+    ],
+    "MailReceived": [
+      "MailSam01"
+    ]
+  },
+
+  {
+    "Id": "MailSam03",
+    "Text": "MailSam03",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Pancakes",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Wheat Flour",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Sam",
+        "FriendshipLevel": 3
+      }
+    ],
+    "MailReceived": [
+      "MailSam02"
+    ]
+  },
+
+  {
+    "Id": "MailSam04",
+    "Text": "MailSam04",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Cheese",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Maple Bar",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Sam",
+        "FriendshipLevel": 4
+      }
+    ],
+    "MailReceived": [
+      "MailSam03"
+    ]
+  },
+
+  {
+    "Id": "MailSam05",
+    "Text": "MailSam05",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Pizza",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Joja Cola",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Sam",
+        "FriendshipLevel": 5
+      }
+    ],
+    "MailReceived": [
+      "MailSam04"
+    ]
+  },
+
+  {
+    "Id": "MailSam06",
+    "Text": "MailSam06",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Pancakes",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Maple Bar",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Sam",
+        "FriendshipLevel": 6
+      }
+    ],
+    "MailReceived": [
+      "MailSam05"
+    ]
+  },
+
+  {
+    "Id": "MailSam07",
+    "Text": "MailSam07",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Omni Geode",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Rare Disc",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Sam",
+        "FriendshipLevel": 7
+      }
+    ],
+    "MailReceived": [
+      "MailSam06"
+    ]
+  },
+
+  {
+    "Id": "MailSam08",
+    "Text": "MailSam08",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Tigerseye",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Rabbit's Foot",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Sam",
+        "FriendshipLevel": 8
+      }
+    ],
+    "MailReceived": [
+      "MailSam07"
+    ]
+  },
+
+  {
+    "Id": "MailSam09",
+    "Text": "MailSam09",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Joja Cola",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Complete Breakfast",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Sam",
+        "FriendshipLevel": 9
+      }
+    ],
+    "MailReceived": [
+      "MailSam08"
+    ]
+  },
+
+  {
+    "Id": "MailSam10",
+    "Text": "MailSam10",
+    "Attachments": [
+      {
+        "Type": "BigCraftable",
+        "Index": "209",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Chocolate Cake",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Sam",
+        "FriendshipLevel": 10
+      }
+    ],
+    "MailReceived": [
+      "MailSam09"
+    ]
+  }
+]

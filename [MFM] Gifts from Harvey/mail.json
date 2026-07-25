@@ -1,0 +1,244 @@
+[
+  {
+    "Id": "MailHarvey01",
+    "Text": "MailHarvey01",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Coffee",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Harvey",
+        "FriendshipLevel": 1
+      }
+    ]
+  },
+  {
+    "Id": "MailHarvey02",
+    "Text": "MailHarvey02",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Salmonberry",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Common Mushroom",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Harvey",
+        "FriendshipLevel": 2
+      }
+    ],
+    "MailReceived": [
+      "MailHarvey01"
+    ]
+  },
+  {
+    "Id": "MailHarvey03",
+    "Text": "MailHarvey03",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Grape",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Hazelnut",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Harvey",
+        "FriendshipLevel": 3
+      }
+    ],
+    "MailReceived": [
+      "MailHarvey02"
+    ]
+  },
+  {
+    "Id": "MailHarvey04",
+    "Text": "MailHarvey04",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Pickles",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Green Tea",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Harvey",
+        "FriendshipLevel": 4
+      }
+    ],
+    "MailReceived": [
+      "MailHarvey03"
+    ]
+  },
+  {
+    "Id": "MailHarvey05",
+    "Text": "MailHarvey05",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Rice Pudding",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Coffee",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Harvey",
+        "FriendshipLevel": 5
+      }
+    ],
+    "MailReceived": [
+      "MailHarvey04"
+    ]
+  },
+  {
+    "Id": "MailHarvey06",
+    "Text": "MailHarvey06",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Super Meal",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Energy Tonic",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Harvey",
+        "FriendshipLevel": 6
+      }
+    ],
+    "MailReceived": [
+      "MailHarvey05"
+    ]
+  },
+  {
+    "Id": "MailHarvey07",
+    "Text": "MailHarvey07",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Complete Breakfast",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Truffle Oil",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Harvey",
+        "FriendshipLevel": 7
+      }
+    ],
+    "MailReceived": [
+      "MailHarvey06"
+    ]
+  },
+  {
+    "Id": "MailHarvey08",
+    "Text": "MailHarvey08",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Wine",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Cheese",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Harvey",
+        "FriendshipLevel": 8
+      }
+    ],
+    "MailReceived": [
+      "MailHarvey07"
+    ]
+  },
+  {
+    "Id": "MailHarvey09",
+    "Text": "MailHarvey09",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Life Elixir",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Battery Pack",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Harvey",
+        "FriendshipLevel": 9
+      }
+    ],
+    "MailReceived": [
+      "MailHarvey08"
+    ]
+  },
+  {
+    "Id": "MailHarvey10",
+    "Text": "MailHarvey10",
+    "Attachments": [
+      {
+        "Type": "Object",
+        "Name": "Super Meal",
+        "Stack": 1
+      },
+      {
+        "Type": "Object",
+        "Name": "Rabbit's Foot",
+        "Stack": 1
+      }
+    ],
+    "FriendshipConditions": [
+      {
+        "NpcName": "Harvey",
+        "FriendshipLevel": 10
+      }
+    ],
+    "MailReceived": [
+      "MailHarvey09"
+    ]
+  }
+]

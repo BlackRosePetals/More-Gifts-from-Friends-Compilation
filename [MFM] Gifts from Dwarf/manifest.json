@@ -1,0 +1,12 @@
+{
+  "Name": "Gifts from Dwarf - Treasures of the Deep",
+  "Author": "LoganDoidao",
+  "Version": "1.1.1",
+  "Description": "A progression mail gift mod for the Dwarf, themed around deep mining rewards and cavern treasures.",
+  "UniqueID": "LoganDoidao.GiftsFromDwarf",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": ["Nexus:47044"],
+  "ContentPackFor": {
+    "UniqueID": "DIGUS.MailFrameworkMod"
+  }
+}

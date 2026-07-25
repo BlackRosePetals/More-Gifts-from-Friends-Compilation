@@ -1,0 +1,13 @@
+{
+   "Name": "Gifts from Sam - Frienship Mixtape",
+   "Author": "LoganDoidao",
+   "Version": "1.0.1",
+   "MinimumApiVersion": "4.0.0",
+   "Description": "Receive gifts from Sam, themed items for a teenage musician.",
+   "UniqueID": "LoganDoidao.GiftsFromSam",
+   "UpdateKeys": [ "Nexus:47115" ],
+   "ContentPackFor": {
+      "UniqueID": "DIGUS.MailFrameworkMod",
+      "MinimumVersion": "1.20.0"
+   }
+}

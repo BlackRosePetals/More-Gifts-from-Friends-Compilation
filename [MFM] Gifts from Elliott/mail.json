@@ -1,0 +1,129 @@
+[
+  {
+    "Id": "MailElliott01",
+    "Text": "MailElliott01",
+    "Attachments": [
+      { "Type": "Object", "Name": "Tea Leaves", "Stack": 1 }
+    ],
+    "FriendshipConditions": [
+      { "NpcName": "Elliott", "FriendshipLevel": 1 }
+    ]
+  },
+
+  {
+    "Id": "MailElliott02",
+    "Text": "MailElliott02",
+    "Attachments": [
+      { "Type": "Object", "Name": "Coral", "Stack": 1 },
+      { "Type": "Object", "Name": "Clam", "Stack": 1 }
+    ],
+    "FriendshipConditions": [
+      { "NpcName": "Elliott", "FriendshipLevel": 2 }
+    ],
+    "MailReceived": ["MailElliott01"]
+  },
+
+  {
+    "Id": "MailElliott03",
+    "Text": "MailElliott03",
+    "Attachments": [
+      { "Type": "Object", "Name": "Sea Urchin", "Stack": 1 },
+      { "Type": "Object", "Name": "Mussel", "Stack": 1 }
+    ],
+    "FriendshipConditions": [
+      { "NpcName": "Elliott", "FriendshipLevel": 3 }
+    ],
+    "MailReceived": ["MailElliott02"]
+  },
+
+  {
+    "Id": "MailElliott04",
+    "Text": "MailElliott04",
+    "Attachments": [
+      { "Type": "Object", "Name": "Coffee", "Stack": 1 },
+      { "Type": "Object", "Name": "Maple Syrup", "Stack": 1 }
+    ],
+    "FriendshipConditions": [
+      { "NpcName": "Elliott", "FriendshipLevel": 4 }
+    ],
+    "MailReceived": ["MailElliott03"]
+  },
+
+  {
+    "Id": "MailElliott05",
+    "Text": "MailElliott05",
+    "Attachments": [
+      { "Type": "Object", "Name": "Pomegranate", "Stack": 1 },
+      { "Type": "Object", "Name": "Duck Mayonnaise", "Stack": 1 }
+    ],
+    "FriendshipConditions": [
+      { "NpcName": "Elliott", "FriendshipLevel": 5 }
+    ],
+    "MailReceived": ["MailElliott04"]
+  },
+
+  {
+    "Id": "MailElliott06",
+    "Text": "MailElliott06",
+    "Attachments": [
+      { "Type": "Object", "Name": "Crab Cakes", "Stack": 1 },
+      { "Type": "Object", "Name": "Fairy Rose", "Stack": 1 }
+    ],
+    "FriendshipConditions": [
+      { "NpcName": "Elliott", "FriendshipLevel": 6 }
+    ],
+    "MailReceived": ["MailElliott05"]
+  },
+
+  {
+    "Id": "MailElliott07",
+    "Text": "MailElliott07",
+    "Attachments": [
+      { "Type": "Object", "Name": "Wine", "Stack": 1 },
+      { "Type": "Object", "Name": "Rabbit's Foot", "Stack": 1 }
+    ],
+    "FriendshipConditions": [
+      { "NpcName": "Elliott", "FriendshipLevel": 7 }
+    ],
+    "MailReceived": ["MailElliott06"]
+  },
+
+  {
+    "Id": "MailElliott08",
+    "Text": "MailElliott08",
+    "Attachments": [
+      { "Type": "Object", "Name": "Truffle Oil", "Stack": 1 },
+      { "Type": "Object", "Name": "Lobster", "Stack": 1 }
+    ],
+    "FriendshipConditions": [
+      { "NpcName": "Elliott", "FriendshipLevel": 8 }
+    ],
+    "MailReceived": ["MailElliott07"]
+  },
+
+  {
+    "Id": "MailElliott09",
+    "Text": "MailElliott09",
+    "Attachments": [
+      { "Type": "Object", "Name": "Duck Feather", "Stack": 1 },
+      { "Type": "Object", "Name": "Squid Ink", "Stack": 1 }
+    ],
+    "FriendshipConditions": [
+      { "NpcName": "Elliott", "FriendshipLevel": 9 }
+    ],
+    "MailReceived": ["MailElliott08"]
+  },
+
+  {
+    "Id": "MailElliott10",
+    "Text": "MailElliott10",
+    "Attachments": [
+      { "Type": "Object", "Name": "Pearl", "Stack": 1 },
+      { "Type": "Object", "Name": "Pink Cake", "Stack": 1 }
+    ],
+    "FriendshipConditions": [
+      { "NpcName": "Elliott", "FriendshipLevel": 10 }
+    ],
+    "MailReceived": ["MailElliott09"]
+  }
+]

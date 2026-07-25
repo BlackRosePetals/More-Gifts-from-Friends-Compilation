@@ -1,0 +1,12 @@
+{
+  "Name": "Gifts from Harvey - A Doctor Care",
+  "Author": "LoganDoidao",
+  "Version": "1.0.0",
+  "Description": "A progression mail gift mod for the Doctor of the town.",
+  "UniqueID": "LoganDoidao.GiftsFromHarvey",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": ["Nexus:47090"],
+  "ContentPackFor": {
+    "UniqueID": "DIGUS.MailFrameworkMod"
+  }
+}
