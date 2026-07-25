@@ -1,0 +1,187 @@
+[
+   {
+		"Id": "MailRobin01",
+		"Text": "MailRobin01",
+		"Attachments": [
+			{
+				"Type": "BigCraftable",
+				"Name": "Chest",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Robin",
+				"FriendshipLevel": 1
+			}
+		],
+	}, 
+	{
+		"Id": "MailRobin02",
+		"Text": "MailRobin02",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Wood Fence",
+				"Stack": 10
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Robin",
+				"FriendshipLevel": 2
+			}
+		],
+	}, 
+	{
+		"Id": "MailRobin03",
+		"Text": "MailRobin03",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Gate",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Robin",
+				"FriendshipLevel": 3
+			}
+		],
+	}, 
+	{
+		"Id": "MailRobin04",
+		"Text": "MailRobin04",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Hardwood",
+				"Stack": 20
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Robin",
+				"FriendshipLevel": 4
+			}
+		],
+	}, 
+	{
+		"Id": "MailRobin05",
+		"Text": "MailRobin05",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Tree Fertilizer",
+				"Stack": 10
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Robin",
+				"FriendshipLevel": 5
+			}
+		],
+	}, 
+	{
+		"Id": "MailRobin06",
+		"Text": "MailRobin06",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Driftwood",
+				"Stack": 50
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Robin",
+				"FriendshipLevel": 6
+			}
+		],
+	}, 
+	{
+		"Id": "MailRobin07",
+		"Text": "MailRobin07",
+		"Attachments": [
+			{
+			//Recycling machine
+				"Type": "BigCraftable",
+				"Index": 20,
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Robin",
+				"FriendshipLevel": 7
+			}
+		],
+	}, 
+	{
+		"Id": "MailRobin08",
+		"Text": "MailRobin08",
+		"Attachments": [
+			{
+				"Type": "BigCraftable",
+				"Name": "Cheese Press",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Robin",
+				"FriendshipLevel": 8
+			}
+		],
+	}, 
+	{
+		"Id": "MailRobin09",
+		"Text": "MailRobin09",
+		"Attachments": [
+			{
+			//Workbench
+				"Type": "BigCraftable",
+				"Index": 208,
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Robin",
+				"FriendshipLevel": 9
+			}
+		],
+	}, 
+	{
+		"Id": "MailRobin10",
+		"Text": "MailRobin10",
+		"Attachments": [
+			{
+			//Wood Chipper
+				"Type": "BigCraftable",
+				"Index":  211,
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Robin",
+				"FriendshipLevel": 10
+			}
+		],
+	}, 
+		
+]
+ 

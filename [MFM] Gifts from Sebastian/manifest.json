@@ -1,0 +1,13 @@
+{
+   "Name": "Gifts from Sebastian - Hello... Farmer",
+   "Author": "LoganDoidao",
+   "Version": "1.0.1",
+   "MinimumApiVersion": "4.1.0", 
+   "Description": "Receive letters and gifts from your friend Sebastian. ",
+   "UniqueID": "LoganDoidao.GiftsFromSebastian",
+   "UpdateKeys": [ "Nexus:49162" ], 
+   "ContentPackFor": {
+       "UniqueID": "DIGUS.MailFrameworkMod", 
+       "MinimumVersion": "1.20.0"
+	}
+}

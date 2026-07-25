@@ -1,5 +1,20 @@
 [
-
+    {	
+    "Id":"ResetSandy",
+	"AutoOpen": true,
+    "MailReceivedToRemove": [
+		"MailSandy01",
+		"MailSandy02",
+		"MailSandy03",
+		"MailSandy04",
+		"MailSandy05",
+		"MailSandy06",
+		"MailSandy07",
+		"MailSandy08",
+		"MailSandy09",
+		"MailSandy10"
+	    ]
+    },
 {
     "Id": "MailSandy01",
     "GroupId": "SandyLetters",
@@ -86,7 +101,9 @@
 },
 
 {
-	"Id": "SandyRepetable",
+	"Id": "SandyRepeteable",
+    "GroupId": "SandyLetters",
+    "Text": "SandyRepeteable",
 	"Repeatable": true,
 	"RandomChance": 0.075,
 	"FriendshipConditions": [ { "NpcName": "Sandy", "FriendshipLevel": 1 } ],
@@ -95,16 +112,20 @@
 		{ "Type": "Object", "Index": "90", "Stack": 1, "RandomGroup": "Desert" }, //Cactus Fruit
 		{ "Type": "Object", "Index": "90", "Stack": 2, "RandomGroup": "Desert" }, //Cactus Fruit   
 		{ "Type": "Object", "Index": "90", "Stack": 3, "RandomGroup": "Desert" }, //Cactus Fruit
-		{ "Type": "Object", "Index": "88", "Stack": 1, "RandomGroup": "Desert" }, //Coconut
+		
+        { "Type": "Object", "Index": "88", "Stack": 1, "RandomGroup": "Desert" }, //Coconut
 		{ "Type": "Object", "Index": "88", "Stack": 2, "RandomGroup": "Desert" }, //Coconut
 		{ "Type": "Object", "Index": "88", "Stack": 3, "RandomGroup": "Desert" }, //Coconut
-		{ "Type": "Object", "Index": "395", "Stack": 1, "RandomGroup": "Desert" }, //Coffee
+		
+        { "Type": "Object", "Index": "395", "Stack": 1, "RandomGroup": "Desert" }, //Coffee
 		{ "Type": "Object", "Index": "395", "Stack": 2, "RandomGroup": "Desert" }, //Coffee
 		{ "Type": "Object", "Index": "395", "Stack": 3, "RandomGroup": "Desert" }, //Coffee
-		{ "Type": "Object", "Index": "433", "Stack": 5, "RandomGroup": "Desert" }, //Coffee Bean
+		
+        { "Type": "Object", "Index": "433", "Stack": 5, "RandomGroup": "Desert" }, //Coffee Bean
 		{ "Type": "Object", "Index": "433", "Stack": 10, "RandomGroup": "Desert" }, //Coffee Bean
 		{ "Type": "Object", "Index": "433", "Stack": 15, "RandomGroup": "Desert" }, //Coffee Bean
-		{ "Type": "Object", "Index": "802", "Stack": 3,  "RandomGroup": "Desert" }, //Cactus Seeds
+		
+        { "Type": "Object", "Index": "802", "Stack": 3,  "RandomGroup": "Desert" }, //Cactus Seeds
 		{ "Type": "Object", "Index": "802", "Stack": 5,  "RandomGroup": "Desert" }, //Cactus Seeds
 		{ "Type": "Object", "Index": "802", "Stack": 7,  "RandomGroup": "Desert" } //Cactus Seeds
     ]
