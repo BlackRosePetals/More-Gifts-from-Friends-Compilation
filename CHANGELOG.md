@@ -12,6 +12,12 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
 
+- Add Mail Framework Mod content packs
+
+Add three new Mail Framework Mod content packs providing progressive, friendship-based gifts and letters from Abigail, Alex, and Haley. Each pack includes 10 friendship levels with themed gifts, attachments, and localized messages in 15-16 languages.
+
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
+
 - Add 'Gifts from Elliott' and 'Gifts from Sam' mail packs
 
 Introduce two Mail Framework content packs: Gifts from Elliott and Gifts from Sam. Adds manifests, mail.json definitions (IDs, attachments, friendship conditions, mail chains) and extensive i18n localization files (default plus cs,de,es,fr,hu,it,ja,ko,nl,pl,pt,ru,tr,uk,zh) for both packs to provide localized mail text and attachments.
@@ -19,6 +25,8 @@ Introduce two Mail Framework content packs: Gifts from Elliott and Gifts from Sa
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
