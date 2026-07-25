@@ -1,0 +1,183 @@
+[
+//Linus
+{ 
+"Id": "MailLinus01",
+"Text": "MailLinus01",
+"Attachments": [ 
+{ 
+"Type": "Object",
+"Name": "Bug Meat",
+"Stack": 10 }, 
+],
+"Repeatable": false,
+"FriendshipConditions": [ 
+{
+"NpcName": "Linus",
+"FriendshipLevel": 1 } 
+],
+},
+
+{ 
+"Id": "MailLinus02",
+"Text": "MailLinus02",
+"Attachments": [
+{
+"Type": "Object",
+"Name": "Field Snack",
+"Stack": 1
+},
+],
+"Repeatable": false,
+"FriendshipConditions": [
+{
+"NpcName": "Linus",
+"FriendshipLevel": 2 }
+],
+},
+
+{
+"Id": "MailLinus03",
+"Text": "MailLinus03",
+"Attachments": [
+{
+"Type": "Object",
+"Name": "Wild Bait",
+"Stack": 30
+},
+],
+"Repeatable": false,
+"FriendshipConditions": [
+{
+"NpcName": "Linus",
+"FriendshipLevel": 3}
+],
+},
+
+{
+"Id": "MailLinus04",
+"Text": "MailLinus04",
+"Attachments": [
+{
+"Type": "Object",
+"Name": "Driftwood",
+"Stack": 10
+},
+],
+"Repeatable": false,
+"FriendshipConditions": [
+{
+"NpcName": "Linus",
+"FriendshipLevel": 4 }
+],
+},
+
+{
+"Id": "MailLinus05",
+"Text": "MailLinus05",
+"Attachments": [
+{
+"Type": "Object",
+"Name": "Common Mushroom",
+"Stack": 10
+},
+],
+"Repeatable": false,
+"FriendshipConditions": [
+{
+"NpcName": "Linus",
+"FriendshipLevel": 5 }
+],
+},
+
+{
+"Id": "MailLinus06",
+"Text": "MailLinus06",
+"Attachments": [
+{
+"Type": "Object",
+"Name": "Morel",
+"Stack": 3
+},
+],
+"Repeatable": false,
+"FriendshipConditions": [
+{
+"NpcName": "Linus",
+"FriendshipLevel": 6 }
+],
+},
+
+{
+"Id": "MailLinus07",
+"Text": "MailLinus07",
+"Attachments": [
+{
+"Type": "Object",
+"Name": "Chanterelle",
+"Stack": 3
+},
+],
+"Repeatable": false,
+"FriendshipConditions": [
+{
+"NpcName": "Linus",
+"FriendshipLevel": 7 }
+],
+},
+
+{
+"Id": "MailLinus08",
+"Text": "MailLinus08",
+"Attachments": [
+{
+"Type": "Object",
+"Name": "Fiddlehead Fern",
+"Stack": 4
+},
+],
+"Repeatable": false,
+"FriendshipConditions": [
+{
+"NpcName": "Linus",
+"FriendshipLevel": 8 }
+],
+},
+
+{
+"Id": "MailLinus09",
+"Text": "MailLinus09",
+"Attachments": [
+{
+"Type": "Object",
+"Name": "Cactus Seeds",
+"Stack": 10
+},
+],
+"Repeatable": false,
+"FriendshipConditions": [
+{
+"NpcName": "Linus",
+"FriendshipLevel": 9 }
+],
+},
+
+{
+"Id": "MailLinus10",
+"Text": "MailLinus10",
+"Attachments": [
+{
+"Type": "Object",
+"Name": "Treasure Chest",
+"Stack": 1
+},
+],
+"Repeatable": false,
+"FriendshipConditions": [
+{
+"NpcName": "Linus",
+"FriendshipLevel": 10 } 
+],
+}
+
+]
+ 

@@ -1,0 +1,13 @@
+{
+   "Name": "Gifts From Pierre",
+   "Author": "LoganDoidao",
+   "Version": "1.0.0",
+   "MinimumApiVersion": "4.1.0", 
+   "Description": "Receive letters and gifts from your friends.",
+   "UniqueID": "LoganDoidao.GiftsFromPierre",
+   "UpdateKeys": [ "Nexus:10682" ], 
+   "ContentPackFor": {
+       "UniqueID": "DIGUS.MailFrameworkMod", 
+       "MinimumVersion": "1.6.0"
+	}  
+}

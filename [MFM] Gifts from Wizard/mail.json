@@ -1,0 +1,197 @@
+[
+   {
+		"Id": "MailWizard01",
+		"Text": "MailWizard01",
+		"WhichBG": 2, 
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Rain Totem",
+				"Stack": 3
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Wizard",
+				"FriendshipLevel": 1
+			}
+		],
+	},  
+	{
+		"Id": "MailWizard02",
+		"Text": "MailWizard02",
+		"WhichBG": 2, 
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Tea Leaves",
+				"Stack": 3
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Wizard",
+				"FriendshipLevel": 2
+			}
+		],
+	}, 
+	{
+		"Id": "MailWizard03",
+		"Text": "MailWizard03",
+		"WhichBG": 2, 
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Index": 251,
+				"Stack": 5
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Wizard",
+				"FriendshipLevel": 3
+			}
+		],
+	}, 
+	{
+		"Id": "MailWizard04",
+		"Text": "MailWizard04",
+		"WhichBG": 2, 
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Rabbit's Foot",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Wizard",
+				"FriendshipLevel": 4
+			}
+		],
+	}, 
+	{
+		"Id": "MailWizard05",
+		"Text": "MailWizard05",
+		"WhichBG": 2, 
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Purple Mushroom",
+				"Stack": 4
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Wizard",
+				"FriendshipLevel": 5
+			}
+		],
+	}, 
+	{
+		"Id": "MailWizard06",
+		"Text": "MailWizard06",
+		"WhichBG": 2, 
+		"Attachments": [
+			{
+			//Totem para Fazenda
+				"Type": "Object",
+				"Index": 688,
+				"Stack": 5
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Wizard",
+				"FriendshipLevel": 6
+			}
+		],
+	}, 
+	{
+		"Id": "MailWizard07",
+		"Text": "MailWizard07",
+		"WhichBG": 2, 
+		"Attachments": [
+			{
+			//Totem para Montanhas 
+				"Type": "Object",
+				"Index": 689,
+				"Stack": 3
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Wizard",
+				"FriendshipLevel": 7
+			}
+		],
+	}, 
+	{
+		"Id": "MailWizard08",
+		"Text": "MailWizard08",
+		"WhichBG": 2, 
+		"Attachments": [
+			{
+			//Totem para Praia
+				"Type": "Object",
+				"Index": 690,
+				"Stack": 3
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Wizard",
+				"FriendshipLevel": 8
+			}
+		],
+	}, 
+	{
+		"Id": "MailWizard09",
+		"Text": "MailWizard09",
+		"WhichBG": 2, 
+		"Attachments": [
+			{ 
+				"Type": "Object",
+				"Name": "Green Tea",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Wizard",
+				"FriendshipLevel": 9
+			}
+		],
+	}, 
+	{
+		"Id": "MailWizard10",
+		"Text": "MailWizard10",
+		"WhichBG": 2, 
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Stardrop",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		"FriendshipConditions": [
+			{
+				"NpcName": "Wizard",
+				"FriendshipLevel": 10
+			}
+		],
+	}, 
+	
+]
+ 

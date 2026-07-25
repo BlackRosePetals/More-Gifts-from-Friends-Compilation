@@ -1,0 +1,185 @@
+[ 
+		{
+		"Id": "MailMarlon01",
+		"Text": "MailMarlon01",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Torch",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		     "SkillConditions": [ 
+          { 
+             "SkillName": "Combat", 
+             "SkillLevel": 1
+          }  
+       ], 
+	},
+	{
+		"Id": "MailMarlon02",
+		"Text": "MailMarlon02",
+		"Attachments": [
+			{
+				"Type": "BigCraftable",
+				"Index": "146",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		     "SkillConditions": [ 
+          { 
+             "SkillName": "Combat", 
+             "SkillLevel": 2
+          }  
+       ], 
+	},
+	{
+		"Id": "MailMarlon03",
+		"Text": "MailMarlon03",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Oil of Garlic",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		     "SkillConditions": [ 
+          { 
+             "SkillName": "Combat", 
+             "SkillLevel": 3
+          }  
+       ], 
+	},
+	{
+		"Id": "MailMarlon04",
+		"Text": "MailMarlon04",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Life Elixir",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		     "SkillConditions": [ 
+          { 
+             "SkillName": "Combat", 
+             "SkillLevel": 4
+          }  
+       ], 
+	},
+	{
+		"Id": "MailMarlon05",
+		"Text": "MailMarlon05",
+		"Attachments": [
+			{
+			//Totem para Fazenda
+				"Type": "Object",
+				"Index": 688,
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		     "SkillConditions": [ 
+          { 
+             "SkillName": "Combat", 
+             "SkillLevel": 5 
+          }  
+       ], 
+	},
+   {
+		"Id": "MailMarlon06",
+		"Text": "MailMarlon06",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Fried Mushroom",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		     "SkillConditions": [ 
+          { 
+             "SkillName": "Combat", 
+             "SkillLevel": 6
+          }  
+       ], 
+	},
+   {
+		"Id": "MailMarlon07",
+		"Text": "MailMarlon07",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Roots Platter",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		     "SkillConditions": [ 
+          { 
+             "SkillName": "Combat", 
+             "SkillLevel": 7
+          }  
+       ], 
+	},
+   {
+		"Id": "MailMarlon08",
+		"Text": "MailMarlon08",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Crab Cakes",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		     "SkillConditions": [ 
+          { 
+             "SkillName": "Combat", 
+             "SkillLevel": 8
+          }  
+       ], 
+	},
+   {
+		"Id": "MailMarlon09",
+		"Text": "MailMarlon09",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Pumpkin Soup",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		     "SkillConditions": [ 
+          { 
+             "SkillName": "Combat", 
+             "SkillLevel": 9
+          }  
+       ], 
+	},
+   {
+		"Id": "MailMarlon10",
+		"Text": "MailMarlon10", 
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Purple Slime Egg",
+				"Stack": 1
+			},
+		],
+    "Repeatable": false,
+		     "SkillConditions": [ 
+          { 
+             "SkillName": "Combat", 
+             "SkillLevel": 10
+          }  
+       ], 
+	},
+	
+]
+ 
