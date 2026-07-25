@@ -34,36 +34,38 @@ Repeatable letters and much more!
 
 # Contendo os Mods
 [spoiler]
-*01 - v1.0.1 - Gifts from Abigail
-*02 - v1.0.2 - Gifts from Alex
-*03 - v1.0.0 - Gifts from Caroline
-*04 - v1.0.2 - Gifts from Clint
-*05 - v1.0.1 - Gifts from Demetrius
-*06 - v1.1.1 - Gifts from Dwarf
-*07 - v1.0.0 - Gifts from Elliott
-*08 - v1.2.0 - Gifts from Emilly
-*09 - v1.2.0 - Gifts from Evelyn
-*10 - v1.0.2 - Gifts from George
-*11 - v0.1.0 - Gifts from Grandpas [Compilation Exclusive more content will be added after updates.]
-*12 - v1.0.0 - Gifts from Gus
-*13 - v1.0.0 - Gifts from Haley
-*14 - v1.0.0 - Gifts from Harvey
-*15 - v1.2.0 - Gifts from Jas
-*16 - v1.0.1 - Gifts from Krobus
-*17 - v1.1.0 - Gifts from Leah
-*18 - v1.4.0 - Gifts from Lewis
-*19 - v1.0.0 - Gifts from Linus
-*20 - v1.1.0 - Gifts from Marlon
-*21 - v1.1.1 - Gifts from Pam
-*22 - v1.0.0 - Gifts from Pierre
-*23 - v1.0.0 - Gifts from Robin
-*24 - v1.0.1 - Gifts from Sam
-*25 - v1.0.2 - Gifts from Sandy
-*26 - v1.0.1 - Gifts from Sebastian
-*27 - v1.0.2 - Gifts from Shane
-*28 - v1.3.0 - Gifts from Vincent
-*29 - v1.0.1 - Gifts from Willy
-*30 - v1.0.0 - Gifts from Wizard
+[list=1]
+[*] v1.0.1 - Gifts from Abigail
+[*] v1.0.2 - Gifts from Alex
+[*] v1.0.0 - Gifts from Caroline
+[*] v1.0.2 - Gifts from Clint
+[*] v1.0.1 - Gifts from Demetrius
+[*] v1.1.1 - Gifts from Dwarf
+[*] v1.0.0 - Gifts from Elliott
+[*] v1.2.0 - Gifts from Emilly
+[*] v1.2.0 - Gifts from Evelyn
+[*] v1.0.2 - Gifts from George
+[*] v0.1.0 - Gifts from Grandpas [Compilation Exclusive more content will be added after updates.]
+[*] v1.0.0 - Gifts from Gus
+[*] v1.0.0 - Gifts from Haley
+[*] v1.0.0 - Gifts from Harvey
+[*] v1.2.0 - Gifts from Jas
+[*] v1.0.1 - Gifts from Krobus
+[*] v1.1.0 - Gifts from Leah
+[*] v1.4.0 - Gifts from Lewis
+[*] v1.0.0 - Gifts from Linus
+[*] v1.1.0 - Gifts from Marlon
+[*] v1.1.1 - Gifts from Pam
+[*] v1.0.0 - Gifts from Pierre
+[*] v1.0.0 - Gifts from Robin
+[*] v1.0.1 - Gifts from Sam
+[*] v1.0.2 - Gifts from Sandy
+[*] v1.0.1 - Gifts from Sebastian
+[*] v1.0.2 - Gifts from Shane
+[*] v1.3.0 - Gifts from Vincent
+[*] v1.0.1 - Gifts from Willy
+[*] v1.0.0 - Gifts from Wizard
+[/list]
 [/spoiler]
 
 [line]
