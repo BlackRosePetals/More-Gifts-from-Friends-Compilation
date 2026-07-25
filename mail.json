@@ -1,0 +1,9 @@
+{
+	"Id": "GrandFatherLetter01",
+    "GroupId": "GrandFatherLetters",
+	"Text": "GrandFatherLetter01",
+    "Attachments": [
+        { "Type": "BigCraftable", "Name": "Chest", "Stack": 1 },
+    	{ "Type": "Object",	"Name": "Mixed Seeds", "Stack": 10 }
+		]
+}
