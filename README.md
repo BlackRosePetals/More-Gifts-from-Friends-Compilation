@@ -82,6 +82,15 @@ Tests were performed using the mobile version of the game and did not present an
 
 The game should work normally on any platform that supports mods, since mobile is the least robust for running many mods and it worked without problems.
 
+# Updates
+
+    Grandfather letters entries added
+    Two letters for each available skill
+    Level 1 letters itens added
+    Level 10 letters itens still need to be changed
+    Letters for all levels still need to be added
+    Translations for all languages ​​still need to be added.
+
 [line]
 
 💬 Feel free to leave comments, suggestions, or emotional support.

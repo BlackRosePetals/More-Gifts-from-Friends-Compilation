@@ -1,5 +1,20 @@
 //English Translation
 //default.json
 {
-  "GrandFatherLetter01": "@,^Dear grandson, I hope you came to my old farm with good intentions.^And to make new friends, of course.^If you follow in my footsteps, you can have a wonderful life here in the valley.^But don't think I've forgotten my dear grandson.^I've left some gifts to help you. Life in the countryside isn't easy!^Some of my best friends will help you too, if you become friends with them, of course!^Enjoy your grandfather's first gift!^A chest full of treasures!^^- Grandpa."
+  "GrandFatherLetter01": "@,^Dear grandson, I hope you came to my old farm with good intentions.^And to make new friends, of course.^If you follow in my footsteps, you can have a wonderful life here in the valley.^But don't think I've forgotten my dear grandson.^I've left some gifts to help you. Life in the countryside isn't easy!^Some of my best friends will help you too, if you become friends with them, of course!^Enjoy your grandfather's first gift!^A chest full of treasures!^^- Grandpa.",
+  
+  "GrandFatherLetterFarming01": "",
+  "GrandFatherLetterFarming10": "",
+
+  "GrandFatherLetterMining01": "",
+  "GrandFatherLetterMining10": "",
+  
+  "GrandFatherLetterForaging01": "",
+  "GrandFatherLetterForaging10": "",
+  
+  "GrandFatherLetterFishing01": "",
+  "GrandFatherLetterFishing10": "",
+
+  "GrandFatherLetterCombat01": "",
+  "GrandFatherLetterCombat10": ""
 }

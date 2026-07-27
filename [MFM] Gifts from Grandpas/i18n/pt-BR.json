@@ -1,5 +1,21 @@
 //Brasilian Translation
 //pt-BR.json
 {
-  "GrandFatherLetter01": "@,^Querido netinho espero que tenha vindo para minha velha fazenda com boas intenções.^E para fazer novos amigos é claro, se seguir os meus passos poderá ter uma vida maravilhosa aqui no vale.^Mas não pense que eu me esqueci do meu neto querido, deixei alguns presentes para te ajudar, a vida no campo não é fácil!^Alguns dos meus melhores amigos vão te ajudar também, se você se tornar amigo deles é claro!^Aproveite o primeiro presente do seu avô!^Um baú cheio de tesouros!^^- Vovô."
+  "GrandFatherLetter01": "@,^Querido netinho espero que tenha vindo para minha velha fazenda com boas intenções.^E para fazer novos amigos é claro, se seguir os meus passos poderá ter uma vida maravilhosa aqui no vale.^Mas não pense que eu me esqueci do meu neto querido, deixei alguns presentes para te ajudar, a vida no campo não é fácil!^Alguns dos meus melhores amigos vão te ajudar também, se você se tornar amigo deles é claro!^Aproveite o primeiro presente do seu avô!^Um baú cheio de tesouros!^^- Vovô.",
+  
+  "GrandFatherLetterFarming01": "",
+  "GrandFatherLetterFarming10": "",
+
+  "GrandFatherLetterMining01": "",
+  "GrandFatherLetterMining10": "",
+  
+  "GrandFatherLetterForaging01": "",
+  "GrandFatherLetterForaging10": "",
+  
+  "GrandFatherLetterFishing01": "",
+  "GrandFatherLetterFishing10": "",
+
+  "GrandFatherLetterCombat01": "",
+  "GrandFatherLetterCombat10": ""
+
 }
