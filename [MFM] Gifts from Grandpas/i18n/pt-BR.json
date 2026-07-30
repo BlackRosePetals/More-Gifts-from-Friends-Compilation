@@ -1,21 +1,25 @@
 //Brasilian Translation
 //pt-BR.json
 {
-  "GrandFatherLetter01": "@,^Querido netinho espero que tenha vindo para minha velha fazenda com boas intenções.^E para fazer novos amigos é claro, se seguir os meus passos poderá ter uma vida maravilhosa aqui no vale.^Mas não pense que eu me esqueci do meu neto querido, deixei alguns presentes para te ajudar, a vida no campo não é fácil!^Alguns dos meus melhores amigos vão te ajudar também, se você se tornar amigo deles é claro!^Aproveite o primeiro presente do seu avô!^Um baú cheio de tesouros!^^- Vovô.",
+  "GrandFatherLetter01": "@,^Meu querido netinho espero que tenha vindo para minha velha fazenda com boas intenções.^E para fazer novos amigos é claro, se seguir os meus passos poderá ter uma vida maravilhosa aqui no vale.^Mas não pense que eu me esqueci do meu neto querido, deixei alguns presentes para te ajudar, a vida no campo não é fácil!^Alguns dos meus melhores amigos vão te ajudar também, se você se tornar amigo deles é claro!^Aproveite o primeiro presente do seu avô!^Um baú cheio de tesouros!^^- Vovô.",
   
-  "GrandFatherLetterFarming01": "",
-  "GrandFatherLetterFarming10": "",
+  "GrandFatherLetterFarming01": "Soube que suas primeiras plantações estão crescendo muito bem.^Guardei um pouco deste fertilizante para quando você começasse a entender a terra.^Espero que ele ajude sua próxima colheita a ser ainda melhor.^^Um bom fazendeiro sabe que a paciência sempre dá frutos.^^-Vovô",
 
-  "GrandFatherLetterMining01": "",
-  "GrandFatherLetterMining10": "",
+  "GrandFatherLetterFarming10": "Você se tornou um verdadeiro mestre da agricultura.^Este fertilizante especial era reservado para as colheitas das quais eu mais me orgulhava.^Agora ele pertence a você.^Continue cuidando da fazenda com o mesmo carinho que colocou em cada semente.^^-Vovô",
+
+  "GrandFatherLetterMining01": "As minas podem ser um lugar duro, mas quem trabalha com dedicação sempre encontra seu caminho.^Nunca faltava carvão na minha oficina, então separei um pouco para você.^Tenho certeza de que será útil.^Tome cuidado lá embaixo.^^-Vovô",
+
+  "GrandFatherLetterMining10": "Poucos conseguem dominar as profundezas das minas como você conseguiu.^Encontrei este pó mágico entre minhas antigas ferramentas.^Use-o com sabedoria!As vezes economizar tempo é tão valioso quanto encontrar um tesouro.^Estou muito orgulhoso de você.^^-Vovô",
   
-  "GrandFatherLetterForaging01": "",
-  "GrandFatherLetterForaging10": "",
+  "GrandFatherLetterForaging01": "Aprender a observar a natureza é um dos maiores talentos de um fazendeiro.^O musgo pode parecer simples, mas quem presta atenção descobre que até as menores coisas têm grande valor^.Espero que ele lhe seja útil.^^-Vovô",
+
+  "GrandFatherLetterForaging10": "Você aprendeu a entender a floresta como poucos conseguem.^Guardei uma semente muito especial durante muitos anos.^Acho que finalmente encontrei alguém digno de plantá-la.Cuide bem dela.^^-Vovô",
   
-  "GrandFatherLetterFishing01": "",
-  "GrandFatherLetterFishing10": "",
+  "GrandFatherLetterFishing01": "Pescar nunca foi apenas pegar peixes.^É aprender a esperar o momento certo.^Este velho apetrecho me trouxe muitas boas lembranças.^Agora espero que ele traga algumas para você também.^Boa pescaria.^^-Vovô",
 
-  "GrandFatherLetterCombat01": "",
-  "GrandFatherLetterCombat10": ""
+  "GrandFatherLetterFishing10": "Os peixes já não têm muitos segredos para você.^Este flutuador sempre me ajudava quando eu procurava capturar os melhores exemplares.^Tenho certeza de que estará em boas mãos.^Que os rios continuem generosos.^^-Vovô",
 
+  "GrandFatherLetterCombat01": "Nem todo problema precisa ser resolvido com uma espada.^Quando eu queria explorar em paz, levava um pouco deste óleo comigo.^Talvez ele também torne sua jornada um pouco mais tranquila.^Cuide-se.^^-Vovô",
+
+  "GrandFatherLetterCombat10": "Você enfrentou perigos que poucos agricultores sequer imaginam.^Este perfume sempre atraía monstros curiosos.^Eu o guardava apenas para quando realmente queria testar minhas habilidades.^Acho que chegou a sua vez.^^Boa sorte.^^-Vovô"
 }
