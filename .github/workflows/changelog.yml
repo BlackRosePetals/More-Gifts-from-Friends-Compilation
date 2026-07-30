@@ -69,7 +69,6 @@ jobs:
             -x "README.md" \
             -x "CHANGELOG.md" \
             -x "README.bbcode" \
-            -x "manifest.json" \
             -x "*.zip"
 
       - name: Gerar notas da release
