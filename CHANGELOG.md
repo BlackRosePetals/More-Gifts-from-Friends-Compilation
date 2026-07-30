@@ -314,3 +314,25 @@ Update README.md to include a note and link pointing to the mod's GitHub release
 
 
 
+
+## Unreleased
+
+
+### Outras alterações
+
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
+
+
+#### Add --autostash to git pull in workflow
+
+Update .github/workflows/sync-readme-bbcode.yml: change `git pull --rebase origin main` to `git pull --rebase --autostash origin main`. This ensures local modifications are stashed/unstashed automatically during the rebase, preventing failures when the working directory has uncommitted changes and improving the reliability of the sync/commit step.
+
+
+
+### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+
+
