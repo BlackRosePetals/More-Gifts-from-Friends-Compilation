@@ -1,4 +1,4 @@
-# Gifts From Friends Compilation
+# Gifts From Friends Compilation v1.7.0
 
 A compilation of all my mods together to make the installation process easier and faster.
 
@@ -45,7 +45,7 @@ Repeatable letters and much more!
 [*] v1.2.0 - Gifts from Emilly
 [*] v1.2.0 - Gifts from Evelyn
 [*] v1.0.2 - Gifts from George
-[*] v0.2.0 - Gifts from Grandpas [Compilation Exclusive more content will be added after updates.]
+[*] v0.2.0 - Gifts from Grandpas [Compilation Exclusive Updated]
 [*] v1.0.0 - Gifts from Gus
 [*] v1.0.0 - Gifts from Haley
 [*] v1.0.0 - Gifts from Harvey
@@ -82,15 +82,6 @@ If you already use any of these mods, it is very important that you remove them 
 Tests were performed using the mobile version of the game and did not present any errors or file conflicts, provided the above instructions were followed for installation and updating.
 
 The game should work normally on any platform that supports mods, since mobile is the least robust for running many mods and it worked without problems.
-
-# Updates
-
-    Grandfather letters entries added
-    Two letters for each available skill
-    Level 1 letters itens added
-    Level 10 letters itens still need to be changed
-    Letters for all levels still need to be added
-    Translations for all languages ​​still need to be added.
 
 [line]
 
