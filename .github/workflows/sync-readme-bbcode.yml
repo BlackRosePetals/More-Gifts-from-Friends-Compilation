@@ -12,6 +12,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: main-branch-auto-commit
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -53,6 +57,10 @@ jobs:
       - name: Converter BBCode -> Markdown
         if: steps.changed.outputs.direction == 'to-md'
         run: python scripts/md_bbcode_sync.py to-md README.bbcode -o README.md
+
+      - name: Sincronizar com o remoto antes de commitar
+        if: steps.changed.outputs.direction != 'none'
+        run: git pull --rebase origin main
 
       - name: Commit do arquivo sincronizado
         if: steps.changed.outputs.direction != 'none'
