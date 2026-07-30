@@ -21,8 +21,7 @@
     "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterFarming10",
     "Attachments": [
-        { "Type": "Object",	"Name": "Mixed Seeds", "Stack": 10 },
-		{ "Type": "BigCraftable", "Name": "Chest", "Stack": 1 }	],
+        { "Type": "Object",	"Name": "Deluxe Fertilizer", "Stack": 20 } ],
 		"SkillConditions": [ { "SkillName": "Farming", "SkillLevel": 10 } ]
 	},
 
@@ -39,8 +38,7 @@
     "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterMining10",
     "Attachments": [
-        { "Type": "Object",	"Name": "Mixed Seeds", "Stack": 10 },
-		{ "Type": "BigCraftable", "Name": "Chest", "Stack": 1 }	],
+        { "Type": "Object",	"Name": "Fairy Dust", "Stack": 1 }	],
 		"SkillConditions": [ { "SkillName": "Mining", "SkillLevel": 10 } ]
 	},
 
@@ -57,8 +55,7 @@
     "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterForaging10",
     "Attachments": [
-        { "Type": "Object",	"Name": "Mixed Seeds", "Stack": 10 },
-		{ "Type": "BigCraftable", "Name": "Chest", "Stack": 1 }	],
+        { "Type": "Object",	"Name": "Mystic Tree Seed", "Stack": 1 } ],
 		"SkillConditions": [ { "SkillName": "Foraging", "SkillLevel": 10 } ]
 	},
 
@@ -75,8 +72,7 @@
     "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterFishing10",
     "Attachments": [
-        { "Type": "Object",	"Name": "Mixed Seeds", "Stack": 10 },
-		{ "Type": "BigCraftable", "Name": "Chest", "Stack": 1 }	],
+        { "Type": "Object",	"Name": "Quality Bobber", "Stack": 1 } ],
 		"SkillConditions": [ { "SkillName": "Fishing", "SkillLevel": 10 } ]
 	},
 
@@ -93,8 +89,7 @@
     "GroupId": "GrandFatherLetters",
 	"Text": "GrandFatherLetterCombat10",
     "Attachments": [
-        { "Type": "Object",	"Name": "Mixed Seeds", "Stack": 10 },
-		{ "Type": "BigCraftable", "Name": "Chest", "Stack": 1 }	],
+        { "Type": "Object",	"Name": "Monster Musk", "Stack": 1 } ],
 		"SkillConditions": [ { "SkillName": "Combat", "SkillLevel": 10 } ]
 	}
 ]
