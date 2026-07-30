@@ -1,4 +1,4 @@
-# More Gifts From Friends Compilation
+# Gifts From Friends Compilation
 
 A compilation of all my mods together to make the installation process easier and faster.
 
@@ -45,11 +45,12 @@ Repeatable letters and much more!
 [*] v1.2.0 - Gifts from Emilly
 [*] v1.2.0 - Gifts from Evelyn
 [*] v1.0.2 - Gifts from George
-[*] v0.1.0 - Gifts from Grandpas [Compilation Exclusive more content will be added after updates.]
+[*] v0.2.0 - Gifts from Grandpas [Compilation Exclusive more content will be added after updates.]
 [*] v1.0.0 - Gifts from Gus
 [*] v1.0.0 - Gifts from Haley
 [*] v1.0.0 - Gifts from Harvey
 [*] v1.2.0 - Gifts from Jas
+[*] v1.0.1 - Gifts from Jodi
 [*] v1.0.1 - Gifts from Krobus
 [*] v1.1.0 - Gifts from Leah
 [*] v1.4.0 - Gifts from Lewis
