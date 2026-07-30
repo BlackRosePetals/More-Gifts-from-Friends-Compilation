@@ -64,11 +64,11 @@ jobs:
             -x "git-cliff/*" \
             -x "scripts/*" \
             -x ".github/*" \
-            -x ".gitattributes/*" \
+            -x ".gitattributes" \
             -x "cliff.toml" \
             -x "README.md" \
             -x "CHANGELOG.md" \
-            -x "CHANGELOG.bbcode" \
+            -x "README.bbcode" \
             -x "*.zip"
 
       - name: Gerar notas da release
