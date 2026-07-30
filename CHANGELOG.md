@@ -197,10 +197,13 @@ Introduce two Mail Framework content packs: Gifts from Elliott and Gifts from Sa
 
 
 
-## Unreleased
+## v1.7.0 - 2026-07-30
 
 
 ### Outras alterações
+
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
+
 
 #### persist credentials and enable autostash
 
@@ -264,6 +267,14 @@ Update README.md to include a note and link pointing to the mod's GitHub release
 
 
 
+### 🏗 Versão
+
+#### v1.7.0
+
+└─ Nova versão do mod lançada com atualização do mod Gifts from Grandpa's e o mod Gifts from Jodi adidionado
+
+
+
 ### 🐛 Correções
 
 #### changelog workflow excludes
@@ -273,6 +284,14 @@ Update README.md to include a note and link pointing to the mod's GitHub release
 
 
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### Readme Atualizado
+
+└─ Notas da versão 1.7.0 adicionada ao arquivo
+
 
 #### Update no README
 
