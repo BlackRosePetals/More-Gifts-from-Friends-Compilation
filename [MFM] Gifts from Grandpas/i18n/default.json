@@ -1,20 +1,25 @@
 //English Translation
 //default.json
 {
-  "GrandFatherLetter01": "@,^Dear grandson, I hope you came to my old farm with good intentions.^And to make new friends, of course.^If you follow in my footsteps, you can have a wonderful life here in the valley.^But don't think I've forgotten my dear grandson.^I've left some gifts to help you. Life in the countryside isn't easy!^Some of my best friends will help you too, if you become friends with them, of course!^Enjoy your grandfather's first gift!^A chest full of treasures!^^- Grandpa.",
+  "GrandFatherLetter01": "@,^My dear grandchild, I hope you came to my old farm with good intentions.^And to make new friends, of course.^If you follow in my footsteps, you can have a wonderful life here in the valley.^But don't think I've forgotten my dear grandchild.^I've left some gifts to help you. Life in the countryside isn't easy!^Some of my best friends will help you too, if you become friends with them, of course!^Enjoy your grandfather's first gift!^A chest full of treasures!^^- Grandpa.",
   
-  "GrandFatherLetterFarming01": "",
-  "GrandFatherLetterFarming10": "",
+  "GrandFatherLetterFarming01": "I heard your first crops are growing nicely.^I saved some fertilizer for the day you began to understand the land.^I hope it helps make your next harvest even better.^^A good farmer knows that patience always bears fruit.^^- Grandpa",
 
-  "GrandFatherLetterMining01": "",
-  "GrandFatherLetterMining10": "",
-  
-  "GrandFatherLetterForaging01": "",
-  "GrandFatherLetterForaging10": "",
-  
-  "GrandFatherLetterFishing01": "",
-  "GrandFatherLetterFishing10": "",
+  "GrandFatherLetterFarming10": "You've become a true master of farming.^I used to save this special fertilizer for the harvests I was most proud of.^Now it belongs to you.^Keep caring for this farm with the same love you've put into every seed.^^- Grandpa",
 
-  "GrandFatherLetterCombat01": "",
-  "GrandFatherLetterCombat10": ""
+  "GrandFatherLetterMining01": "The mines can be a harsh place, but those who work hard always find their way.^I never let my workshop run out of coal, so I set a little aside for you.^I'm sure you'll find it useful.^Stay safe down there.^^- Grandpa",
+
+  "GrandFatherLetterMining10": "Few people ever master the depths of the mines the way you have.^I found this magical dust among my old tools.^Use it wisely. Sometimes saving time is just as valuable as finding treasure.^I'm very proud of you.^^- Grandpa",
+
+  "GrandFatherLetterForaging01": "Learning to appreciate nature is one of a farmer's greatest talents.^Moss may seem ordinary, but those who pay attention know that even the smallest things can be valuable.^I hope it serves you well.^^- Grandpa",
+
+  "GrandFatherLetterForaging10": "You've learned to understand the forest like few others ever will.^I kept this very special seed safe for many years.^I think I've finally found someone worthy of planting it.^Take good care of it.^^- Grandpa",
+
+  "GrandFatherLetterFishing01": "Fishing has never been just about catching fish.^It's about learning to wait for the right moment.^This old tackle brought me many fond memories.^Now I hope it brings a few to you as well.^Happy fishing!^^- Grandpa",
+
+  "GrandFatherLetterFishing10": "Fish don't have many secrets left to hide from you.^This bobber always helped me land my finest catches.^I'm sure it'll be in good hands now.^May the rivers always be generous to you.^^- Grandpa",
+
+  "GrandFatherLetterCombat01": "Not every problem needs to be solved with a sword.^Whenever I wanted to explore in peace, I carried a little of this oil with me.^Perhaps it'll make your journey a little quieter too.^Take care of yourself.^^- Grandpa",
+
+  "GrandFatherLetterCombat10": "You've faced dangers that few farmers could even imagine.^This scent always attracted curious monsters.^I only used it when I truly wanted to test my skills.^Now I think it's your turn.^^Good luck.^^- Grandpa"
 }
