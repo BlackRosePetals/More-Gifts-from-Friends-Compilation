@@ -1,0 +1,25 @@
+//Portuguese Translation
+//pt.json
+{
+  "GrandFatherLetter01": "@,^Meu querido netinho, espero que tenhas vindo para a minha velha quinta com boas intenções.^E, claro, para fazeres novos amigos. Se seguires os meus passos, poderás ter uma vida maravilhosa aqui no vale.^Mas não penses que me esqueci do meu querido neto. Deixei alguns presentes para te ajudar, porque a vida no campo não é fácil!^Alguns dos meus melhores amigos também te darão uma ajuda... se conquistares a amizade deles, claro.^Aproveita o primeiro presente do teu avô!^Um baú cheio de tesouros!^^- Avô.",
+
+  "GrandFatherLetterFarming01": "Soube que as tuas primeiras culturas estão a crescer muito bem.^Guardei um pouco deste fertilizante para quando começasses a compreender a terra.^Espero que ajude a tornar a tua próxima colheita ainda melhor.^^Um bom agricultor sabe que a paciência dá sempre frutos.^^- Avô",
+
+  "GrandFatherLetterFarming10": "Tornaste-te um verdadeiro mestre da agricultura.^Este fertilizante especial estava reservado para as colheitas de que mais me orgulhava.^Agora pertence-te.^Continua a cuidar da quinta com o mesmo carinho que colocaste em cada semente.^^- Avô",
+
+  "GrandFatherLetterMining01": "As minas podem ser um lugar difícil, mas quem trabalha com dedicação acaba sempre por encontrar o seu caminho.^Nunca deixava faltar carvão na minha oficina, por isso guardei um pouco para ti.^Tenho a certeza de que te será útil.^Tem cuidado lá em baixo.^^- Avô",
+
+  "GrandFatherLetterMining10": "Poucos conseguem dominar as profundezas das minas como tu conseguiste.^Encontrei este pó mágico entre as minhas antigas ferramentas.^Usa-o com sabedoria. Por vezes, poupar tempo vale tanto como encontrar um tesouro.^Estou muito orgulhoso de ti.^^- Avô",
+
+  "GrandFatherLetterForaging01": "Aprender a observar a natureza é um dos maiores talentos de um agricultor.^O musgo pode parecer simples, mas quem presta atenção descobre que até as coisas mais pequenas têm grande valor.^Espero que te seja útil.^^- Avô",
+
+  "GrandFatherLetterForaging10": "Aprendeste a compreender a floresta como poucos conseguem.^Guardei esta semente muito especial durante muitos anos.^Acho que finalmente encontrei alguém digno de a plantar.^Cuida bem dela.^^- Avô",
+
+  "GrandFatherLetterFishing01": "Pescar nunca foi apenas apanhar peixes.^É aprender a esperar pelo momento certo.^Este velho apetrecho trouxe-me muitas boas recordações.^Agora espero que também te traga algumas.^Boa pescaria!^^- Avô",
+
+  "GrandFatherLetterFishing10": "Os peixes já não têm muitos segredos para ti.^Este flutuador ajudou-me sempre a apanhar os melhores exemplares.^Tenho a certeza de que ficará em boas mãos.^Que os rios continuem generosos contigo.^^- Avô",
+
+  "GrandFatherLetterCombat01": "Nem todos os problemas precisam de ser resolvidos com uma espada.^Quando queria explorar em paz, levava um pouco deste óleo comigo.^Talvez também torne a tua jornada um pouco mais tranquila.^Cuida de ti.^^- Avô",
+
+  "GrandFatherLetterCombat10": "Enfrentaste perigos que poucos agricultores conseguem imaginar.^Este perfume atraía sempre monstros curiosos.^Guardava-o apenas para quando queria realmente pôr as minhas capacidades à prova.^Acho que agora chegou a tua vez.^^Boa sorte.^^- Avô"
+}

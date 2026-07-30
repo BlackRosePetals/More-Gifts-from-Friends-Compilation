@@ -1,0 +1,25 @@
+//French Translation
+//fr.json
+{
+  "GrandFatherLetter01": "@,^Mon cher petit-enfant, j'espère que tu es venu dans ma vieille ferme avec de bonnes intentions.^Et, bien sûr, pour te faire de nouveaux amis. Si tu suis mes pas, tu pourras mener une vie merveilleuse ici, dans la vallée.^Mais ne crois pas que je t'ai oublié. Je t'ai laissé quelques cadeaux pour t'aider, car la vie à la ferme n'est pas toujours facile !^Certains de mes meilleurs amis te donneront aussi un coup de main... à condition que tu gagnes leur amitié, bien sûr.^Profite du premier cadeau de ton grand-père !^Un coffre rempli de trésors !^^- Grand-père.",
+
+  "GrandFatherLetterFarming01": "J'ai appris que tes premières cultures poussent très bien.^J'ai gardé un peu de cet engrais pour le jour où tu commencerais à comprendre la terre.^J'espère qu'il t'aidera à obtenir une récolte encore meilleure.^^Un bon fermier sait que la patience finit toujours par porter ses fruits.^^- Grand-père",
+
+  "GrandFatherLetterFarming10": "Tu es devenu un véritable maître de l'agriculture.^Je réservais cet engrais spécial aux récoltes dont j'étais le plus fier.^À présent, il est à toi.^Continue à prendre soin de la ferme avec le même amour que tu mets dans chacune de tes graines.^^- Grand-père",
+
+  "GrandFatherLetterMining01": "Les mines peuvent être un endroit difficile, mais ceux qui travaillent avec persévérance finissent toujours par trouver leur chemin.^Je ne laissais jamais manquer de charbon dans mon atelier, alors j'en ai mis un peu de côté pour toi.^Je suis certain qu'il te sera utile.^Sois prudent là-dessous.^^- Grand-père",
+
+  "GrandFatherLetterMining10": "Peu de gens parviennent à maîtriser les profondeurs des mines comme tu l'as fait.^J'ai retrouvé cette poussière magique parmi mes vieux outils.^Utilise-la avec sagesse. Parfois, gagner du temps vaut autant que découvrir un trésor.^Je suis très fier de toi.^^- Grand-père",
+
+  "GrandFatherLetterForaging01": "Apprendre à observer la nature est l'un des plus grands talents d'un fermier.^La mousse peut sembler ordinaire, mais ceux qui savent regarder découvrent que même les plus petites choses ont une grande valeur.^J'espère qu'elle te sera utile.^^- Grand-père",
+
+  "GrandFatherLetterForaging10": "Tu as appris à comprendre la forêt comme peu de personnes en sont capables.^J'ai gardé cette graine très spéciale pendant de nombreuses années.^Je crois avoir enfin trouvé quelqu'un digne de la planter.^Prends-en bien soin.^^- Grand-père",
+
+  "GrandFatherLetterFishing01": "La pêche n'a jamais consisté uniquement à attraper des poissons.^C'est aussi apprendre à attendre le bon moment.^Ce vieil accessoire m'a laissé de merveilleux souvenirs.^J'espère qu'il t'en apportera autant.^Bonne pêche !^^- Grand-père",
+
+  "GrandFatherLetterFishing10": "Les poissons n'ont plus beaucoup de secrets pour toi.^Ce flotteur m'a toujours aidé à réaliser mes plus belles prises.^Je suis certain qu'il sera entre de bonnes mains.^Que les rivières continuent de te combler.^^- Grand-père",
+
+  "GrandFatherLetterCombat01": "Tous les problèmes ne se règlent pas avec une épée.^Lorsque je voulais explorer en toute tranquillité, j'emportais toujours un peu de cette huile avec moi.^Peut-être rendra-t-elle aussi ton voyage un peu plus paisible.^Prends soin de toi.^^- Grand-père",
+
+  "GrandFatherLetterCombat10": "Tu as affronté des dangers que peu de fermiers pourraient imaginer.^Ce parfum attirait toujours les monstres les plus curieux.^Je ne le gardais que pour les moments où je voulais vraiment mettre mes compétences à l'épreuve.^Je crois que c'est désormais ton tour.^^Bonne chance !^^- Grand-père"
+}

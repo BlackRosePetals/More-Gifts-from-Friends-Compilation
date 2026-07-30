@@ -1,0 +1,25 @@
+//Hungarian Translation
+//hu.json
+{
+  "GrandFatherLetter01": "@,^Kedves unokám, remélem, jó szándékkal érkeztél a régi farmomra.^És persze azért is, hogy új barátokat szerezz. Ha a nyomdokaimba lépsz, csodálatos élet várhat rád itt, a völgyben.^De ne hidd, hogy megfeledkeztem rólad. Hagytam neked néhány ajándékot, hogy megkönnyítsem a kezdetet. A farmon az élet nem mindig könnyű!^Néhány régi jó barátom is segíteni fog... persze csak akkor, ha elnyered a barátságukat.^Fogadd szeretettel az első ajándékot a nagyapádtól!^Egy láda tele kincsekkel!^^- Nagyapa.",
+
+  "GrandFatherLetterFarming01": "Úgy hallottam, szépen fejlődnek az első terményeid.^Eltettem egy kis műtrágyát arra a napra, amikor igazán megérted a földet.^Remélem, segít, hogy a következő aratásod még sikeresebb legyen.^^Egy jó gazda tudja, hogy a türelem mindig meghozza a gyümölcsét.^^- Nagyapa",
+
+  "GrandFatherLetterFarming10": "Igazi mesterré váltál a gazdálkodásban.^Ezt a különleges műtrágyát mindig a legszebb terméseimhez tartogattam.^Most már a tiéd.^Gondoskodj továbbra is a farmról ugyanazzal a szeretettel, amit minden egyes magba fektetsz.^^- Nagyapa",
+
+  "GrandFatherLetterMining01": "A bányák kemény helyek lehetnek, de aki kitartóan dolgozik, mindig megtalálja az útját.^A műhelyemben sosem fogyhatott el a szén, ezért félretettem belőle neked is.^Biztos vagyok benne, hogy hasznodra válik.^Vigyázz magadra odalent.^^- Nagyapa",
+
+  "GrandFatherLetterMining10": "Kevesen jutnak el odáig, hogy úgy ismerjék a bányák mélyét, mint te.^Ezt a varázsport a régi szerszámaim között találtam.^Használd bölcsen. Néha az idő megtakarítása épp annyit ér, mint egy kincs megtalálása.^Nagyon büszke vagyok rád.^^- Nagyapa",
+
+  "GrandFatherLetterForaging01": "A természet megfigyelése a gazdálkodás egyik legfontosabb képessége.^A moha egyszerűnek tűnhet, de aki figyelmes, tudja, hogy még a legapróbb dolgok is nagy értéket képviselhetnek.^Remélem, hasznodra lesz.^^- Nagyapa",
+
+  "GrandFatherLetterForaging10": "Megtanultad úgy érteni az erdőt, ahogyan csak kevesen képesek.^Sok éven át őriztem ezt a különleges magot.^Úgy érzem, végre megtaláltam azt, aki méltó arra, hogy elültesse.^Viseld gondját.^^- Nagyapa",
+
+  "GrandFatherLetterFishing01": "A horgászat sosem csak a halak kifogásáról szólt.^Hanem arról is, hogy megtanulj kivárni a megfelelő pillanatot.^Ez a régi felszerelés sok szép emléket adott nekem.^Remélem, neked is sokat fog.^^Jó horgászatot!^^- Nagyapa",
+
+  "GrandFatherLetterFishing10": "A halaknak már alig maradt titkuk előtted.^Ez az úszó mindig segített a legjobb fogásokat megszerezni.^Biztos vagyok benne, hogy jó kezekbe került.^Legyenek hozzád továbbra is bőkezűek a folyók.^^- Nagyapa",
+
+  "GrandFatherLetterCombat01": "Nem minden problémát kell karddal megoldani.^Amikor nyugodtan akartam felfedezni a környéket, mindig vittem magammal egy keveset ebből az olajból.^Talán a te utadat is egy kicsit békésebbé teszi.^Vigyázz magadra.^^- Nagyapa",
+
+  "GrandFatherLetterCombat10": "Olyan veszélyekkel néztél szembe, amelyeket kevés gazda tudna elképzelni.^Ez az illat mindig odavonzotta a legkíváncsibb szörnyeket.^Csak akkor használtam, amikor igazán próbára akartam tenni magam.^Úgy gondolom, most rajtad a sor.^^Sok szerencsét!^^- Nagyapa"
+}

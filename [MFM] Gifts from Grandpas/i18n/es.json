@@ -1,0 +1,25 @@
+//Spanish Translation
+//es.json
+{
+  "GrandFatherLetter01": "@,^Mi querido nieto, espero que hayas venido a mi vieja granja con buenas intenciones.^Y, por supuesto, a hacer nuevos amigos. Si sigues mis pasos, podrás tener una vida maravillosa aquí en el valle.^Pero no pienses que me he olvidado de ti. Dejé algunos regalos para ayudarte, ¡la vida en el campo no es fácil!^Algunos de mis mejores amigos también te echarán una mano... claro, si consigues ganarte su amistad.^¡Disfruta del primer regalo de tu abuelo!^¡Un cofre lleno de tesoros!^^- Abuelo.",
+
+  "GrandFatherLetterFarming01": "He oído que tus primeros cultivos están creciendo muy bien.^Guardé un poco de este fertilizante para cuando empezaras a comprender la tierra.^Espero que ayude a que tu próxima cosecha sea aún mejor.^^Un buen agricultor sabe que la paciencia siempre da sus frutos.^^- Abuelo",
+
+  "GrandFatherLetterFarming10": "Te has convertido en un verdadero maestro de la agricultura.^Reservaba este fertilizante especial para las cosechas de las que me sentía más orgulloso.^Ahora te pertenece.^Sigue cuidando la granja con el mismo cariño que has puesto en cada semilla.^^- Abuelo",
+
+  "GrandFatherLetterMining01": "Las minas pueden ser un lugar duro, pero quien trabaja con dedicación siempre encuentra su camino.^Nunca dejaba que faltara carbón en mi taller, así que guardé un poco para ti.^Estoy seguro de que te será útil.^Ten cuidado ahí abajo.^^- Abuelo",
+
+  "GrandFatherLetterMining10": "Pocas personas logran dominar las profundidades de las minas como tú lo has hecho.^Encontré este polvo mágico entre mis viejas herramientas.^Úsalo con sabiduría. A veces ahorrar tiempo vale tanto como encontrar un tesoro.^Estoy muy orgulloso de ti.^^- Abuelo",
+
+  "GrandFatherLetterForaging01": "Aprender a observar la naturaleza es uno de los mayores talentos de un agricultor.^El musgo puede parecer algo sencillo, pero quien presta atención descubre que incluso las cosas más pequeñas tienen un gran valor.^Espero que te sea de utilidad.^^- Abuelo",
+
+  "GrandFatherLetterForaging10": "Has aprendido a comprender el bosque como muy pocos.^Guardé esta semilla tan especial durante muchos años.^Creo que por fin he encontrado a alguien digno de plantarla.^Cuídala bien.^^- Abuelo",
+
+  "GrandFatherLetterFishing01": "Pescar nunca ha sido solo atrapar peces.^Se trata de aprender a esperar el momento adecuado.^Este viejo aparejo me dejó muchos buenos recuerdos.^Ahora espero que también te los dé a ti.^¡Buena pesca!^^- Abuelo",
+
+  "GrandFatherLetterFishing10": "Los peces ya no guardan muchos secretos para ti.^Este flotador siempre me ayudó a conseguir las mejores capturas.^Estoy seguro de que estará en buenas manos.^Que los ríos sigan siendo generosos contigo.^^- Abuelo",
+
+  "GrandFatherLetterCombat01": "No todos los problemas necesitan resolverse con una espada.^Cuando quería explorar en paz, llevaba un poco de este aceite conmigo.^Quizá también haga tu viaje un poco más tranquilo.^Cuídate.^^- Abuelo",
+
+  "GrandFatherLetterCombat10": "Te has enfrentado a peligros que pocos agricultores podrían imaginar.^Este aroma siempre atraía a los monstruos más curiosos.^Solo lo guardaba para cuando realmente quería poner a prueba mis habilidades.^Creo que ahora ha llegado tu turno.^^¡Buena suerte!^^- Abuelo"
+}

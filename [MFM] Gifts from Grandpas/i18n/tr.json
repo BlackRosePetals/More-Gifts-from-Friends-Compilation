@@ -1,0 +1,25 @@
+//Turkish Translation
+//tr.json
+{
+  "GrandFatherLetter01": "@,^Sevgili torunum, umarım eski çiftliğime iyi niyetlerle geldin.^Ve elbette yeni dostlar edinmek için de. Benim izimden gidersen, bu vadide harika bir yaşam kurabilirsin.^Ama seni unuttuğumu sanma. Başlangıcını biraz daha kolaylaştırmak için sana birkaç hediye bıraktım. Çiftlik hayatı her zaman kolay değildir!^Eski dostlarımdan bazıları da sana yardım edecektir... tabii önce onların dostluğunu kazanırsan.^Şimdi büyükbabanın ilk hediyesinin tadını çıkar!^Hazinelerle dolu bir sandık!^^- Büyükbaba.",
+
+  "GrandFatherLetterFarming01": "İlk mahsullerinin güzelce büyüdüğünü duydum.^Toprağı gerçekten anlamaya başladığın gün için biraz gübre saklamıştım.^Umarım bir sonraki hasadını daha da bereketli yapar.^^İyi bir çiftçi, sabrın her zaman karşılığını verdiğini bilir.^^- Büyükbaba",
+
+  "GrandFatherLetterFarming10": "Gerçek bir çiftçilik ustası oldun.^Bu özel gübreyi her zaman en gurur duyduğum hasatlar için saklardım.^Artık senin.^Çiftliğine, her bir tohuma gösterdiğin aynı özenle bakmaya devam et.^^- Büyükbaba",
+
+  "GrandFatherLetterMining01": "Madenler zorlu yerler olabilir, ama azimle çalışanlar her zaman yollarını bulur.^Atölyemde kömürün hiç bitmesine izin vermezdim, bu yüzden senin için de biraz ayırdım.^Eminim işine yarayacaktır.^Aşağıda dikkatli ol.^^- Büyükbaba",
+
+  "GrandFatherLetterMining10": "Madenlerin derinliklerine senin kadar hâkim olabilen çok az kişi vardır.^Eski aletlerimin arasında bu sihirli tozu buldum.^Onu akıllıca kullan. Bazen zaman kazanmak, bir hazine bulmak kadar değerlidir.^Seninle gurur duyuyorum.^^- Büyükbaba",
+
+  "GrandFatherLetterForaging01": "Doğayı gözlemlemeyi öğrenmek, iyi bir çiftçinin en büyük yeteneklerinden biridir.^Yosun sıradan görünebilir, ama dikkatle bakanlar en küçük şeylerin bile büyük değer taşıdığını bilir.^Umarım sana faydalı olur.^^- Büyükbaba",
+
+  "GrandFatherLetterForaging10": "Ormanı, çok az kişinin anlayabileceği kadar iyi tanımayı öğrendin.^Bu özel tohumu uzun yıllar boyunca sakladım.^Sanırım sonunda onu ekecek doğru kişiyi buldum.^Ona iyi bak.^^- Büyükbaba",
+
+  "GrandFatherLetterFishing01": "Balık tutmak hiçbir zaman sadece balık yakalamaktan ibaret olmadı.^Doğru anı beklemeyi öğrenmek de işin bir parçasıdır.^Bu eski olta takımı bana pek çok güzel anı bıraktı.^Umarım sana da güzel anılar kazandırır.^Rastgele!^^- Büyükbaba",
+
+  "GrandFatherLetterFishing10": "Balıkların artık senden saklayacak pek sırrı kalmadı.^Bu şamandıra bana her zaman en iyi avları yakalamamda yardımcı oldu.^Artık eminim ki iyi ellerde olacak.^Nehirler sana cömert davranmaya devam etsin.^^- Büyükbaba",
+
+  "GrandFatherLetterCombat01": "Her sorun kılıçla çözülmek zorunda değildir.^Huzur içinde keşfe çıkmak istediğimde, yanımda her zaman bu yağdan biraz bulundururdum.^Belki senin yolculuğunu da biraz daha sakin hâle getirir.^Kendine iyi bak.^^- Büyükbaba",
+
+  "GrandFatherLetterCombat10": "Çok az çiftçinin hayal bile edebileceği tehlikelerle yüzleştin.^Bu koku her zaman en meraklı canavarları kendine çekerdi.^Onu yalnızca gerçekten kendimi sınamak istediğim zamanlarda kullanırdım.^Şimdi sıranın sana geldiğini düşünüyorum.^^Bol şans!^^- Büyükbaba"
+}

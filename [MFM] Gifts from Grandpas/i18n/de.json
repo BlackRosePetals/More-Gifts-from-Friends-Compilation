@@ -1,0 +1,25 @@
+//German Translation
+//de.json
+{
+  "GrandFatherLetter01": "@,^Mein liebes Enkelkind, ich hoffe, du bist mit guten Absichten auf meinen alten Bauernhof gekommen.^Und natürlich auch, um neue Freunde zu finden. Wenn du meinen Spuren folgst, kannst du hier im Tal ein wundervolles Leben führen.^Aber glaub nicht, dass ich dich vergessen habe. Ich habe ein paar Geschenke für dich hinterlassen, um dir den Anfang zu erleichtern. Das Leben auf einem Bauernhof ist nicht immer einfach!^Einige meiner besten Freunde werden dir ebenfalls helfen... natürlich nur, wenn du ihre Freundschaft gewinnst.^Genieß das erste Geschenk deines Großvaters!^Eine Truhe voller Schätze!^^- Opa.",
+
+  "GrandFatherLetterFarming01": "Ich habe gehört, dass deine ersten Pflanzen prächtig wachsen.^Ich habe etwas von diesem Dünger für den Tag aufbewahrt, an dem du lernst, die Erde zu verstehen.^Ich hoffe, er hilft dir dabei, deine nächste Ernte noch besser zu machen.^^Ein guter Bauer weiß, dass Geduld immer ihre Früchte trägt.^^- Opa",
+
+  "GrandFatherLetterFarming10": "Du bist ein wahrer Meister der Landwirtschaft geworden.^Diesen besonderen Dünger habe ich immer für die Ernten aufbewahrt, auf die ich am stolzesten war.^Jetzt gehört er dir.^Kümmere dich weiterhin mit derselben Hingabe um deinen Hof, die du jedem einzelnen Samen schenkst.^^- Opa",
+
+  "GrandFatherLetterMining01": "Die Minen können ein harter Ort sein, aber wer mit Ausdauer arbeitet, findet immer seinen Weg.^In meiner Werkstatt durfte die Kohle niemals ausgehen, deshalb habe ich etwas für dich zurückgelegt.^Ich bin sicher, dass sie dir nützlich sein wird.^Pass gut auf dich auf da unten.^^- Opa",
+
+  "GrandFatherLetterMining10": "Nur wenige meistern die Tiefen der Minen so wie du.^Ich habe dieses magische Pulver zwischen meinen alten Werkzeugen gefunden.^Setze es mit Bedacht ein. Manchmal ist es genauso wertvoll, Zeit zu sparen, wie einen Schatz zu finden.^Ich bin sehr stolz auf dich.^^- Opa",
+
+  "GrandFatherLetterForaging01": "Die Natur zu beobachten gehört zu den größten Talenten eines Bauern.^Moos mag unscheinbar wirken, doch wer genau hinsieht, erkennt, dass selbst die kleinsten Dinge von großem Wert sein können.^Ich hoffe, es wird dir gute Dienste leisten.^^- Opa",
+
+  "GrandFatherLetterForaging10": "Du hast gelernt, den Wald zu verstehen wie nur wenige andere.^Ich habe diesen ganz besonderen Samen viele Jahre lang aufbewahrt.^Ich glaube, ich habe endlich jemanden gefunden, der würdig ist, ihn zu pflanzen.^Pass gut auf ihn auf.^^- Opa",
+
+  "GrandFatherLetterFishing01": "Beim Angeln geht es nicht nur darum, Fische zu fangen.^Es geht auch darum, auf den richtigen Moment zu warten.^Dieses alte Angelzubehör hat mir viele schöne Erinnerungen beschert.^Ich hoffe, es bringt auch dir einige davon.^Petri Heil!^^- Opa",
+
+  "GrandFatherLetterFishing10": "Die Fische haben kaum noch Geheimnisse vor dir.^Dieser Schwimmer hat mir immer geholfen, meine besten Fänge zu machen.^Ich bin sicher, dass er bei dir in guten Händen ist.^Mögen die Flüsse dir weiterhin reichlich schenken.^^- Opa",
+
+  "GrandFatherLetterCombat01": "Nicht jedes Problem muss mit einem Schwert gelöst werden.^Wenn ich in Ruhe auf Erkundung gehen wollte, nahm ich immer etwas von diesem Öl mit.^Vielleicht macht es auch deine Reise ein wenig friedlicher.^Pass gut auf dich auf.^^- Opa",
+
+  "GrandFatherLetterCombat10": "Du hast Gefahren gemeistert, die sich nur wenige Bauern überhaupt vorstellen können.^Dieser Duft lockte immer die neugierigsten Monster an.^Ich habe ihn nur benutzt, wenn ich meine Fähigkeiten wirklich auf die Probe stellen wollte.^Ich glaube, jetzt bist du an der Reihe.^^Viel Glück!^^- Opa"
+}

@@ -1,0 +1,25 @@
+//Polish Translation
+//pl.json
+{
+  "GrandFatherLetter01": "@,^Drogi wnuku, mam nadzieję, że przybyłeś na moją starą farmę z dobrymi intencjami.^I oczywiście po to, by poznać nowych przyjaciół. Jeśli pójdziesz moimi śladami, czeka cię tutaj, w dolinie, wspaniałe życie.^Ale nie myśl, że o tobie zapomniałem. Zostawiłem ci kilka prezentów, które pomogą ci na początku. Życie na farmie nie zawsze jest łatwe!^Kilku moich dawnych przyjaciół również ci pomoże... oczywiście, jeśli zdobędziesz ich przyjaźń.^Przyjmij pierwszy prezent od swojego dziadka!^Skrzynia pełna skarbów!^^- Dziadek.",
+
+  "GrandFatherLetterFarming01": "Słyszałem, że twoje pierwsze plony rosną bardzo dobrze.^Zachowałem trochę tego nawozu na dzień, w którym zaczniesz naprawdę rozumieć ziemię.^Mam nadzieję, że pomoże ci uzyskać jeszcze lepsze zbiory.^^Dobry rolnik wie, że cierpliwość zawsze przynosi owoce.^^- Dziadek",
+
+  "GrandFatherLetterFarming10": "Stałeś się prawdziwym mistrzem rolnictwa.^Ten wyjątkowy nawóz zawsze zostawiałem na plony, z których byłem najbardziej dumny.^Teraz należy do ciebie.^Dbaj o farmę z taką samą troską, z jaką zasiewasz każde ziarno.^^- Dziadek",
+
+  "GrandFatherLetterMining01": "Kopalnie potrafią być niebezpiecznym miejscem, ale wytrwałość zawsze prowadzi do celu.^W moim warsztacie nigdy nie mogło zabraknąć węgla, dlatego odłożyłem trochę również dla ciebie.^Jestem pewien, że ci się przyda.^Uważaj na siebie tam na dole.^^- Dziadek",
+
+  "GrandFatherLetterMining10": "Niewielu potrafi opanować głębiny kopalń tak jak ty.^Znalazłem ten magiczny pył pośród swoich starych narzędzi.^Używaj go mądrze. Czasem zaoszczędzony czas jest równie cenny jak znaleziony skarb.^Jestem z ciebie bardzo dumny.^^- Dziadek",
+
+  "GrandFatherLetterForaging01": "Umiejętność dostrzegania piękna natury to jedna z najważniejszych cech dobrego rolnika.^Mech może wydawać się zwyczajny, ale uważne spojrzenie pozwala odkryć wartość nawet najmniejszych rzeczy.^Mam nadzieję, że dobrze ci posłuży.^^- Dziadek",
+
+  "GrandFatherLetterForaging10": "Nauczyłeś się rozumieć las jak niewielu ludzi.^Przechowywałem to wyjątkowe nasiono przez wiele lat.^Myślę, że wreszcie znalazłem osobę godną, by je zasadzić.^Dbaj o nie dobrze.^^- Dziadek",
+
+  "GrandFatherLetterFishing01": "Wędkowanie nigdy nie polegało wyłącznie na łowieniu ryb.^To także sztuka cierpliwego czekania na właściwy moment.^Ten stary sprzęt wędkarski przyniósł mi wiele pięknych wspomnień.^Mam nadzieję, że tobie również ich dostarczy.^Udanych połowów!^^- Dziadek",
+
+  "GrandFatherLetterFishing10": "Ryby nie mają już przed tobą wielu tajemnic.^Ten spławik zawsze pomagał mi łowić najlepsze okazy.^Jestem pewien, że teraz trafił w dobre ręce.^Niech rzeki nadal będą dla ciebie hojnie.^^- Dziadek",
+
+  "GrandFatherLetterCombat01": "Nie każdy problem trzeba rozwiązywać mieczem.^Kiedy chciałem spokojnie odkrywać okolicę, zawsze zabierałem ze sobą trochę tego oleju.^Być może również twoją podróż uczyni nieco spokojniejszą.^Dbaj o siebie.^^- Dziadek",
+
+  "GrandFatherLetterCombat10": "Stawiłeś czoła niebezpieczeństwom, których większość rolników nawet nie potrafi sobie wyobrazić.^Ten zapach zawsze przyciągał najbardziej ciekawskie potwory.^Używałem go tylko wtedy, gdy naprawdę chciałem wystawić swoje umiejętności na próbę.^Teraz przyszła kolej na ciebie.^^Powodzenia!^^- Dziadek"
+}

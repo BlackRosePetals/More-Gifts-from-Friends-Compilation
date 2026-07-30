@@ -1,0 +1,25 @@
+//Czech Translation
+//cs.json
+{
+  "GrandFatherLetter01": "@,^Milé vnouče, doufám, že jsi na můj starý statek přišel s dobrými úmysly.^A samozřejmě také poznat nové přátele. Když půjdeš v mých stopách, můžeš tu v údolí prožít krásný život.^Ale nemysli si, že jsem na tebe zapomněl. Nechal jsem ti pár dárků, aby ti pomohly na začátku. Život na statku není vždy snadný!^Několik mých starých přátel ti také podá pomocnou ruku... samozřejmě pokud si získáš jejich přátelství.^Užij si první dárek od svého dědečka!^Truhla plná pokladů!^^- Dědeček.",
+
+  "GrandFatherLetterFarming01": "Slyšel jsem, že se tvým prvním plodinám daří opravdu dobře.^Schoval jsem trochu tohoto hnojiva na dobu, kdy začneš skutečně rozumět půdě.^Doufám, že ti pomůže k ještě lepší příští sklizni.^^Dobrý farmář ví, že trpělivost vždy přináší své ovoce.^^- Dědeček",
+
+  "GrandFatherLetterFarming10": "Stal ses skutečným mistrem zemědělství.^Toto speciální hnojivo jsem si nechával pro sklizně, na které jsem byl nejvíce pyšný.^Teď je tvoje.^Pokračuj v péči o statek se stejnou láskou, jakou věnuješ každému semínku.^^- Dědeček",
+
+  "GrandFatherLetterMining01": "Doly mohou být nebezpečné místo, ale ten, kdo vytrvá, vždy najde svou cestu.^V mé dílně nikdy nesmělo dojít uhlí, proto jsem trochu schoval i pro tebe.^Jsem si jistý, že se ti bude hodit.^Dávej na sebe dole pozor.^^- Dědeček",
+
+  "GrandFatherLetterMining10": "Jen málokdo dokáže ovládnout hlubiny dolů tak jako ty.^Mezi svými starými nástroji jsem našel tento kouzelný prášek.^Používej ho moudře. Někdy je ušetřený čas stejně cenný jako nalezený poklad.^Jsem na tebe opravdu pyšný.^^- Dědeček",
+
+  "GrandFatherLetterForaging01": "Naučit se vnímat přírodu je jednou z nejdůležitějších schopností dobrého farmáře.^Mech se může zdát obyčejný, ale kdo se umí dívat, ví, že i ty nejmenší věci mohou mít velkou hodnotu.^Doufám, že ti dobře poslouží.^^- Dědeček",
+
+  "GrandFatherLetterForaging10": "Naučil ses rozumět lesu tak jako jen málokdo.^Toto výjimečné semínko jsem opatroval mnoho let.^Myslím, že jsem konečně našel někoho, kdo si zaslouží ho zasadit.^Dobře se o něj starej.^^- Dědeček",
+
+  "GrandFatherLetterFishing01": "Rybaření nikdy nebylo jen o chytání ryb.^Je také o tom naučit se čekat na správný okamžik.^Toto staré rybářské vybavení mi přineslo mnoho krásných vzpomínek.^Doufám, že je přinese i tobě.^Přeji hodně štěstí při rybaření!^^- Dědeček",
+
+  "GrandFatherLetterFishing10": "Ryby už před tebou mnoho tajemství neskrývají.^Tento splávek mi vždy pomáhal ulovit ty nejlepší úlovky.^Jsem si jistý, že teď bude v dobrých rukou.^Ať jsou k tobě řeky i nadále štědré.^^- Dědeček",
+
+  "GrandFatherLetterCombat01": "Ne každý problém je třeba řešit mečem.^Když jsem chtěl v klidu prozkoumávat okolí, vždy jsem s sebou nosil trochu tohoto oleje.^Možná učiní i tvoji cestu o něco klidnější.^Opatruj se.^^- Dědeček",
+
+  "GrandFatherLetterCombat10": "Postavil ses nebezpečím, která si jen málokterý farmář dokáže představit.^Tato vůně vždy přitahovala ty nejzvědavější příšery.^Používal jsem ji jen tehdy, když jsem chtěl opravdu prověřit své schopnosti.^Teď je, myslím, řada na tobě.^^Hodně štěstí!^^- Dědeček"
+}

@@ -1,0 +1,25 @@
+//Italian Translation
+//it.json
+{
+  "GrandFatherLetter01": "@,^Mio caro nipote, spero che tu sia venuto nella mia vecchia fattoria con buone intenzioni.^E, naturalmente, per farti nuovi amici. Se seguirai le mie orme, potrai vivere una splendida vita qui nella valle.^Ma non pensare che mi sia dimenticato di te. Ti ho lasciato alcuni regali per aiutarti, perché la vita in campagna non è facile!^Anche alcuni dei miei più cari amici ti daranno una mano... naturalmente, se saprai conquistare la loro amicizia.^Goditi il primo regalo del tuo nonno!^Uno scrigno pieno di tesori!^^- Nonno.",
+
+  "GrandFatherLetterFarming01": "Ho saputo che i tuoi primi raccolti stanno crescendo molto bene.^Ho conservato un po' di questo fertilizzante per quando avresti iniziato a conoscere la terra.^Spero che renda il tuo prossimo raccolto ancora migliore.^^Un buon contadino sa che la pazienza porta sempre i suoi frutti.^^- Nonno",
+
+  "GrandFatherLetterFarming10": "Sei diventato un vero maestro dell'agricoltura.^Conservavo questo fertilizzante speciale per i raccolti di cui andavo più fiero.^Ora appartiene a te.^Continua a prenderti cura della fattoria con lo stesso amore che hai dedicato a ogni seme.^^- Nonno",
+
+  "GrandFatherLetterMining01": "Le miniere possono essere un luogo difficile, ma chi lavora con impegno trova sempre la propria strada.^Nel mio laboratorio non mancava mai il carbone, così ne ho messo da parte un po' per te.^Sono certo che ti sarà utile.^Fai attenzione laggiù.^^- Nonno",
+
+  "GrandFatherLetterMining10": "Pochi riescono a padroneggiare le profondità delle miniere come hai fatto tu.^Ho trovato questa polvere magica tra i miei vecchi attrezzi.^Usala con saggezza. A volte risparmiare tempo vale quanto trovare un tesoro.^Sono davvero orgoglioso di te.^^- Nonno",
+
+  "GrandFatherLetterForaging01": "Imparare a osservare la natura è uno dei più grandi talenti di un contadino.^Il muschio può sembrare qualcosa di semplice, ma chi osserva con attenzione scopre che anche le cose più piccole hanno un grande valore.^Spero che ti sia utile.^^- Nonno",
+
+  "GrandFatherLetterForaging10": "Hai imparato a comprendere la foresta come pochi sanno fare.^Ho custodito questo seme davvero speciale per molti anni.^Credo di aver finalmente trovato qualcuno degno di piantarlo.^Abbine cura.^^- Nonno",
+
+  "GrandFatherLetterFishing01": "Pescare non è mai stato soltanto prendere pesci.^Significa anche imparare ad aspettare il momento giusto.^Questo vecchio accessorio mi ha regalato tanti bei ricordi.^Spero che possa regalarne altrettanti anche a te.^Buona pesca!^^- Nonno",
+
+  "GrandFatherLetterFishing10": "I pesci ormai non hanno più molti segreti per te.^Questo galleggiante mi ha sempre aiutato a ottenere le catture migliori.^Sono certo che sarà in buone mani.^Che i fiumi continuino a essere generosi con te.^^- Nonno",
+
+  "GrandFatherLetterCombat01": "Non tutti i problemi si risolvono con una spada.^Quando volevo esplorare in pace, portavo sempre con me un po' di quest'olio.^Forse renderà anche il tuo viaggio un po' più tranquillo.^Abbi cura di te.^^- Nonno",
+
+  "GrandFatherLetterCombat10": "Hai affrontato pericoli che pochi contadini potrebbero persino immaginare.^Questo profumo attirava sempre i mostri più curiosi.^Lo conservavo solo per quando volevo davvero mettere alla prova le mie capacità.^Credo che ora sia arrivato il tuo momento.^^Buona fortuna!^^- Nonno"
+}
