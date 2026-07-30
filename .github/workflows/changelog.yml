@@ -66,6 +66,7 @@ jobs:
             -x "scripts/*" \
             -x ".github/*" \
             -x ".gitattributes" \
+            -x "manifest.json" \
             -x "cliff.toml" \
             -x "README.md" \
             -x "CHANGELOG.md" \
