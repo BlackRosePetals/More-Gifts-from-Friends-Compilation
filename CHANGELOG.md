@@ -202,6 +202,24 @@ Introduce two Mail Framework content packs: Gifts from Elliott and Gifts from Sa
 
 ### Outras alterações
 
+#### persist credentials and enable autostash
+
+└─ In .github/workflows/changelog.yml enable actions/checkout persist-credentials so the workflow can push/commit changes, and update git pull to use --rebase --autostash to automatically stash local changes before rebasing. These changes make the changelog job more robust when committing generated updates.
+
+
+#### Include manifest.json in changelog workflow
+
+Remove manifest.json from the exclude list in .github/workflows/changelog.yml so the file will be considered when generating release notes/assets. This change ensures manifest.json is included alongside other files during changelog/release processing.
+
+
+#### Exclude manifest.json in changelog workflow
+
+Add manifest.json to the exclusion list in .github/workflows/changelog.yml so changelog generation ignores changes to manifest.json and avoids noisy entries in release notes.
+
+
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
+
+
 #### Pull remote before auto-commit in workflows
 
 Update two GitHub Actions workflows to reduce commit conflicts: add a 'git pull --rebase origin main' step before the auto-commit in .github/workflows/changelog.yml and conditionally in .github/workflows/sync-readme-bbcode.yml. Also add a concurrency group (main-branch-auto-commit, cancel-in-progress: false) to the sync-readme-bbcode workflow to serialize runs.
@@ -223,7 +241,46 @@ Update README.md to include a note and link pointing to the mod's GitHub release
 
 
 
+### ✨ Novidades
+
+#### Translations added
+
+└─ Tcheco, Alemão, Espanhol, Frances, Hungaro, Italiano, Japones, Holandes, Polones, Portugues Europeu, Russo, Tailandes, Turco, Ucraniano, Vietnamita e Chines Simplificado
+
+
+#### English
+
+└─ Translation added
+
+
+#### Cartas em Portugues
+
+└─ Todas as cartas da versão atual do mod v0.2.0 adicionadas
+
+
+#### Presentes adicionados
+
+└─ Presentes para os niveis maximos das habilidades selecionados e adicionados
+
+
+
+### 🐛 Correções
+
+#### changelog workflow excludes
+
+└─ Adjust excluded paths in .github/workflows/changelog.yml: change ".gitattributes/*" to ".gitattributes" to match the file (not a directory), and replace "CHANGELOG.bbcode" with "README.bbcode" to exclude the correct file when generating changelogs.
+
+
+
 ### 📚 Documentação
+
+#### Update no README
+
+└─ Ajustes de tamanho nos titulos
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### Convert mod list to BBCode format
 
