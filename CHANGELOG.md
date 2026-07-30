@@ -323,6 +323,14 @@ Update README.md to include a note and link pointing to the mod's GitHub release
 #### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
 
 
+#### Exclude manifest.json from changelog
+
+Add manifest.json to the exclusion list in .github/workflows/changelog.yml so manifest updates don't generate changelog noise. Keeps changelog output focused on meaningful changes (scripts, docs, release files, etc.).
+
+
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
+
+
 #### Add --autostash to git pull in workflow
 
 Update .github/workflows/sync-readme-bbcode.yml: change `git pull --rebase origin main` to `git pull --rebase --autostash origin main`. This ensures local modifications are stashed/unstashed automatically during the rebase, preventing failures when the working directory has uncommitted changes and improving the reliability of the sync/commit step.
@@ -330,6 +338,9 @@ Update .github/workflows/sync-readme-bbcode.yml: change `git pull --rebase origi
 
 
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
