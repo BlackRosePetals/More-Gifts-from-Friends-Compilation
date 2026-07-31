@@ -1,13 +1,13 @@
 {
    "Name": "Gifts from Leah",
    "Author": "LoganDoidao",
-   "Version": "1.1.0",
-   "MinimumApiVersion": "4.1.0", 
-   "Description": "Receive letters and gifts from your friends. ",
+   "Version": "1.2.1",
+   "MinimumApiVersion": "4.0.0", 
+   "Description": "Receive letters and gifts from your Leah.",
    "UniqueID": "LoganDoidao.GiftsFromLeah",
    "UpdateKeys": [ "Nexus:10733" ], 
    "ContentPackFor": {
        "UniqueID": "DIGUS.MailFrameworkMod", 
-       "MinimumVersion": "1.6.0"
+       "MinimumVersion": "1.20.0"
 	}  
 }
