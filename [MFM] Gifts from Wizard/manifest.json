@@ -1,9 +1,9 @@
 {
    "Name": "Gifts from Wizard",
    "Author": "LoganDoidao",
-   "Version": "1.0.0",
-   "MinimumApiVersion": "4.1.0", 
-   "Description": "Receive letters and gifts from your friend Rasmodius. ",
+   "Version": "1.1.0",
+   "MinimumApiVersion": "3.7", 
+   "Description": "Receive letters and gifts from your friend Rasmodius.",
    "UniqueID": "LoganDoidao.GiftsFromWizard",
    "UpdateKeys": [ "Nexus:10724" ], 
    "ContentPackFor": {
