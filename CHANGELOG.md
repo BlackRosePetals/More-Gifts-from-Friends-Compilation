@@ -2,64 +2,79 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
-## v1.5.0 - 2026-07-25
+## v1.7.0 - 2026-07-31
 
 
 ### Outras alterações
 
-#### Rename mod folders and add Shane gifts mod
+#### Polish README formatting and links
 
-Standardize mod folder naming from '[MFM] {Name} Gifts' to '[MFM] Gifts from {Name}'. Add new 'Gifts from Shane' mod with multilingual support. Update manifest versions to semantic versioning (1.0 → 1.0.0) and increase MinimumApiVersion for Pierre, Robin, and Wizard mods. Normalize line endings in JSON files. Add root manifest.json for compilation support.
+Refactor README.md and README.bbcode: convert headings to Markdown-style, replace BBCode spoiler/list with a clean numbered list, update Ko‑Fi/Nexus/GitHub links to point to the repo root, and reorganize several sections for clarity. Includes minor wording and formatting tweaks.
 
-
-#### Add title for More Gifts From Friends Compilation
-
-
-#### Enhance changelog workflow with versioning and release
-
-Updated workflow to read version from manifest and create a tag if the version changes. Added steps for generating release notes and creating a GitHub release with a zip package.
+Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
 
 
-#### Update commit sorting and parser configurations
+#### Bump to Final Version
 
-Changed sort_commits from 'oldest' to 'newest' and updated commit_parsers to include a release group while removing style and build groups.
-
-
-#### Add files via upload
+Mod Finalizado, apos essa nenhuma alteração será incrementada, apenas correções caso necessario
 
 
-#### Move changelog workflow to .github/workflows
-
-Relocate changelog.yml to the standard .github/workflows directory where GitHub Actions workflows should be stored.
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
 
 
-#### Add GitHub Action to update CHANGELOG.md
+#### Exclude manifest.json from changelog
+
+Add manifest.json to the exclusion list in .github/workflows/changelog.yml so manifest updates don't generate changelog noise. Keeps changelog output focused on meaningful changes (scripts, docs, release files, etc.).
 
 
-#### Add changelog configuration in cliff.toml
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
 
 
-#### V 1.0.0 do mod Gifts from Sandy adicionada
+#### Add --autostash to git pull in workflow
 
-Todas as modificações e alterações foram salvas no repositório principal esta é somente uma copia para integrar a compilação.
-
-
-#### Initial commit
+Update .github/workflows/sync-readme-bbcode.yml: change `git pull --rebase origin main` to `git pull --rebase --autostash origin main`. This ensures local modifications are stashed/unstashed automatically during the rebase, preventing failures when the working directory has uncommitted changes and improving the reliability of the sync/commit step.
 
 
-
-### 📚 Documentação
-
-#### atualiza CHANGELOG.md [skip ci]
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
 
 
+#### persist credentials and enable autostash
+
+└─ In .github/workflows/changelog.yml enable actions/checkout persist-credentials so the workflow can push/commit changes, and update git pull to use --rebase --autostash to automatically stash local changes before rebasing. These changes make the changelog job more robust when committing generated updates.
 
 
+#### Include manifest.json in changelog workflow
 
-## v1.6.0 - 2026-07-25
+Remove manifest.json from the exclude list in .github/workflows/changelog.yml so the file will be considered when generating release notes/assets. This change ensures manifest.json is included alongside other files during changelog/release processing.
 
 
-### Outras alterações
+#### Exclude manifest.json in changelog workflow
+
+Add manifest.json to the exclusion list in .github/workflows/changelog.yml so changelog generation ignores changes to manifest.json and avoids noisy entries in release notes.
+
+
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
+
+
+#### Pull remote before auto-commit in workflows
+
+Update two GitHub Actions workflows to reduce commit conflicts: add a 'git pull --rebase origin main' step before the auto-commit in .github/workflows/changelog.yml and conditionally in .github/workflows/sync-readme-bbcode.yml. Also add a concurrency group (main-branch-auto-commit, cancel-in-progress: false) to the sync-readme-bbcode workflow to serialize runs.
+
+
+#### Add 'Gifts from Jodi' pack and CI/readme sync
+
+Adds a new "Gifts from Jodi" content pack (manifest, mail.json and extensive i18n translations). Updates README to include Jodi (v1.0.1) and bumps Grandpas to v0.2.0. Introduces CI workflows: changelog generation (git-cliff) and README <-> BBCode synchronization, plus scripts/md_bbcode_sync.py. Also adds cliff.toml, .gitattributes, and a top-level manifest.json for the compilation.
+
+
+#### Add grandfather skill letters and mail entries
+
+Add skill-specific grandfather letter mail entries (Farming, Mining, Foraging, Fishing, Combat for levels 1 and 10) with attachments and SkillConditions. Add corresponding i18n placeholders to default and pt-BR translation files, update README 'Updates' section, and bump manifest version to 0.2.0.
+
+
+#### Add GitHub source link to README
+
+Update README.md to include a note and link pointing to the mod's GitHub releases page so users can find the source code. This is a small documentation addition to make the repository location more visible.
+
 
 #### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation
 
@@ -111,234 +126,44 @@ Add three new Mail Framework Mod content packs providing progressive, friendship
 Introduce two Mail Framework content packs: Gifts from Elliott and Gifts from Sam. Adds manifests, mail.json definitions (IDs, attachments, friendship conditions, mail chains) and extensive i18n localization files (default plus cs,de,es,fr,hu,it,ja,ko,nl,pl,pt,ru,tr,uk,zh) for both packs to provide localized mail text and attachments.
 
 
+#### Rename mod folders and add Shane gifts mod
 
-### ✨ Novidades
+Standardize mod folder naming from '[MFM] {Name} Gifts' to '[MFM] Gifts from {Name}'. Add new 'Gifts from Shane' mod with multilingual support. Update manifest versions to semantic versioning (1.0 → 1.0.0) and increase MinimumApiVersion for Pierre, Robin, and Wizard mods. Normalize line endings in JSON files. Add root manifest.json for compilation support.
 
-#### Add grandfather letter mail content and translations
 
-└─ Add mail configuration and internationalization files for the grandfather's gift letter. Includes English and Brazilian Portuguese translations, along with mail attachments (chest and mixed seeds) for the gift system.
+#### Add title for More Gifts From Friends Compilation
 
 
+#### Enhance changelog workflow with versioning and release
 
-### 🏗 Versão
+Updated workflow to read version from manifest and create a tag if the version changes. Added steps for generating release notes and creating a GitHub release with a zip package.
 
-#### Bump version to 1.6.0
 
-└─ Update manifest version and fix indentation in mail.json attachment array.
+#### Update commit sorting and parser configurations
 
+Changed sort_commits from 'oldest' to 'newest' and updated commit_parsers to include a release group while removing style and build groups.
 
 
-### 🐛 Correções
+#### Add files via upload
 
-#### Use git-cliff action in changelog workflow
 
-└─ Replace inline git cliff command with orhun/git-cliff-action@v4. This improves maintainability by externalizing configuration to cliff.toml and using environment variables for output specification instead of CLI flags.
+#### Move changelog workflow to .github/workflows
 
+Relocate changelog.yml to the standard .github/workflows directory where GitHub Actions workflows should be stored.
 
 
-### 📚 Documentação
+#### Add GitHub Action to update CHANGELOG.md
 
-#### atualiza CHANGELOG.md [skip ci]
 
+#### Add changelog configuration in cliff.toml
 
-#### atualiza CHANGELOG.md [skip ci]
 
+#### V 1.0.0 do mod Gifts from Sandy adicionada
 
-#### atualiza CHANGELOG.md [skip ci]
+Todas as modificações e alterações foram salvas no repositório principal esta é somente uma copia para integrar a compilação.
 
 
-#### atualiza CHANGELOG.md [skip ci]
-
-
-#### atualiza CHANGELOG.md [skip ci]
-
-
-#### Expand README with English description & features
-
-└─ Rewrote and expanded README.md: added an English project description, features list, installation/update/compatibility notes, and compatibility warnings. Reformatted and updated the mod list with current versions, added NexusMods and Ko‑Fi links, and clarified what the compilation contains. Improves readability and guidance for installation and updates.
-
-
-#### atualiza CHANGELOG.md [skip ci]
-
-
-#### atualiza CHANGELOG.md [skip ci]
-
-
-#### atualiza CHANGELOG.md [skip ci]
-
-
-#### atualiza CHANGELOG.md [skip ci]
-
-
-#### atualiza CHANGELOG.md [skip ci]
-
-
-
-### 🔧 Manutenção
-
-#### Add GitHub as update source
-
-└─ Added GitHub as an update source for the mod while maintaining the existing Nexus update key. This allows users to receive updates directly from the GitHub repository.
-
-
-
-
-
-## v1.6.0-fix - 2026-07-25
-
-
-### 🐛 Correções
-
-#### Add Gifts from Grandpas mod support
-
-└─ Rename the Grandpa's mod directory to Grandpas (non-possessive naming), update README with the new compilation entry, restructure mail.json to array format, and remove empty UpdateKeys from manifest.json.
-
-
-
-
-
-## v1.7.0 - 2026-07-30
-
-
-### Outras alterações
-
-#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
-
-
-#### persist credentials and enable autostash
-
-└─ In .github/workflows/changelog.yml enable actions/checkout persist-credentials so the workflow can push/commit changes, and update git pull to use --rebase --autostash to automatically stash local changes before rebasing. These changes make the changelog job more robust when committing generated updates.
-
-
-#### Include manifest.json in changelog workflow
-
-Remove manifest.json from the exclude list in .github/workflows/changelog.yml so the file will be considered when generating release notes/assets. This change ensures manifest.json is included alongside other files during changelog/release processing.
-
-
-#### Exclude manifest.json in changelog workflow
-
-Add manifest.json to the exclusion list in .github/workflows/changelog.yml so changelog generation ignores changes to manifest.json and avoids noisy entries in release notes.
-
-
-#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
-
-
-#### Pull remote before auto-commit in workflows
-
-Update two GitHub Actions workflows to reduce commit conflicts: add a 'git pull --rebase origin main' step before the auto-commit in .github/workflows/changelog.yml and conditionally in .github/workflows/sync-readme-bbcode.yml. Also add a concurrency group (main-branch-auto-commit, cancel-in-progress: false) to the sync-readme-bbcode workflow to serialize runs.
-
-
-#### Add 'Gifts from Jodi' pack and CI/readme sync
-
-Adds a new "Gifts from Jodi" content pack (manifest, mail.json and extensive i18n translations). Updates README to include Jodi (v1.0.1) and bumps Grandpas to v0.2.0. Introduces CI workflows: changelog generation (git-cliff) and README <-> BBCode synchronization, plus scripts/md_bbcode_sync.py. Also adds cliff.toml, .gitattributes, and a top-level manifest.json for the compilation.
-
-
-#### Add grandfather skill letters and mail entries
-
-Add skill-specific grandfather letter mail entries (Farming, Mining, Foraging, Fishing, Combat for levels 1 and 10) with attachments and SkillConditions. Add corresponding i18n placeholders to default and pt-BR translation files, update README 'Updates' section, and bump manifest version to 0.2.0.
-
-
-#### Add GitHub source link to README
-
-Update README.md to include a note and link pointing to the mod's GitHub releases page so users can find the source code. This is a small documentation addition to make the repository location more visible.
-
-
-
-### ✨ Novidades
-
-#### Translations added
-
-└─ Tcheco, Alemão, Espanhol, Frances, Hungaro, Italiano, Japones, Holandes, Polones, Portugues Europeu, Russo, Tailandes, Turco, Ucraniano, Vietnamita e Chines Simplificado
-
-
-#### English
-
-└─ Translation added
-
-
-#### Cartas em Portugues
-
-└─ Todas as cartas da versão atual do mod v0.2.0 adicionadas
-
-
-#### Presentes adicionados
-
-└─ Presentes para os niveis maximos das habilidades selecionados e adicionados
-
-
-
-### 🏗 Versão
-
-#### v1.7.0
-
-└─ Nova versão do mod lançada com atualização do mod Gifts from Grandpa's e o mod Gifts from Jodi adidionado
-
-
-
-### 🐛 Correções
-
-#### changelog workflow excludes
-
-└─ Adjust excluded paths in .github/workflows/changelog.yml: change ".gitattributes/*" to ".gitattributes" to match the file (not a directory), and replace "CHANGELOG.bbcode" with "README.bbcode" to exclude the correct file when generating changelogs.
-
-
-
-### 📚 Documentação
-
-#### atualiza CHANGELOG.md [skip ci]
-
-
-#### Readme Atualizado
-
-└─ Notas da versão 1.7.0 adicionada ao arquivo
-
-
-#### Update no README
-
-└─ Ajustes de tamanho nos titulos
-
-
-#### atualiza CHANGELOG.md [skip ci]
-
-
-#### Convert mod list to BBCode format
-
-└─ Update the mod list in README to use BBCode list formatting ([list=1] and [*]) for better compatibility with forum display. Preserves all content while improving formatting for the target platform.
-
-
-
-### 🔧 Manutenção
-
-#### sincroniza README.md <-> README.bbcode [skip ci]
-
-
-
-
-
-## Unreleased
-
-
-### Outras alterações
-
-#### Bump to Final Version
-
-Mod Finalizado, apos essa nenhuma alteração será incrementada, apenas correções caso necessario
-
-
-#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
-
-
-#### Exclude manifest.json from changelog
-
-Add manifest.json to the exclusion list in .github/workflows/changelog.yml so manifest updates don't generate changelog noise. Keeps changelog output focused on meaningful changes (scripts, docs, release files, etc.).
-
-
-#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
-
-
-#### Add --autostash to git pull in workflow
-
-Update .github/workflows/sync-readme-bbcode.yml: change `git pull --rebase origin main` to `git pull --rebase --autostash origin main`. This ensures local modifications are stashed/unstashed automatically during the rebase, preventing failures when the working directory has uncommitted changes and improving the reliability of the sync/commit step.
+#### Initial commit
 
 
 
@@ -389,6 +214,44 @@ Update .github/workflows/sync-readme-bbcode.yml: change `git pull --rebase origi
 └─ New mod added Gifts from Marnie - Cozy Farm Gifts and Animal Care
 
 
+#### Translations added
+
+└─ Tcheco, Alemão, Espanhol, Frances, Hungaro, Italiano, Japones, Holandes, Polones, Portugues Europeu, Russo, Tailandes, Turco, Ucraniano, Vietnamita e Chines Simplificado
+
+
+#### English
+
+└─ Translation added
+
+
+#### Cartas em Portugues
+
+└─ Todas as cartas da versão atual do mod v0.2.0 adicionadas
+
+
+#### Presentes adicionados
+
+└─ Presentes para os niveis maximos das habilidades selecionados e adicionados
+
+
+#### Add grandfather letter mail content and translations
+
+└─ Add mail configuration and internationalization files for the grandfather's gift letter. Includes English and Brazilian Portuguese translations, along with mail attachments (chest and mixed seeds) for the gift system.
+
+
+
+### 🏗 Versão
+
+#### v1.7.0
+
+└─ Nova versão do mod lançada com atualização do mod Gifts from Grandpa's e o mod Gifts from Jodi adidionado
+
+
+#### Bump version to 1.6.0
+
+└─ Update manifest version and fix indentation in mail.json attachment array.
+
+
 
 ### 🐛 Correções
 
@@ -402,8 +265,26 @@ Update .github/workflows/sync-readme-bbcode.yml: change `git pull --rebase origi
 └─ Correção menor de letra para padronização
 
 
+#### changelog workflow excludes
+
+└─ Adjust excluded paths in .github/workflows/changelog.yml: change ".gitattributes/*" to ".gitattributes" to match the file (not a directory), and replace "CHANGELOG.bbcode" with "README.bbcode" to exclude the correct file when generating changelogs.
+
+
+#### Add Gifts from Grandpas mod support
+
+└─ Rename the Grandpa's mod directory to Grandpas (non-possessive naming), update README with the new compilation entry, restructure mail.json to array format, and remove empty UpdateKeys from manifest.json.
+
+
+#### Use git-cliff action in changelog workflow
+
+└─ Replace inline git cliff command with orhun/git-cliff-action@v4. This improves maintainability by externalizing configuration to cliff.toml and using environment variables for output specification instead of CLI flags.
+
+
 
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### README.bbcode Atualizado
 
@@ -417,6 +298,79 @@ Update .github/workflows/sync-readme-bbcode.yml: change `git pull --rebase origi
 
 
 #### atualiza CHANGELOG.md [skip ci]
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### Readme Atualizado
+
+└─ Notas da versão 1.7.0 adicionada ao arquivo
+
+
+#### Update no README
+
+└─ Ajustes de tamanho nos titulos
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### Convert mod list to BBCode format
+
+└─ Update the mod list in README to use BBCode list formatting ([list=1] and [*]) for better compatibility with forum display. Preserves all content while improving formatting for the target platform.
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### Expand README with English description & features
+
+└─ Rewrote and expanded README.md: added an English project description, features list, installation/update/compatibility notes, and compatibility warnings. Reformatted and updated the mod list with current versions, added NexusMods and Ko‑Fi links, and clarified what the compilation contains. Improves readability and guidance for installation and updates.
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+
+### 🔧 Manutenção
+
+#### sincroniza README.md <-> README.bbcode [skip ci]
+
+
+#### sincroniza README.md <-> README.bbcode [skip ci]
+
+
+#### Add GitHub as update source
+
+└─ Added GitHub as an update source for the mod while maintaining the existing Nexus update key. This allows users to receive updates directly from the GitHub repository.
 
 
 
