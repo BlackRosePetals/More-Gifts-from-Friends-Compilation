@@ -7,7 +7,7 @@
 				"Type": "BigCraftable",
 				"Name": "Chest",
 				"Stack": 1
-			},
+			}
 		],
     "Repeatable": false,
 		"FriendshipConditions": [
@@ -15,7 +15,7 @@
 				"NpcName": "Robin",
 				"FriendshipLevel": 1
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailRobin02",
@@ -25,7 +25,7 @@
 				"Type": "Object",
 				"Name": "Wood Fence",
 				"Stack": 10
-			},
+			}
 		],
     "Repeatable": false,
 		"FriendshipConditions": [
@@ -33,7 +33,7 @@
 				"NpcName": "Robin",
 				"FriendshipLevel": 2
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailRobin03",
@@ -43,7 +43,7 @@
 				"Type": "Object",
 				"Name": "Gate",
 				"Stack": 1
-			},
+			}
 		],
     "Repeatable": false,
 		"FriendshipConditions": [
@@ -51,7 +51,7 @@
 				"NpcName": "Robin",
 				"FriendshipLevel": 3
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailRobin04",
@@ -61,7 +61,7 @@
 				"Type": "Object",
 				"Name": "Hardwood",
 				"Stack": 20
-			},
+			}
 		],
     "Repeatable": false,
 		"FriendshipConditions": [
@@ -69,7 +69,7 @@
 				"NpcName": "Robin",
 				"FriendshipLevel": 4
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailRobin05",
@@ -79,7 +79,7 @@
 				"Type": "Object",
 				"Name": "Tree Fertilizer",
 				"Stack": 10
-			},
+			}
 		],
     "Repeatable": false,
 		"FriendshipConditions": [
@@ -87,7 +87,7 @@
 				"NpcName": "Robin",
 				"FriendshipLevel": 5
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailRobin06",
@@ -97,7 +97,7 @@
 				"Type": "Object",
 				"Name": "Driftwood",
 				"Stack": 50
-			},
+			}
 		],
     "Repeatable": false,
 		"FriendshipConditions": [
@@ -105,7 +105,7 @@
 				"NpcName": "Robin",
 				"FriendshipLevel": 6
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailRobin07",
@@ -116,7 +116,7 @@
 				"Type": "BigCraftable",
 				"Index": 20,
 				"Stack": 1
-			},
+			}
 		],
     "Repeatable": false,
 		"FriendshipConditions": [
@@ -124,7 +124,7 @@
 				"NpcName": "Robin",
 				"FriendshipLevel": 7
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailRobin08",
@@ -134,7 +134,7 @@
 				"Type": "BigCraftable",
 				"Name": "Cheese Press",
 				"Stack": 1
-			},
+			}
 		],
     "Repeatable": false,
 		"FriendshipConditions": [
@@ -142,7 +142,7 @@
 				"NpcName": "Robin",
 				"FriendshipLevel": 8
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailRobin09",
@@ -153,7 +153,7 @@
 				"Type": "BigCraftable",
 				"Index": 208,
 				"Stack": 1
-			},
+			}
 		],
     "Repeatable": false,
 		"FriendshipConditions": [
@@ -161,7 +161,7 @@
 				"NpcName": "Robin",
 				"FriendshipLevel": 9
 			}
-		],
+		]
 	}, 
 	{
 		"Id": "MailRobin10",
@@ -172,7 +172,7 @@
 				"Type": "BigCraftable",
 				"Index":  211,
 				"Stack": 1
-			},
+			}
 		],
     "Repeatable": false,
 		"FriendshipConditions": [
@@ -180,8 +180,7 @@
 				"NpcName": "Robin",
 				"FriendshipLevel": 10
 			}
-		],
-	}, 
-		
+		]
+	}
 ]
  
