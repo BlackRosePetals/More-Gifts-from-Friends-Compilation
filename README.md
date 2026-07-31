@@ -1,4 +1,4 @@
-# Gifts From Friends Compilation v1.7.0
+###### Gifts From Friends Compilation
 
 A compilation of all my mods together to make the installation process easier and faster.
 
@@ -21,7 +21,10 @@ Gifts range from seeds to machines, depending on your new friend and the level o
 Each one offers a unique selection of gifts!
 Repeatable letters and much more!
 
-[b][size=4]✨ Features[/size][/b]
+But don't go thinking your spouse has forgotten you.
+Their gifts will also come with this compilation.
+
+**[size=4]✨ Features[/size]**
 
 ✔ Unique gifts for every friendship level
 ✔ Character themed rewards
@@ -32,41 +35,42 @@ Repeatable letters and much more!
 ✔ Compatible with existing saves
 
 
-# Contendo os Mods
+###### Containing the Mods
 [spoiler]
 [list=1]
-[*] v1.0.1 - Gifts from Abigail
-[*] v1.0.2 - Gifts from Alex
-[*] v1.0.0 - Gifts from Caroline
-[*] v1.0.2 - Gifts from Clint
-[*] v1.0.1 - Gifts from Demetrius
-[*] v1.1.1 - Gifts from Dwarf
-[*] v1.0.0 - Gifts from Elliott
-[*] v1.2.0 - Gifts from Emilly
-[*] v1.2.0 - Gifts from Evelyn
-[*] v1.0.2 - Gifts from George
-[*] v0.2.0 - Gifts from Grandpas [Compilation Exclusive Updated]
-[*] v1.0.0 - Gifts from Gus
-[*] v1.0.0 - Gifts from Haley
-[*] v1.0.0 - Gifts from Harvey
-[*] v1.2.0 - Gifts from Jas
-[*] v1.0.1 - Gifts from Jodi
-[*] v1.0.1 - Gifts from Krobus
-[*] v1.1.0 - Gifts from Leah
-[*] v1.4.0 - Gifts from Lewis
-[*] v1.0.0 - Gifts from Linus
-[*] v1.1.0 - Gifts from Marlon
-[*] v1.1.1 - Gifts from Pam
-[*] v1.0.0 - Gifts from Pierre
-[*] v1.0.0 - Gifts from Robin
-[*] v1.0.1 - Gifts from Sam
-[*] v1.0.2 - Gifts from Sandy
-[*] v1.0.1 - Gifts from Sebastian
-[*] v1.0.2 - Gifts from Shane
-[*] v1.3.0 - Gifts from Vincent
-[*] v1.0.1 - Gifts from Willy
-[*] v1.0.0 - Gifts from Wizard
-[/list]
+-  v1.0.1 - Gifts from Abigail - Spooky Mail and Cave Loot from a Goth Girl
+-  v1.0.2 - Gifts from Alex - Meals and Motivation for Hard Work
+-  v1.2.0 - Gifts from Caroline - Teas and Gardening
+-  v1.0.2 - Gifts from Clint - Forged Through Friendship
+-  v1.0.1 - Gifts from Demetrius - Field Research Deliveries
+-  v1.1.1 - Gifts from Dwarf - Treasures of the Deep
+-  v1.0.0 - Gifts from Elliott - A Writers Keepsakes
+-  v1.2.0 - Gifts from Emilly - Spiritual Vibes and Handmade Styles
+-  v1.2.0 - Gifts from Evelyn - A Garden of Memories
+-  v1.0.2 - Gifts from George - A Rough Kindness
+-  v1.0.0 - Gifts from Grandpas [Compilation Exclusive]
+-  v1.0.0 - Gifts from Gus - Bar Talk and Homemade Food
+-  v1.0.0 - Gifts from Haley - Flowers Sunshine and Sweet Moments
+-  v1.0.0 - Gifts from Harvey - A Doctors Care
+-  v1.2.0 - Gifts from Jas - Cute Letters and Nature Gifts
+-  v1.0.1 - Gifts from Jodi - Homemade Family Meals
+-  v1.0.1 - Gifts from Krobus - A Gentle Shadow of the Sewers
+-  v1.2.1 - Gifts from Leah - Nature Gifts and Inspired Art
+-  v1.4.0 - Gifts from Lewis - Mayors Luxuries
+-  v1.1.0 - Gifts from Linus - Simple Living and Nature's Gifts
+-  v1.2.1 - Gifts from Marlon - Adventurer Gear and Dungeon Supplies
+-  v1.2.0 - Gifts from Marnie - Cozy Farm Gifts and Animal Care
+-  v1.1.1 - Gifts from Pam - Roadside Finds Useful Tools
+-  v1.1.0 - Gifts from Pierre - Fresh Seeds and Farm Supplies
+-  v1.1.0 - Gifts from Robin - Crafts and Carpentry
+-  v1.0.1 - Gifts from Sam - Friendship Mixtape
+-  v1.0.2 - Gifts from Sandy - Oasis Supplies
+-  v1.0.1 - Gifts from Sebastian - Hello... Farmer
+-  v1.0.2 - Gifts from Shane - One Letter at a Time
+-  v1.3.0 - Gifts from Vincent - Playful Letters and Random Gifts
+-  v1.0.1 - Gifts from Willy - Fisherman's Tales and Fishing Gear
+-  v1.1.0 - Gifts from Wizard - Arcane Gifts and Mystical Items
+-  v1.1.1 - Gifts from Your Beloved
 [/spoiler]
 
 [line]
@@ -75,7 +79,7 @@ All these mods are tested and fully functional. They can be downloaded one by on
 
 Follow the standard installation steps of your preferred mod manager.
 
-For updates, I recommend removing the mod(s) that will be updated.
+For updates, I recommend removing the mod(s) that will be updated. (Deleting the "[MFM] Gifts from Friends Compilation" folder from the installation folder removes all the mods at once.)
 
 If you already use any of these mods, it is very important that you remove them before installing this package. (Some internal files have been modified and may cause conflicts and errors, or even prevent the game from running normally).
 
@@ -85,16 +89,16 @@ The game should work normally on any platform that supports mods, since mobile i
 
 [line]
 
-💬 Feel free to leave comments, suggestions, or emotional support.
+[size=3]💬 Feel free to leave comments, suggestions, or emotional support.
 Don't forget to ⭐ Endorse ⭐ the mods you like! It costs nothing, takes two seconds, but it significantly boosts visibility. And it makes a modder very happy.
 Plus, it motivates me to keep updating and creating more content. 👍🏼
-Seriously. Do it. 😄
+[/size]###### Seriously. Do it.😄
 
-💖 Want to do more?
-Consider buying me a [b][url=https://ko-fi.com/logandoidao][size=4]Ko-Fi[/size][/url][/b] ☕
+[size=3]💖 Want to do more?[/size]
+Consider buying me a **[[size=4]Ko-Fi[/size]](https://ko-fi.com/logandoidao)** ☕
 
-📦 For more of my mods:
-[url=https://www.nexusmods.com/profile/LoganDoidao989][b][size=4]Click Here![/size][/b][/url]
+[size=3]📦 For more of my mods:[/size]
+[**[size=4]Click Here![/size]**](https://www.nexusmods.com/profile/LoganDoidao989)
 
-Source code of this mod is avaliable on [url=https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation/releases][b][size=4]GitHub[/size][/b][/url]
+[size=3]Source code of this mod is avaliable on[/size] [**[size=4]GitHub[/size]**](https://github.com/Mods-Stardew-Valley/Gifts-from-Friends-Compilation/releases)
 
