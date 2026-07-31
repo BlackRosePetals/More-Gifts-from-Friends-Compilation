@@ -1,0 +1,24 @@
+//French Translation
+//fr.json
+
+{
+  "MailMarnie01": "Bonjour @, ^Je suis ravie que tu te sois installé dans la vallée !^Je suis passée te laisser un peu de miel et quelques pousses d'herbe pour t'aider dans ta ferme.^Les animaux adorent avoir un beau pâturage verdoyant où se promener.^Prends bien soin d'eux et ils prendront soin de toi en retour !^^^ - Marnie",
+
+  "MailMarnie02": "Bonjour @ !^Mes poules pondent tellement d'œufs ces derniers temps que j'ai décidé d'en partager quelques-uns avec toi.^Je t'envoie un œuf blanc et un œuf brun.^Qui sait, c'est peut-être le début de ton propre poulailler !^^^ - Marnie",
+
+  "MailMarnie03": "Bonjour fermier !^Je pensais à toi en rangeant quelques affaires ici au ranch.^Je t'envoie une Machine à Mayonnaise ainsi que quelques pousses d'herbe supplémentaires.^Une bonne alimentation fait toute la différence pour élever des animaux heureux !^^^ - Marnie",
+
+  "MailMarnie04": "Bonjour mon ami !^Regarde-moi ces énormes œufs !^Mes poules sont très heureuses ces derniers temps et me récompensent avec une excellente production.^J'ai trouvé normal d'en partager quelques-uns avec toi.^^^ - Marnie",
+
+  "MailMarnie05": "Bonjour @ !^Rien de meilleur qu'un verre de lait frais accompagné d'un peu de miel.^Je t'en envoie un peu de chaque pour égayer ta journée.^Travailler à la ferme ouvre l'appétit, n'est-ce pas ?^^^ - Marnie",
+
+  "MailMarnie06": "Bonjour fermier !^J'ai ramassé un œuf de canard ce matin et j'ai pensé à toi.^Je t'envoie aussi une Presse à Fromage.^Quand tu commenceras à produire du lait en grande quantité, tu seras heureux de l'avoir !^^^ - Marnie",
+
+  "MailMarnie07": "Bonjour @ !^Les vaches de mon ranch produisent un excellent lait et mes moutons n'arrêtent pas de donner de la laine.^Je t'en envoie un peu de chaque.^Regarde comme cette laine est douce !^^^ - Marnie",
+
+  "MailMarnie08": "Bonjour mon ami !^Je t'envoie un peu de lait de chèvre ainsi qu'un Métier à Tisser.^Avec un peu de laine et de patience, tu pourras fabriquer de très beaux tissus.^Je suis certaine que tu en feras bon usage.^^^ - Marnie",
+
+  "MailMarnie09": "Bonjour @ !^Les jours froids approchent, alors j'ai décidé de t'envoyer un Chauffage pour tes animaux.^J'ai aussi trouvé une magnifique plume de canard ce matin et obtenu du lait de chèvre d'excellente qualité.^Je suis certaine que tes animaux apprécieront cette chaleur supplémentaire !^^^ - Marnie",
+
+  "MailMarnie10": "Mon ami @,^Tu as parcouru beaucoup de chemin depuis ton arrivée dans la vallée.^Je t'envoie un Auto-Ramasseur pour te faciliter la vie, ainsi qu'une truffe et une patte de lapin que j'ai trouvées par ici.^Continue à bien prendre soin de tes animaux et ils récompenseront toujours tes efforts !^^^ - Marnie"
+}

@@ -1,0 +1,24 @@
+//Polish Translation
+//pl.json
+
+{
+  "MailMarnie01": "Cześć @, ^Bardzo się cieszę, że przeprowadziłeś się do doliny!^Przyniosłam ci trochę miodu i kilka sadzonek trawy, żeby pomóc ci na farmie.^Zwierzęta uwielbiają spacerować po zielonych pastwiskach.^Dbaj o nie dobrze, a one odwdzięczą się tym samym!^^^ - Marnie",
+
+  "MailMarnie02": "Cześć @!^Moje kury znoszą ostatnio tyle jajek, że postanowiłam podzielić się nimi z tobą.^Wysyłam ci jedno białe i jedno brązowe jajko.^Kto wie, może to początek twojego własnego kurnika!^^^ - Marnie",
+
+  "MailMarnie03": "Witaj, farmerze!^Pomyślałam o tobie, gdy porządkowałam kilka rzeczy na ranczu.^Wysyłam ci Maszynę do Majonezu i kilka dodatkowych sadzonek trawy.^Dobre pożywienie ma ogromne znaczenie dla szczęśliwych zwierząt!^^^ - Marnie",
+
+  "MailMarnie04": "Cześć, mój przyjacielu!^Spójrz tylko na te ogromne jajka!^Moje kury są ostatnio bardzo szczęśliwe i odwdzięczają się doskonałą produkcją.^Pomyślałam, że warto podzielić się nimi również z tobą.^^^ - Marnie",
+
+  "MailMarnie05": "Dzień dobry @!^Nie ma nic lepszego niż szklanka świeżego mleka z odrobiną miodu.^Wysyłam ci trochę jednego i drugiego, żeby umilić ci dzień.^Praca na farmie potrafi zaostrzyć apetyt, prawda?^^^ - Marnie",
+
+  "MailMarnie06": "Witaj, farmerze!^Dziś rano zdobyłam kacze jajko i od razu pomyślałam o tobie.^Przesyłam ci także Prasę do Sera.^Gdy zaczniesz produkować większe ilości mleka, na pewno ją docenisz!^^^ - Marnie",
+
+  "MailMarnie07": "Cześć @!^Krowy na moim ranczu dają znakomite mleko, a owce nie przestają produkować wełny.^Wysyłam ci trochę jednego i drugiego.^Zobacz tylko, jaka miękka jest ta wełna!^^^ - Marnie",
+
+  "MailMarnie08": "Dzień dobry, mój przyjacielu!^Wysyłam ci trochę koziego mleka i Krosno.^Przy odrobinie wełny i cierpliwości możesz wytwarzać świetne tkaniny.^Jestem pewna, że dobrze je wykorzystasz.^^^ - Marnie",
+
+  "MailMarnie09": "Cześć @!^Zbliżają się chłodne dni, więc postanowiłam wysłać ci Grzejnik dla twoich zwierząt.^Dziś rano znalazłam też piękne kacze pióro i zdobyłam kozie mleko doskonałej jakości.^Jestem pewna, że twoje zwierzęta docenią dodatkowe ciepło!^^^ - Marnie",
+
+  "MailMarnie10": "Mój przyjacielu @,^Przeszedłeś długą drogę od czasu przeprowadzki do doliny.^Wysyłam ci Automatyczny Zbieracz, aby trochę ułatwić ci pracę, a także truflę i króliczą łapkę, które znalazłam w okolicy.^Dbaj dalej o swoje zwierzęta, a one zawsze odwdzięczą się za twój trud!^^^ - Marnie"
+}

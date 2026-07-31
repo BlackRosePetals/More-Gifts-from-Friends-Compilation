@@ -1,0 +1,146 @@
+[
+
+	{	"Id":"ResetMarnie",
+		"AutoOpen": true,
+	    "MailNotReceived": ["ResetMarnie"],
+	   
+	    "MailReceivedToRemove": [
+			"MailMarnie01",
+			"MailMarnie02",
+			"MailMarnie03",
+			"MailMarnie04",
+			"MailMarnie05",
+			"MailMarnie06",
+			"MailMarnie07",
+			"MailMarnie08",
+			"MailMarnie09",
+			"MailMarnie10"
+		],
+	},
+
+	{
+		"Id": "MailMarnie01",
+		"Text": "MailMarnie01",
+		"Attachments": [
+			{ "Type": "Object",	"Name": "Honey", "Stack": 1 },
+			{ "Type": "Object",	"Name": "Grass Starter", "Stack": 10 },
+			
+		],
+
+		"FriendshipConditions": [ { "NpcName": "Marnie", "FriendshipLevel": 1 }	],
+		 
+	},
+	
+	{
+		"Id": "MailMarnie02",
+		"Text": "MailMarnie02",
+		"Attachments": [
+			{ "Type": "Object", "Index": "176",	"Stack": 1 },
+			{ "Type": "Object", "Index": "180",	"Stack": 1 },
+		],
+
+		"FriendshipConditions": [ { "NpcName": "Marnie", "FriendshipLevel": 2 }	],
+		"MailReceived": ["MailMarnie01"],
+	}, 
+
+	{
+		"Id": "MailMarnie03",
+		"Text": "MailMarnie03",
+		"Attachments": [
+			{ "Type": "Object",	"Name": "Grass Starter", "Stack": 5 },
+			{ "Type": "BigCraftable", "Name": "Mayonnaise Machine",	"Stack": 1 },
+			
+		],
+
+		"FriendshipConditions": [ { "NpcName": "Marnie", "FriendshipLevel": 3 }	],
+		"MailReceived": ["MailMarnie02"],
+	}, 
+
+	{
+		"Id": "MailMarnie04",
+		"Text": "MailMarnie04",
+		"Attachments": [
+			{ "Type": "Object", "Index": "174",	"Stack": 1 },
+			{ "Type": "Object", "Index": "182",	"Stack": 1 },
+		],
+
+		"FriendshipConditions": [ {	"NpcName": "Marnie", "FriendshipLevel": 4 }	],
+		"MailReceived": ["MailMarnie03"],
+	}, 
+
+	{
+		"Id": "MailMarnie05",
+		"Text": "MailMarnie05",
+		"Attachments": [
+		{ "Type": "Object",	"Name": "Honey", "Stack": 1 },
+		{ "Type": "Object",	"Name": "Milk",	"Stack": 1 },
+		],
+
+		"FriendshipConditions": [ {	"NpcName": "Marnie", "FriendshipLevel": 5 }	],
+		"MailReceived": ["MailMarnie04"],
+	}, 
+
+	{
+		"Id": "MailMarnie06",
+		"Text": "MailMarnie06",
+		"Attachments": [
+			{ "Type": "Object",	"Name": "Duck Egg",	"Stack": 1	},	
+			{ "Type": "BigCraftable", "Name": "Cheese Press",	"Stack": 1 },
+		],
+
+		"FriendshipConditions": [ {	"NpcName": "Marnie", "FriendshipLevel": 6 }	],
+		"MailReceived": ["MailMarnie05"],
+	}, 
+	
+	{
+		"Id": "MailMarnie07",
+		"Text": "MailMarnie07",
+		"Attachments": [
+			{ "Type": "Object",	"Name": "Large Milk",	"Stack": 1 },
+			{ "Type": "Object",	"Name": "Wool",	"Stack": 1 },
+		],
+
+		"FriendshipConditions": [ { "NpcName": "Marnie", "FriendshipLevel": 7	} ],
+		"MailReceived": ["MailMarnie06"],
+	}, 
+
+	{
+		"Id": "MailMarnie08",
+		"Text": "MailMarnie08",
+		"Attachments": [
+			{ "Type": "Object",	"Name": "Goat Milk",	"Stack": 1 },
+			{ "Type": "BigCraftable", "Name": "Loom", "Stack": 1 },
+		],
+
+		"FriendshipConditions": [ { "NpcName": "Marnie", "FriendshipLevel": 8	} ],
+		"MailReceived": ["MailMarnie07"],
+	}, 
+
+	{
+		"Id": "MailMarnie09",
+		"Text": "MailMarnie09",
+		"Attachments": [
+			{ "Type": "Object",	"Name": "Duck Feather",	"Stack": 1 },	
+			{ "Type": "Object",	"Name": "L. Goat Milk", "Stack": 1 },
+			{ "Type": "BigCraftable", "Name": "Heater",	"Stack": 1 },
+		],
+
+		"FriendshipConditions": [ {	"NpcName": "Marnie", "FriendshipLevel": 9 }	],
+		"MailReceived": ["MailMarnie08"],
+	}, 
+	
+	{
+		"Id": "MailMarnie10",
+		"Text": "MailMarnie10",
+		"Attachments": [
+		
+			{ "Type": "Object",	"Name": "Rabbit's Foot", "Stack": 1 },
+			{ "Type": "Object",	"Name": "Truffle", "Stack": 1 },
+			{ "Type": "BigCraftable", "Name": "Auto-Grabber", "Stack": 1 },
+		],
+
+		"FriendshipConditions": [ {	"NpcName": "Marnie", "FriendshipLevel": 10 } ],
+		"MailReceived": ["MailMarnie09"],
+	}, 
+]
+ 

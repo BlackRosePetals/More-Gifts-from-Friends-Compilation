@@ -1,0 +1,13 @@
+{
+   "Name": "Gifts From Marnie",
+   "Author": "LoganDoidao",
+   "Version": "1.2.0",
+   "MinimumApiVersion": "4.0.0", 
+   "Description": "Receive letters and gifts from Marnie.",
+   "UniqueID": "LoganDoidao.GiftsFromMarnie",
+   "UpdateKeys": [ "Nexus:14048" ], 
+   "ContentPackFor": {
+       "UniqueID": "DIGUS.MailFrameworkMod", 
+       "MinimumVersion": "1.20.0"
+	}  
+}
