@@ -1,0 +1,64 @@
+//German Translation
+//de.json
+
+{
+	"Married_Abigail11": "Hey!^ Ich habe diesen Stein beim Erkunden gefunden und musste sofort an dich denken.^ Pass gut darauf auf, ja?^ — Abigail",
+	"Married_Abigail12": "Diesen Herbst habe ich einen riesigen Kürbis angebaut!^ Ich habe ihn dir mitgebracht, weil ich weiß, dass du ihn gut gebrauchen kannst.^ In Liebe — Abigail",
+	"Married_Abigail13": "Ich habe den Schokoladenkuchen gebacken, den du so liebst.^ Er wartet in der Küche auf dich.^ Alles Liebe — Abigail",
+	"Married_Abigail14": "Ich weiß, dass das Leben auf dem Hof nicht immer leicht ist,^ aber jedes Abenteuer mit dir ist es wert.^ Ich habe dir etwas mitgebracht, das dir neue Energie gibt.^ Ich liebe dich. — Abigail",
+
+	"Married_Emily11": "Ich habe meine Kristalle sortiert und diesen für dich ausgesucht.^ Ich finde, er passt perfekt zu deiner Energie!^ — Emily",
+	"Married_Emily12": "Heute habe ich das Schaf geschoren und die weichste Wolle für dich aufgehoben.^ Vielleicht mache ich eines Tages etwas Besonderes daraus!^ — Emily",
+	"Married_Emily13": "Ich habe den ganzen Abend an diesem Stoff gewebt.^ In jedem Faden stecken meine Gedanken an dich.^ Ich hoffe, er gefällt dir!^ Alles Liebe — Emily",
+	"Married_Emily14": "Manchmal schaue ich zu den Sternen^ und denke daran, wie viel bunter mein Leben geworden ist, seit du da bist.^ Dieser Kristall soll dich daran erinnern.^ Ich liebe dich so sehr. — Emily",
+
+	"Married_Haley11": "Ich habe diese Blume gesehen und sofort an dich gedacht.^ Man braucht doch keinen besonderen Anlass, um Blumen zu verschenken, oder?^ — Haley",
+	"Married_Haley12": "Ich habe dir eine Kokosnuss aus der Stadt mitgebracht!^ Vielleicht ist das etwas ungewöhnlich, aber ich wollte dir etwas Besonderes schenken.^ — Haley",
+	"Married_Haley13": "Ich habe einen Obstsalat für uns gemacht,^ aber deinen Anteil vorher zur Seite gestellt.^ Das hast du verdient!^ Alles Liebe — Haley",
+	"Married_Haley14": "Ich bin nicht besonders gut mit romantischen Worten,^ aber du bist das Beste, was mir je passiert ist.^ Ich habe diesen Kuchen gebacken, um dir das zu zeigen.^ Ich liebe dich. — Haley",
+
+	"Married_Leah11": "Ein schnelles Mittagessen, damit du bei der Arbeit das Essen nicht vergisst!^ — Leah",
+	"Married_Leah12": "Ich habe dieses Treibholzstück am Fluss gefunden.^ Es war viel zu schön, um es dort liegen zu lassen.^ Genau wie du.^ — Leah",
+	"Married_Leah13": "Heute habe ich Ziegenkäse gemacht.^ Wollen wir ihn später zusammen essen?^ Ich liebe diese einfachen Momente mit dir.^ Alles Liebe — Leah",
+	"Married_Leah14": "Jeder Sonnenuntergang erinnert mich daran, warum ich geblieben bin.^ Du bist mein Zuhause.^ Von ganzem Herzen — Leah",
+
+	"Married_Maru11": "Von meinen Experimenten ist eine Batterie übrig geblieben.^ Du kannst sie gebrauchen!^ — Maru",
+	"Married_Maru12": "Raffinierter Quarz ist unglaublich vielseitig.^ Ich dachte, du kannst ihn besser nutzen als ich.^ — Maru",
+	"Married_Maru13": "Ich habe dieses Tonikum nach den Forschungen meines Vaters hergestellt.^ Ich möchte, dass du immer gesund bleibst.^ Alles Liebe — Maru",
+	"Married_Maru14": "Ich habe mein Glück seit unserer Hochzeit statistisch ausgewertet.^ Die Ergebnisse sind nicht eindeutig, aber mein Herz kennt die Antwort.^ Ich habe das mit viel Sorgfalt für dich vorbereitet.^ Ich liebe dich. — Maru",
+
+	"Married_Penny11": "Heute habe ich Ahornsirup gemacht!^ Ich habe dir etwas mitgebracht, um deinen Tag zu versüßen.^ — Penny",
+	"Married_Penny12": "Muffins zu backen beruhigt mich immer.^ Ich habe deine Lieblingssorte gemacht!^ Alles Liebe — Penny",
+	"Married_Penny13": "Ich habe diese Suppe mit viel Sorgfalt gekocht.^ Ich hoffe, sie wärmt dich genauso, wie du mich wärmst.^ Alles Liebe — Penny",
+	"Married_Penny14": "Ich habe immer von einem einfachen Leben voller Liebe geträumt.^ Ich hätte nie gedacht, dass ich das alles mit dir finden würde.^ Dieses Gericht kommt von ganzem Herzen.^ Ich liebe dich. — Penny",
+
+	"Married_Alex11": "Hey!^ Vom Frühstück ist noch ein Ei übrig.^ Hier, du brauchst etwas Protein!^ — Alex",
+	"Married_Alex12": "Ich habe ein ordentliches Frühstück gemacht!^ Ein echter Sportler lässt keine Mahlzeit aus.^ Los, es wartet schon auf dich!^ — Alex",
+	"Married_Alex13": "Nach einem langen Tag habe ich ein besonderes Abendessen für dich vorbereitet.^ Du hast dir eine Pause verdient.^ Alles Liebe — Alex",
+	"Married_Alex14": "Früher habe ich nur an mich und meine Träume gedacht.^ Du hast mir gezeigt, dass das Leben zu zweit viel schöner ist.^ Trink einen Kaffee, mein Schatz.^ Ich liebe dich. — Alex",
+
+	"Married_Elliott11": "Ich habe diesen Granatapfel auf dem Markt gesehen und konnte nicht widerstehen.^ Solche Früchte sollte man genießen.^ — Elliott",
+	"Married_Elliott12": "Ein guter Wein ist wie eine gute Geschichte: Mit der Zeit wird er immer besser.^ Genau wie wir.^ — Elliott",
+	"Married_Elliott13": "Heute habe ich beim Schreiben Krabbenküchlein zubereitet.^ Wie immer warst du meine Inspiration.^ Alles Liebe — Elliott",
+	"Married_Elliott14": "In jedem Wort, das ich schreibe, steckt ein Teil von dir.^ Du bist die schönste Liebesgeschichte meines Lebens.^ In ewiger Liebe — Elliott",
+
+	"Married_Harvey11": "Guten Morgen!^ Eine Tasse Kaffee ist der beste Start in den Tag.^ Pass gut auf dich auf!^ — Harvey",
+	"Married_Harvey12": "Ich habe selbst eingelegtes Gemüse gemacht!^ Es ist nahrhaft und hält sich lange.^ Gesundheit geht vor.^ — Harvey",
+	"Married_Harvey13": "Ich habe dieses Tonikum mit besonderer Sorgfalt hergestellt.^ Ich möchte, dass du immer gesund und stark bleibst.^ Alles Liebe — Harvey",
+	"Married_Harvey14": "Als Arzt weiß ich, dass das Herz nur ein Muskel ist.^ Aber meines schlägt jedes Mal schneller, wenn du den Raum betrittst.^ Genieße diesen Wein, mein Schatz.^ Ich liebe dich. — Harvey",
+
+	"Married_Sam11": "Hey!^ Ich habe schon wieder zu viele Pfannkuchen gemacht.^ Das hier ist dein Anteil!^ — Sam",
+	"Married_Sam12": "Ein frischer Ahorn-Donut!^ Den habe ich heute Morgen extra für dich gemacht.^ — Sam",
+	"Married_Sam13": "Ich habe knusprige Rösti gemacht, genau so, wie du sie magst.^ Ich wollte dich heute überraschen!^ Alles Liebe — Sam",
+	"Married_Sam14": "Ich bin nicht besonders romantisch,^ aber du bist das Beste in meinem Leben.^ Ich habe eine besondere Pizza gemacht, um einen weiteren gemeinsamen Tag zu feiern.^ Ich liebe dich. — Sam",
+
+	"Married_Sebastian11": "Ich habe das draußen gefunden.^ Ich brauchte keinen Grund. Ich wollte es dir einfach schenken.^ — Sebastian",
+	"Married_Sebastian12": "Kaffee.^ Du wirst ihn brauchen.^ Vertrau mir.^ — Sebastian",
+	"Married_Sebastian13": "Heute Nachmittag habe ich Sashimi gemacht.^ Das beste Stück habe ich für dich aufgehoben.^ Verrate es niemandem.^ Alles Liebe — Sebastian",
+	"Married_Sebastian14": "Ich war noch nie gut darin, meine Gefühle in Worte zu fassen.^ Aber bei dir zu sein ist das Einzige, was für mich wirklich Sinn ergibt.^ Dieses Gericht sagt alles, was ich nicht aussprechen kann.^ Ich liebe dich. — Sebastian",
+
+	"Married_Shane11": "Aus dem Garten sind noch ein paar Chilischoten übrig.^ Hier.^ — Shane",
+	"Married_Shane12": "Ein kaltes Bier für dich.^ Das hast du dir nach einem langen Tag auf dem Hof verdient.^ — Shane",
+	"Married_Shane13": "Heute habe ich Jalapeño-Poppers gemacht.^ Ich weiß, dass du sie magst.^ So zeige ich dir, dass du mir wichtig bist.^ — Shane",
+	"Married_Shane14": "Du warst geduldig mit mir, selbst als ich es nicht verdient hatte.^ Das werde ich nie vergessen.^ Dieses Frühstück soll dir zeigen, dass ich versuche, für uns ein besserer Mensch zu werden.^ Alles Liebe — Shane"
+}

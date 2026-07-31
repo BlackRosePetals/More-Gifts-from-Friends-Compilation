@@ -1,0 +1,64 @@
+//Spanish Translation
+//es.json
+
+{
+	"Married_Abigail11": "¡Hola!^ Encontré esta piedra mientras exploraba y me acordé de ti.^ Guárdala bien, ¿vale?^ — Abigail",
+	"Married_Abigail12": "¡Este otoño cultivé una calabaza enorme!^ Te la traje porque sé que le sacarás buen provecho.^ Besos — Abigail",
+	"Married_Abigail13": "Preparé ese pastel de chocolate que tanto te gusta.^ Te está esperando en la cocina.^ Con cariño — Abigail",
+	"Married_Abigail14": "Sé que la vida en la granja puede ser dura,^ pero cada aventura a tu lado vale la pena.^ Te traje algo para darte energía.^ Te amo. — Abigail",
+
+	"Married_Emily11": "Estuve organizando mis cristales y aparté este para ti.^ ¡Creo que combina con tu energía!^ — Emily",
+	"Married_Emily12": "Esquilé a la oveja hoy y guardé la lana más suave para ti.^ ¡Quién sabe! Tal vez algún día haga algo especial con ella.^ — Emily",
+	"Married_Emily13": "Pasé la noche tejiendo esta tela.^ Cada hilo fue hecho pensando en ti.^ ¡Espero que te guste!^ Con amor — Emily",
+	"Married_Emily14": "A veces me quedo mirando las estrellas^ y pienso en lo mucho que se iluminó mi vida desde que llegaste.^ Este cristal es para recordártelo.^ Te quiero muchísimo. — Emily",
+
+	"Married_Haley11": "Vi esta flor y pensé en ti.^ No hace falta una razón para regalar flores, ¿verdad?^ — Haley",
+	"Married_Haley12": "¡Te traje un coco de la ciudad!^ Puede parecer un poco raro, pero quería sorprenderte con algo diferente.^ — Haley",
+	"Married_Haley13": "Preparé una ensalada de frutas para los dos,^ pero guardé tu porción antes de que desapareciera.^ ¡Te la mereces!^ Con cariño — Haley",
+	"Married_Haley14": "No soy muy buena con las palabras románticas,^ pero eres lo mejor que me ha pasado en la vida.^ Hice este pastel para demostrártelo.^ Te amo. — Haley",
+
+	"Married_Leah11": "¡Un almuerzo rápido para que no olvides comer mientras trabajas!^ — Leah",
+	"Married_Leah12": "Encontré este trozo de madera flotante junto al río.^ Era demasiado bonito para dejarlo allí.^ Igual que tú.^ — Leah",
+	"Married_Leah13": "Hoy hice queso de cabra.^ ¿Lo guardamos para comerlo juntos más tarde?^ Me encantan estos momentos sencillos contigo.^ Con cariño — Leah",
+	"Married_Leah14": "Cada atardecer que veo aquí me recuerda por qué decidí quedarme.^ Tú eres mi hogar.^ Con todo mi amor — Leah",
+
+	"Married_Maru11": "Me sobró una batería de mis experimentos.^ ¡Puedes quedártela!^ — Maru",
+	"Married_Maru12": "El cuarzo refinado es increíblemente versátil.^ Pensé que tú le sacarías mejor provecho que yo.^ — Maru",
+	"Married_Maru13": "Desarrollé este tónico basándome en las investigaciones de mi padre.^ Toma, quiero que siempre estés sano.^ Con cariño — Maru",
+	"Married_Maru14": "He analizado estadísticamente mi felicidad desde que nos casamos.^ Los resultados no son concluyentes, pero mi corazón ya conoce la respuesta.^ Preparé esto especialmente para ti.^ Te amo. — Maru",
+
+	"Married_Penny11": "¡Hoy hice sirope de arce!^ Te traje un poco para endulzarte el día.^ — Penny",
+	"Married_Penny12": "Hornear muffins siempre me relaja.^ ¡Preparé tus favoritos!^ Con cariño — Penny",
+	"Married_Penny13": "Preparé esta sopa con mucho cuidado.^ Espero que te reconforte tanto como tú reconfortas mi corazón.^ Con amor — Penny",
+	"Married_Penny14": "Crecí soñando con una vida sencilla y llena de amor.^ Nunca imaginé encontrar todo eso contigo.^ Preparé este plato con todo mi corazón.^ Te amo. — Penny",
+
+	"Married_Alex11": "¡Eh!^ Sobró un huevo del desayuno.^ Toma, ¡necesitas proteínas para aguantar el día!^ — Alex",
+	"Married_Alex12": "¡Preparé un desayuno completo!^ Un verdadero atleta nunca se salta una comida.^ ¡Vamos, te está esperando!^ — Alex",
+	"Married_Alex13": "Preparé una cena especial para ti después de un día largo.^ Te mereces descansar.^ Con cariño — Alex",
+	"Married_Alex14": "Antes solo pensaba en mí y en mis sueños.^ Tú me enseñaste que compartir la vida con alguien es mucho mejor.^ Tómate un café, mi amor.^ Te amo. — Alex",
+
+	"Married_Elliott11": "Encontré esta granada en el mercado y no pude resistirme.^ Frutas como esta merecen disfrutarse.^ — Elliott",
+	"Married_Elliott12": "Un buen vino es como una buena historia: mejora con el tiempo.^ Igual que nosotros.^ — Elliott",
+	"Married_Elliott13": "Preparé pastelitos de cangrejo mientras escribía hoy.^ Como siempre, tú fuiste mi inspiración.^ Con cariño — Elliott",
+	"Married_Elliott14": "Cada palabra que escribo lleva un pedacito de ti.^ Eres la mayor historia de amor que jamás contaré.^ Con todo mi amor — Elliott",
+
+	"Married_Harvey11": "¡Buenos días!^ Una taza de café es esencial para empezar bien el día.^ ¡Cuídate!^ — Harvey",
+	"Married_Harvey12": "¡Preparé pepinillos caseros!^ Son nutritivos y duran bastante tiempo.^ La salud es lo primero.^ — Harvey",
+	"Married_Harvey13": "Preparé este tónico con un cuidado especial.^ Quiero que siempre estés fuerte y saludable.^ Con cariño — Harvey",
+	"Married_Harvey14": "Como médico, sé que el corazón es solo un músculo.^ Pero el mío se acelera cada vez que entras en la habitación.^ Disfruta este vino, mi amor.^ Te amo. — Harvey",
+
+	"Married_Sam11": "¡Eh!^ Volví a hacer demasiados panqueques.^ ¡Aquí tienes tu parte!^ — Sam",
+	"Married_Sam12": "¡Un maple bar recién hecho!^ Lo preparé para ti esta mañana.^ — Sam",
+	"Married_Sam13": "Preparé unas patatas ralladas crujientes, justo como te gustan.^ ¡Quería darte una sorpresa hoy!^ Con cariño — Sam",
+	"Married_Sam14": "No soy precisamente el más romántico,^ pero eres lo mejor que hay en mi vida.^ Hice una pizza especial para celebrar otro día juntos.^ Te amo. — Sam",
+
+	"Married_Sebastian11": "Encontré esto mientras estaba fuera.^ No necesitaba una razón, solo quería dártelo.^ — Sebastian",
+	"Married_Sebastian12": "Café.^ Lo vas a necesitar.^ Confía en mí.^ — Sebastian",
+	"Married_Sebastian13": "Preparé sashimi esta tarde.^ Guardé el mejor trozo para ti.^ No se lo cuentes a nadie.^ Con cariño — Sebastian",
+	"Married_Sebastian14": "Nunca se me dieron bien las palabras.^ Pero estar contigo es lo único que realmente tiene sentido para mí.^ Este plato dice lo que no puedo expresar.^ Te amo. — Sebastian",
+
+	"Married_Shane11": "Me sobraron algunos pimientos picantes del huerto.^ Toma.^ — Shane",
+	"Married_Shane12": "Una cerveza bien fría para ti.^ Te la has ganado después de un día en la granja.^ — Shane",
+	"Married_Shane13": "Hoy preparé jalapeño poppers.^ Sé que te gustan.^ Es mi manera de decirte que me importas.^ — Shane",
+	"Married_Shane14": "Fuiste paciente conmigo incluso cuando no lo merecía.^ Nunca olvidaré eso.^ Te preparé este desayuno para demostrarte que estoy intentando ser una mejor persona, por nosotros.^ Con amor — Shane"
+}
