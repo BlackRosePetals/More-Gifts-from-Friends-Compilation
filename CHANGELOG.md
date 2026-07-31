@@ -320,6 +320,11 @@ Update README.md to include a note and link pointing to the mod's GitHub release
 
 ### Outras alterações
 
+#### Bump to Final Version
+
+Mod Finalizado, apos essa nenhuma alteração será incrementada, apenas correções caso necessario
+
+
 #### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/More-Gifts-from-Friends-Compilation
 
 
@@ -337,7 +342,76 @@ Update .github/workflows/sync-readme-bbcode.yml: change `git pull --rebase origi
 
 
 
+### ✨ Novidades
+
+#### Gifts from Your Beloved
+
+└─ Mod adicionado a compilação
+
+
+#### Linus Updated
+
+└─ Adicionado atualização do mod
+
+
+#### Pierre Updated
+
+└─ Atualizado mod do pierre
+
+
+#### Update no mod da Robin
+
+└─ Atualizado para a ultima versão do nexus
+
+
+#### Updated Wizard mod
+
+└─ Mod do mago atualizado com a versão mais recente disponivel no nexus
+
+
+#### Gifts from Caroline updated
+
+└─ Add localization files for Gifts from Caroline (de, es, fr, hu, it, ja, ko, ru, tr, zh). Update manifest: bump Version to 1.2.0, set MinimumApiVersion to "4.0.0", and refine Description to reference Caroline specifically. UniqueID, UpdateKeys and ContentPackFor remain unchanged.
+
+
+#### Updated Leah mod
+
+└─ Atualizei o mod da Leah com a versão nova
+
+
+#### Updated Marlon mod
+
+└─ Atualizei o mod do marlon com a versão mais recente disponivel no Nexus
+
+
+#### Marnie Gifts Added
+
+└─ New mod added Gifts from Marnie - Cozy Farm Gifts and Animal Care
+
+
+
+### 🐛 Correções
+
+#### Correção de avisos no codigo
+
+└─ Pequenos ajustes para evitar problemas futuros
+
+
+#### Correção de letra
+
+└─ Correção menor de letra para padronização
+
+
+
 ### 📚 Documentação
+
+#### README.bbcode Atualizado
+
+└─ Documento atualizado com a descrição mais recente para o mod no nexus
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
